@@ -1,0 +1,4676 @@
+1
+Pokemon: 1
+Bulbasaur
+grasspoison
+417/470
+ 
+(88%)
+444/470
+ 
+(94%)
+2
+Pokemon: 2
+Ivysaur
+grasspoison
+321/470
+ 
+(68%)
+369/470
+ 
+(78%)
+3
+Pokemon: 3
+Venusaur
+grasspoison
+377/470
+ 
+(80%)
+379/470
+ 
+(80%)
+4
+Pokemon: 4
+Charmander
+fire
+396/470
+ 
+(84%)
+380/470
+ 
+(80%)
+5
+Pokemon: 5
+Charmeleon
+fire
+314/470
+ 
+(66%)
+359/470
+ 
+(76%)
+6
+Pokemon: 6
+Charizard
+fireflying
+383/470
+ 
+(81%)
+403/470
+ 
+(85%)
+7
+Pokemon: 7
+Squirtle
+water
+272/470
+ 
+(57%)
+343/470
+ 
+(72%)
+8
+Pokemon: 8
+Wartortle
+water
+282/470
+ 
+(60%)
+307/470
+ 
+(65%)
+9
+Pokemon: 9
+Blastoise
+water
+321/470
+ 
+(68%)
+357/470
+ 
+(75%)
+10
+Pokemon: 10
+Caterpie
+bug
+335/470
+ 
+(71%)
+353/470
+ 
+(75%)
+11
+Pokemon: 11
+Metapod
+bug
+259/470
+ 
+(55%)
+304/470
+ 
+(64%)
+12
+Pokemon: 12
+Butterfree
+bugflying
+376/470
+ 
+(80%)
+383/470
+ 
+(81%)
+13
+Pokemon: 13
+Weedle
+bugpoison
+265/470
+ 
+(56%)
+300/470
+ 
+(63%)
+14
+Pokemon: 14
+Kakuna
+bugpoison
+210/470
+ 
+(44%)
+285/470
+ 
+(60%)
+15
+Pokemon: 15
+Beedrill
+bugpoison
+468/470
+ 
+(99%)
+350/470
+ 
+(74%)
+16
+Pokemon: 16
+Pidgey
+normalflying
+222/470
+ 
+(47%)
+280/470
+ 
+(59%)
+17
+Pokemon: 17
+Pidgeotto
+normalflying
+216/470
+ 
+(45%)
+283/470
+ 
+(60%)
+18
+Pokemon: 18
+Pidgeot
+normalflying
+234/470
+ 
+(49%)
+282/470
+ 
+(60%)
+19
+Pokemon: 19
+Rattata
+normal
+258/470
+ 
+(54%)
+299/470
+ 
+(63%)
+20
+Pokemon: 20
+Raticate
+normal
+297/470
+ 
+(63%)
+292/470
+ 
+(62%)
+21
+Pokemon: 21
+Spearow
+normalflying
+161/470
+ 
+(34%)
+215/470
+ 
+(45%)
+22
+Pokemon: 22
+Fearow
+normalflying
+223/470
+ 
+(47%)
+284/470
+ 
+(60%)
+23
+Pokemon: 23
+Ekans
+poison
+248/470
+ 
+(52%)
+339/470
+ 
+(72%)
+24
+Pokemon: 24
+Arbok
+poison
+315/470
+ 
+(67%)
+400/470
+ 
+(85%)
+25
+Pokemon: 25
+Pikachu
+electric
+470/470
+ 
+430/470
+ 
+(91%)
+26
+Pokemon: 26
+Raichu
+electric
+382/470
+ 
+(81%)
+374/470
+ 
+(79%)
+27
+Pokemon: 27
+Sandshrew
+ground
+335/470
+ 
+(71%)
+444/470
+ 
+(94%)
+28
+Pokemon: 28
+Sandslash
+ground
+258/470
+ 
+(54%)
+337/470
+ 
+(71%)
+29
+Pokemon: 29
+Nidoran♀
+poison
+187/470
+ 
+(39%)
+218/470
+ 
+(46%)
+30
+Pokemon: 30
+Nidorina
+poison
+155/470
+ 
+(32%)
+211/470
+ 
+(44%)
+31
+Pokemon: 31
+Nidoqueen
+poisonground
+186/470
+ 
+(39%)
+274/470
+ 
+(58%)
+32
+Pokemon: 32
+Nidoran♂
+poison
+214/470
+ 
+(45%)
+243/470
+ 
+(51%)
+33
+Pokemon: 33
+Nidorino
+poison
+183/470
+ 
+(38%)
+236/470
+ 
+(50%)
+34
+Pokemon: 34
+Nidoking
+poisonground
+285/470
+ 
+(60%)
+342/470
+ 
+(72%)
+35
+Pokemon: 35
+Clefairy
+fairy
+287/470
+ 
+(61%)
+246/470
+ 
+(52%)
+36
+Pokemon: 36
+Clefable
+fairy
+458/470
+ 
+(97%)
+265/470
+ 
+(56%)
+37
+Pokemon: 37
+Vulpix
+fire
+268/470
+ 
+(57%)
+291/470
+ 
+(61%)
+38
+Pokemon: 38
+Ninetales
+fire
+266/470
+ 
+(56%)
+327/470
+ 
+(69%)
+39
+Pokemon: 39
+Jigglypuff
+normalfairy
+295/470
+ 
+(62%)
+351/470
+ 
+(74%)
+40
+Pokemon: 40
+Wigglytuff
+normalfairy
+290/470
+ 
+(61%)
+275/470
+ 
+(58%)
+41
+Pokemon: 41
+Zubat
+poisonflying
+318/470
+ 
+(67%)
+317/470
+ 
+(67%)
+42
+Pokemon: 42
+Golbat
+poisonflying
+306/470
+ 
+(65%)
+305/470
+ 
+(64%)
+43
+Pokemon: 43
+Oddish
+grasspoison
+415/470
+ 
+(88%)
+460/470
+ 
+(97%)
+44
+Pokemon: 44
+Gloom
+grasspoison
+286/470
+ 
+(60%)
+226/470
+ 
+(48%)
+45
+Pokemon: 45
+Vileplume
+grasspoison
+347/470
+ 
+(73%)
+244/470
+ 
+(51%)
+46
+Pokemon: 46
+Paras
+buggrass
+345/470
+ 
+(73%)
+284/470
+ 
+(60%)
+47
+Pokemon: 47
+Parasect
+buggrass
+401/470
+ 
+(85%)
+324/470
+ 
+(68%)
+48
+Pokemon: 48
+Venonat
+bugpoison
+318/470
+ 
+(67%)
+319/470
+ 
+(67%)
+49
+Pokemon: 49
+Venomoth
+bugpoison
+252/470
+ 
+(53%)
+246/470
+ 
+(52%)
+50
+Pokemon: 50
+Diglett
+ground
+470/470
+ 
+470/470
+ 
+51
+Pokemon: 51
+Dugtrio
+ground
+243/470
+ 
+(51%)
+343/470
+ 
+(72%)
+52
+Pokemon: 52
+Meowth
+normal
+334/470
+ 
+(71%)
+355/470
+ 
+(75%)
+53
+Pokemon: 53
+Persian
+normal
+301/470
+ 
+(64%)
+353/470
+ 
+(75%)
+54
+Pokemon: 54
+Psyduck
+water
+317/470
+ 
+(67%)
+298/470
+ 
+(63%)
+55
+Pokemon: 55
+Golduck
+water
+220/470
+ 
+(46%)
+246/470
+ 
+(52%)
+56
+Pokemon: 56
+Mankey
+fighting
+188/470
+ 
+(40%)
+251/470
+ 
+(53%)
+57
+Pokemon: 57
+Primeape
+fighting
+233/470
+ 
+(49%)
+302/470
+ 
+(64%)
+58
+Pokemon: 58
+Growlithe
+fire
+225/470
+ 
+(47%)
+321/470
+ 
+(68%)
+59
+Pokemon: 59
+Arcanine
+fire
+265/470
+ 
+(56%)
+366/470
+ 
+(77%)
+60
+Pokemon: 60
+Poliwag
+water
+250/470
+ 
+(53%)
+299/470
+ 
+(63%)
+61
+Pokemon: 61
+Poliwhirl
+water
+195/470
+ 
+(41%)
+219/470
+ 
+(46%)
+62
+Pokemon: 62
+Poliwrath
+waterfighting
+206/470
+ 
+(43%)
+259/470
+ 
+(55%)
+63
+Pokemon: 63
+Abra
+psychic
+183/470
+ 
+(38%)
+224/470
+ 
+(47%)
+64
+Pokemon: 64
+Kadabra
+psychic
+205/470
+ 
+(43%)
+208/470
+ 
+(44%)
+65
+Pokemon: 65
+Alakazam
+psychic
+268/470
+ 
+(57%)
+285/470
+ 
+(60%)
+66
+Pokemon: 66
+Machop
+fighting
+172/470
+ 
+(36%)
+287/470
+ 
+(61%)
+67
+Pokemon: 67
+Machoke
+fighting
+155/470
+ 
+(32%)
+426/470
+ 
+(90%)
+68
+Pokemon: 68
+Machamp
+fighting
+211/470
+ 
+(44%)
+380/470
+ 
+(80%)
+69
+Pokemon: 69
+Bellsprout
+grasspoison
+263/470
+ 
+(55%)
+259/470
+ 
+(55%)
+70
+Pokemon: 70
+Weepinbell
+grasspoison
+208/470
+ 
+(44%)
+230/470
+ 
+(48%)
+71
+Pokemon: 71
+Victreebel
+grasspoison
+248/470
+ 
+(52%)
+217/470
+ 
+(46%)
+72
+Pokemon: 72
+Tentacool
+waterpoison
+204/470
+ 
+(43%)
+243/470
+ 
+(51%)
+73
+Pokemon: 73
+Tentacruel
+waterpoison
+227/470
+ 
+(48%)
+257/470
+ 
+(54%)
+74
+Pokemon: 74
+Geodude
+rockground
+193/470
+ 
+(41%)
+289/470
+ 
+(61%)
+75
+Pokemon: 75
+Graveler
+rockground
+182/470
+ 
+(38%)
+236/470
+ 
+(50%)
+76
+Pokemon: 76
+Golem
+rockground
+190/470
+ 
+(40%)
+274/470
+ 
+(58%)
+77
+Pokemon: 77
+Ponyta
+fire
+198/470
+ 
+(42%)
+327/470
+ 
+(69%)
+78
+Pokemon: 78
+Rapidash
+fire
+220/470
+ 
+(46%)
+333/470
+ 
+(70%)
+79
+Pokemon: 79
+Slowpoke
+waterpsychic
+267/470
+ 
+(56%)
+280/470
+ 
+(59%)
+80
+Pokemon: 80
+Slowbro
+waterpsychic
+259/470
+ 
+(55%)
+287/470
+ 
+(61%)
+81
+Pokemon: 81
+Magnemite
+steelelectric
+330/470
+ 
+(70%)
+294/470
+ 
+(62%)
+82
+Pokemon: 82
+Magneton
+steelelectric
+242/470
+ 
+(51%)
+204/470
+ 
+(43%)
+83
+Pokemon: 83
+Farfetch'd
+normalflying
+273/470
+ 
+(58%)
+284/470
+ 
+(60%)
+84
+Pokemon: 84
+Doduo
+normalflying
+217/470
+ 
+(46%)
+302/470
+ 
+(64%)
+85
+Pokemon: 85
+Dodrio
+normalflying
+195/470
+ 
+(41%)
+288/470
+ 
+(61%)
+86
+Pokemon: 86
+Seel
+water
+219/470
+ 
+(46%)
+244/470
+ 
+(51%)
+87
+Pokemon: 87
+Dewgong
+waterice
+228/470
+ 
+(48%)
+237/470
+ 
+(50%)
+88
+Pokemon: 88
+Grimer
+poison
+232/470
+ 
+(49%)
+217/470
+ 
+(46%)
+89
+Pokemon: 89
+Muk
+poison
+287/470
+ 
+(61%)
+271/470
+ 
+(57%)
+90
+Pokemon: 90
+Shellder
+water
+213/470
+ 
+(45%)
+222/470
+ 
+(47%)
+91
+Pokemon: 91
+Cloyster
+waterice
+170/470
+ 
+(36%)
+222/470
+ 
+(47%)
+92
+Pokemon: 92
+Gastly
+ghostpoison
+363/470
+ 
+(77%)
+326/470
+ 
+(69%)
+93
+Pokemon: 93
+Haunter
+ghostpoison
+327/470
+ 
+(69%)
+284/470
+ 
+(60%)
+94
+Pokemon: 94
+Gengar
+ghostpoison
+397/470
+ 
+(84%)
+346/470
+ 
+(73%)
+95
+Pokemon: 95
+Onix
+rockground
+224/470
+ 
+(47%)
+290/470
+ 
+(61%)
+96
+Pokemon: 96
+Drowzee
+psychic
+211/470
+ 
+(44%)
+220/470
+ 
+(46%)
+97
+Pokemon: 97
+Hypno
+psychic
+300/470
+ 
+(63%)
+344/470
+ 
+(73%)
+98
+Pokemon: 98
+Krabby
+water
+194/470
+ 
+(41%)
+267/470
+ 
+(56%)
+99
+Pokemon: 99
+Kingler
+water
+204/470
+ 
+(43%)
+273/470
+ 
+(58%)
+100
+Pokemon: 100
+Voltorb
+electric
+470/470
+ 
+470/470
+ 
+101
+Pokemon: 101
+Electrode
+electric
+338/470
+ 
+(71%)
+345/470
+ 
+(73%)
+102
+Pokemon: 102
+Exeggcute
+grasspsychic
+235/470
+ 
+(50%)
+247/470
+ 
+(52%)
+103
+Pokemon: 103
+Exeggutor
+grasspsychic
+203/470
+ 
+(43%)
+217/470
+ 
+(46%)
+104
+Pokemon: 104
+Cubone
+ground
+290/470
+ 
+(61%)
+259/470
+ 
+(55%)
+105
+Pokemon: 105
+Marowak
+ground
+247/470
+ 
+(52%)
+295/470
+ 
+(62%)
+106
+Pokemon: 106
+Hitmonlee
+fighting
+202/470
+ 
+(42%)
+291/470
+ 
+(61%)
+107
+Pokemon: 107
+Hitmonchan
+fighting
+196/470
+ 
+(41%)
+280/470
+ 
+(59%)
+108
+Pokemon: 108
+Lickitung
+normal
+267/470
+ 
+(56%)
+206/470
+ 
+(43%)
+109
+Pokemon: 109
+Koffing
+poison
+251/470
+ 
+(53%)
+243/470
+ 
+(51%)
+110
+Pokemon: 110
+Weezing
+poison
+233/470
+ 
+(49%)
+253/470
+ 
+(53%)
+111
+Pokemon: 111
+Rhyhorn
+groundrock
+171/470
+ 
+(36%)
+202/470
+ 
+(42%)
+112
+Pokemon: 112
+Rhydon
+groundrock
+132/470
+ 
+(28%)
+191/470
+ 
+(40%)
+113
+Pokemon: 113
+Chansey
+normal
+302/470
+ 
+(64%)
+227/470
+ 
+(48%)
+114
+Pokemon: 114
+Tangela
+grass
+246/470
+ 
+(52%)
+242/470
+ 
+(51%)
+115
+Pokemon: 115
+Kangaskhan
+normal
+166/470
+ 
+(35%)
+269/470
+ 
+(57%)
+116
+Pokemon: 116
+Horsea
+water
+206/470
+ 
+(43%)
+225/470
+ 
+(47%)
+117
+Pokemon: 117
+Seadra
+water
+142/470
+ 
+(30%)
+171/470
+ 
+(36%)
+118
+Pokemon: 118
+Goldeen
+water
+262/470
+ 
+(55%)
+188/470
+ 
+(40%)
+119
+Pokemon: 119
+Seaking
+water
+255/470
+ 
+(54%)
+196/470
+ 
+(41%)
+120
+Pokemon: 120
+Staryu
+water
+214/470
+ 
+(45%)
+208/470
+ 
+(44%)
+121
+Pokemon: 121
+Starmie
+waterpsychic
+270/470
+ 
+(57%)
+194/470
+ 
+(41%)
+122
+Pokemon: 122
+Mr. Mime
+psychicfairy
+402/470
+ 
+(85%)
+294/470
+ 
+(62%)
+123
+Pokemon: 123
+Scyther
+bugflying
+219/470
+ 
+(46%)
+258/470
+ 
+(54%)
+124
+Pokemon: 124
+Jynx
+icepsychic
+302/470
+ 
+(64%)
+322/470
+ 
+(68%)
+125
+Pokemon: 125
+Electabuzz
+electric
+196/470
+ 
+(41%)
+170/470
+ 
+(36%)
+126
+Pokemon: 126
+Magmar
+fire
+180/470
+ 
+(38%)
+163/470
+ 
+(34%)
+127
+Pokemon: 127
+Pinsir
+bug
+322/470
+ 
+(68%)
+275/470
+ 
+(58%)
+128
+Pokemon: 128
+Tauros
+normal
+210/470
+ 
+(44%)
+297/470
+ 
+(63%)
+129
+Pokemon: 129
+Magikarp
+water
+330/470
+ 
+(70%)
+304/470
+ 
+(64%)
+130
+Pokemon: 130
+Gyarados
+waterflying
+295/470
+ 
+(62%)
+364/470
+ 
+(77%)
+131
+Pokemon: 131
+Lapras
+waterice
+272/470
+ 
+(57%)
+365/470
+ 
+(77%)
+132
+Pokemon: 132
+Ditto
+normal
+442/470
+ 
+(94%)
+388/470
+ 
+(82%)
+133
+Pokemon: 133
+Eevee
+normal
+365/470
+ 
+(77%)
+445/470
+ 
+(94%)
+134
+Pokemon: 134
+Vaporeon
+water
+323/470
+ 
+(68%)
+300/470
+ 
+(63%)
+135
+Pokemon: 135
+Jolteon
+electric
+307/470
+ 
+(65%)
+278/470
+ 
+(59%)
+136
+Pokemon: 136
+Flareon
+fire
+301/470
+ 
+(64%)
+286/470
+ 
+(60%)
+137
+Pokemon: 137
+Porygon
+normal
+337/470
+ 
+(71%)
+249/470
+ 
+(52%)
+138
+Pokemon: 138
+Omanyte
+rockwater
+191/470
+ 
+(40%)
+190/470
+ 
+(40%)
+139
+Pokemon: 139
+Omastar
+rockwater
+283/470
+ 
+(60%)
+214/470
+ 
+(45%)
+140
+Pokemon: 140
+Kabuto
+rockwater
+243/470
+ 
+(51%)
+280/470
+ 
+(59%)
+141
+Pokemon: 141
+Kabutops
+rockwater
+170/470
+ 
+(36%)
+247/470
+ 
+(52%)
+142
+Pokemon: 142
+Aerodactyl
+rockflying
+213/470
+ 
+(45%)
+321/470
+ 
+(68%)
+143
+Pokemon: 143
+Snorlax
+normal
+352/470
+ 
+(74%)
+379/470
+ 
+(80%)
+144
+Pokemon: 144
+Articuno
+iceflying
+272/470
+ 
+(57%)
+194/470
+ 
+(41%)
+145
+Pokemon: 145
+Zapdos
+electricflying
+231/470
+ 
+(49%)
+162/470
+ 
+(34%)
+146
+Pokemon: 146
+Moltres
+fireflying
+285/470
+ 
+(60%)
+199/470
+ 
+(42%)
+147
+Pokemon: 147
+Dratini
+dragon
+256/470
+ 
+(54%)
+320/470
+ 
+(68%)
+148
+Pokemon: 148
+Dragonair
+dragon
+316/470
+ 
+(67%)
+330/470
+ 
+(70%)
+149
+Pokemon: 149
+Dragonite
+dragonflying
+287/470
+ 
+(61%)
+315/470
+ 
+(67%)
+150
+Pokemon: 150
+Mewtwo
+psychic
+257/470
+ 
+(54%)
+317/470
+ 
+(67%)
+151
+Pokemon: 151
+Mew
+psychic
+366/470
+ 
+(77%)
+470/470
+ 
+152
+Pokemon: 152
+Chikorita
+grass
+229/470
+ 
+(48%)
+295/470
+ 
+(62%)
+153
+Pokemon: 153
+Bayleef
+grass
+166/470
+ 
+(35%)
+225/470
+ 
+(47%)
+154
+Pokemon: 154
+Meganium
+grass
+254/470
+ 
+(54%)
+312/470
+ 
+(66%)
+155
+Pokemon: 155
+Cyndaquil
+fire
+250/470
+ 
+(53%)
+267/470
+ 
+(56%)
+156
+Pokemon: 156
+Quilava
+fire
+201/470
+ 
+(42%)
+223/470
+ 
+(47%)
+157
+Pokemon: 157
+Typhlosion
+fire
+272/470
+ 
+(57%)
+307/470
+ 
+(65%)
+158
+Pokemon: 158
+Totodile
+water
+180/470
+ 
+(38%)
+217/470
+ 
+(46%)
+159
+Pokemon: 159
+Croconaw
+water
+143/470
+ 
+(30%)
+209/470
+ 
+(44%)
+160
+Pokemon: 160
+Feraligatr
+water
+188/470
+ 
+(40%)
+304/470
+ 
+(64%)
+161
+Pokemon: 161
+Sentret
+normal
+207/470
+ 
+(44%)
+225/470
+ 
+(47%)
+162
+Pokemon: 162
+Furret
+normal
+318/470
+ 
+(67%)
+322/470
+ 
+(68%)
+163
+Pokemon: 163
+Hoothoot
+normalflying
+195/470
+ 
+(41%)
+217/470
+ 
+(46%)
+164
+Pokemon: 164
+Noctowl
+normalflying
+237/470
+ 
+(50%)
+237/470
+ 
+(50%)
+165
+Pokemon: 165
+Ledyba
+bugflying
+248/470
+ 
+(52%)
+155/470
+ 
+(32%)
+166
+Pokemon: 166
+Ledian
+bugflying
+222/470
+ 
+(47%)
+176/470
+ 
+(37%)
+167
+Pokemon: 167
+Spinarak
+bugpoison
+273/470
+ 
+(58%)
+206/470
+ 
+(43%)
+168
+Pokemon: 168
+Ariados
+bugpoison
+262/470
+ 
+(55%)
+249/470
+ 
+(52%)
+169
+Pokemon: 169
+Crobat
+poisonflying
+300/470
+ 
+(63%)
+295/470
+ 
+(62%)
+170
+Pokemon: 170
+Chinchou
+waterelectric
+456/470
+ 
+(97%)
+366/470
+ 
+(77%)
+171
+Pokemon: 171
+Lanturn
+waterelectric
+312/470
+ 
+(66%)
+219/470
+ 
+(46%)
+172
+Pokemon: 172
+Pichu
+electric
+257/470
+ 
+(54%)
+300/470
+ 
+(63%)
+173
+Pokemon: 173
+Cleffa
+fairy
+226/470
+ 
+(48%)
+385/470
+ 
+(81%)
+174
+Pokemon: 174
+Igglybuff
+normalfairy
+204/470
+ 
+(43%)
+234/470
+ 
+(49%)
+175
+Pokemon: 175
+Togepi
+fairy
+296/470
+ 
+(62%)
+354/470
+ 
+(75%)
+176
+Pokemon: 176
+Togetic
+fairyflying
+293/470
+ 
+(62%)
+221/470
+ 
+(47%)
+177
+Pokemon: 177
+Natu
+psychicflying
+206/470
+ 
+(43%)
+377/470
+ 
+(80%)
+178
+Pokemon: 178
+Xatu
+psychicflying
+252/470
+ 
+(53%)
+212/470
+ 
+(45%)
+179
+Pokemon: 179
+Mareep
+electric
+271/470
+ 
+(57%)
+253/470
+ 
+(53%)
+180
+Pokemon: 180
+Flaaffy
+electric
+255/470
+ 
+(54%)
+209/470
+ 
+(44%)
+181
+Pokemon: 181
+Ampharos
+electric
+365/470
+ 
+(77%)
+334/470
+ 
+(71%)
+182
+Pokemon: 182
+Bellossom
+grass
+301/470
+ 
+(64%)
+248/470
+ 
+(52%)
+183
+Pokemon: 183
+Marill
+waterfairy
+200/470
+ 
+(42%)
+220/470
+ 
+(46%)
+184
+Pokemon: 184
+Azumarill
+waterfairy
+341/470
+ 
+(72%)
+300/470
+ 
+(63%)
+185
+Pokemon: 185
+Sudowoodo
+rock
+226/470
+ 
+(48%)
+281/470
+ 
+(59%)
+186
+Pokemon: 186
+Politoed
+water
+331/470
+ 
+(70%)
+258/470
+ 
+(54%)
+187
+Pokemon: 187
+Hoppip
+grassflying
+254/470
+ 
+(54%)
+233/470
+ 
+(49%)
+188
+Pokemon: 188
+Skiploom
+grassflying
+256/470
+ 
+(54%)
+184/470
+ 
+(39%)
+189
+Pokemon: 189
+Jumpluff
+grassflying
+339/470
+ 
+(72%)
+262/470
+ 
+(55%)
+190
+Pokemon: 190
+Aipom
+normal
+216/470
+ 
+(45%)
+263/470
+ 
+(55%)
+191
+Pokemon: 191
+Sunkern
+grass
+342/470
+ 
+(72%)
+230/470
+ 
+(48%)
+192
+Pokemon: 192
+Sunflora
+grass
+387/470
+ 
+(82%)
+190/470
+ 
+(40%)
+193
+Pokemon: 193
+Yanma
+bugflying
+213/470
+ 
+(45%)
+192/470
+ 
+(40%)
+194
+Pokemon: 194
+Wooper
+waterground
+325/470
+ 
+(69%)
+364/470
+ 
+(77%)
+195
+Pokemon: 195
+Quagsire
+waterground
+349/470
+ 
+(74%)
+361/470
+ 
+(76%)
+196
+Pokemon: 196
+Espeon
+psychic
+384/470
+ 
+(81%)
+397/470
+ 
+(84%)
+197
+Pokemon: 197
+Umbreon
+dark
+412/470
+ 
+(87%)
+310/470
+ 
+(65%)
+198
+Pokemon: 198
+Murkrow
+darkflying
+248/470
+ 
+(52%)
+196/470
+ 
+(41%)
+199
+Pokemon: 199
+Slowking
+waterpsychic
+234/470
+ 
+(49%)
+230/470
+ 
+(48%)
+200
+Pokemon: 200
+Misdreavus
+ghost
+247/470
+ 
+(52%)
+219/470
+ 
+(46%)
+201
+Pokemon: 201
+Unown
+psychic
+429/470
+ 
+(91%)
+456/470
+ 
+(97%)
+202
+Pokemon: 202
+Wobbuffet
+psychic
+285/470
+ 
+(60%)
+206/470
+ 
+(43%)
+203
+Pokemon: 203
+Girafarig
+normalpsychic
+322/470
+ 
+(68%)
+302/470
+ 
+(64%)
+204
+Pokemon: 204
+Pineco
+bug
+172/470
+ 
+(36%)
+195/470
+ 
+(41%)
+205
+Pokemon: 205
+Forretress
+bugsteel
+187/470
+ 
+(39%)
+250/470
+ 
+(53%)
+206
+Pokemon: 206
+Dunsparce
+normal
+376/470
+ 
+(80%)
+239/470
+ 
+(50%)
+207
+Pokemon: 207
+Gligar
+groundflying
+171/470
+ 
+(36%)
+232/470
+ 
+(49%)
+208
+Pokemon: 208
+Steelix
+steelground
+218/470
+ 
+(46%)
+284/470
+ 
+(60%)
+209
+Pokemon: 209
+Snubbull
+fairy
+196/470
+ 
+(41%)
+207/470
+ 
+(44%)
+210
+Pokemon: 210
+Granbull
+fairy
+182/470
+ 
+(38%)
+219/470
+ 
+(46%)
+211
+Pokemon: 211
+Qwilfish
+waterpoison
+368/470
+ 
+(78%)
+228/470
+ 
+(48%)
+212
+Pokemon: 212
+Scizor
+bugsteel
+227/470
+ 
+(48%)
+292/470
+ 
+(62%)
+213
+Pokemon: 213
+Shuckle
+bugrock
+326/470
+ 
+(69%)
+328/470
+ 
+(69%)
+214
+Pokemon: 214
+Heracross
+bugfighting
+295/470
+ 
+(62%)
+333/470
+ 
+(70%)
+215
+Pokemon: 215
+Sneasel
+darkice
+215/470
+ 
+(45%)
+470/470
+ 
+216
+Pokemon: 216
+Teddiursa
+normal
+208/470
+ 
+(44%)
+282/470
+ 
+(60%)
+217
+Pokemon: 217
+Ursaring
+normal
+191/470
+ 
+(40%)
+274/470
+ 
+(58%)
+218
+Pokemon: 218
+Slugma
+fire
+373/470
+ 
+(79%)
+242/470
+ 
+(51%)
+219
+Pokemon: 219
+Magcargo
+firerock
+414/470
+ 
+(88%)
+260/470
+ 
+(55%)
+220
+Pokemon: 220
+Swinub
+iceground
+332/470
+ 
+(70%)
+397/470
+ 
+(84%)
+221
+Pokemon: 221
+Piloswine
+iceground
+179/470
+ 
+(38%)
+200/470
+ 
+(42%)
+222
+Pokemon: 222
+Corsola
+waterrock
+460/470
+ 
+(97%)
+200/470
+ 
+(42%)
+223
+Pokemon: 223
+Remoraid
+water
+163/470
+ 
+(34%)
+237/470
+ 
+(50%)
+224
+Pokemon: 224
+Octillery
+water
+255/470
+ 
+(54%)
+251/470
+ 
+(53%)
+225
+Pokemon: 225
+Delibird
+iceflying
+295/470
+ 
+(62%)
+190/470
+ 
+(40%)
+226
+Pokemon: 226
+Mantine
+waterflying
+251/470
+ 
+(53%)
+232/470
+ 
+(49%)
+227
+Pokemon: 227
+Skarmory
+steelflying
+270/470
+ 
+(57%)
+202/470
+ 
+(42%)
+228
+Pokemon: 228
+Houndour
+darkfire
+191/470
+ 
+(40%)
+207/470
+ 
+(44%)
+229
+Pokemon: 229
+Houndoom
+darkfire
+304/470
+ 
+(64%)
+283/470
+ 
+(60%)
+230
+Pokemon: 230
+Kingdra
+waterdragon
+185/470
+ 
+(39%)
+221/470
+ 
+(47%)
+231
+Pokemon: 231
+Phanpy
+ground
+198/470
+ 
+(42%)
+248/470
+ 
+(52%)
+232
+Pokemon: 232
+Donphan
+ground
+201/470
+ 
+(42%)
+264/470
+ 
+(56%)
+233
+Pokemon: 233
+Porygon2
+normal
+241/470
+ 
+(51%)
+163/470
+ 
+(34%)
+234
+Pokemon: 234
+Stantler
+normal
+187/470
+ 
+(39%)
+292/470
+ 
+(62%)
+235
+Pokemon: 235
+Smeargle
+normal
+334/470
+ 
+(71%)
+267/470
+ 
+(56%)
+236
+Pokemon: 236
+Tyrogue
+fighting
+172/470
+ 
+(36%)
+229/470
+ 
+(48%)
+237
+Pokemon: 237
+Hitmontop
+fighting
+143/470
+ 
+(30%)
+219/470
+ 
+(46%)
+238
+Pokemon: 238
+Smoochum
+icepsychic
+200/470
+ 
+(42%)
+225/470
+ 
+(47%)
+239
+Pokemon: 239
+Elekid
+electric
+201/470
+ 
+(42%)
+190/470
+ 
+(40%)
+240
+Pokemon: 240
+Magby
+fire
+139/470
+ 
+(29%)
+160/470
+ 
+(34%)
+241
+Pokemon: 241
+Miltank
+normal
+470/470
+ 
+337/470
+ 
+(71%)
+242
+Pokemon: 242
+Blissey
+normal
+313/470
+ 
+(66%)
+223/470
+ 
+(47%)
+243
+Pokemon: 243
+Raikou
+electric
+255/470
+ 
+(54%)
+183/470
+ 
+(38%)
+244
+Pokemon: 244
+Entei
+fire
+205/470
+ 
+(43%)
+193/470
+ 
+(41%)
+245
+Pokemon: 245
+Suicune
+water
+243/470
+ 
+(51%)
+206/470
+ 
+(43%)
+246
+Pokemon: 246
+Larvitar
+rockground
+188/470
+ 
+(40%)
+246/470
+ 
+(52%)
+247
+Pokemon: 247
+Pupitar
+rockground
+151/470
+ 
+(32%)
+199/470
+ 
+(42%)
+248
+Pokemon: 248
+Tyranitar
+rockdark
+223/470
+ 
+(47%)
+291/470
+ 
+(61%)
+249
+Pokemon: 249
+Lugia
+psychicflying
+228/470
+ 
+(48%)
+255/470
+ 
+(54%)
+250
+Pokemon: 250
+Ho-Oh
+fireflying
+470/470
+ 
+470/470
+ 
+251
+Pokemon: 251
+Celebi
+psychicgrass
+247/470
+ 
+(52%)
+250/470
+ 
+(53%)
+252
+Pokemon: 252
+Azurill
+normalfairy
+240/470
+ 
+(51%)
+269/470
+ 
+(57%)
+253
+Pokemon: 253
+Wynaut
+psychic
+185/470
+ 
+(39%)
+165/470
+ 
+(35%)
+254
+Pokemon: 254
+Ambipom
+normal
+147/470
+ 
+(31%)
+218/470
+ 
+(46%)
+255
+Pokemon: 255
+Mismagius
+ghost
+308/470
+ 
+(65%)
+327/470
+ 
+(69%)
+256
+Pokemon: 256
+Honchkrow
+darkflying
+293/470
+ 
+(62%)
+180/470
+ 
+(38%)
+257
+Pokemon: 257
+Bonsly
+rock
+195/470
+ 
+(41%)
+227/470
+ 
+(48%)
+258
+Pokemon: 258
+Mime Jr.
+psychicfairy
+320/470
+ 
+(68%)
+236/470
+ 
+(50%)
+259
+Pokemon: 259
+Happiny
+normal
+410/470
+ 
+(87%)
+171/470
+ 
+(36%)
+260
+Pokemon: 260
+Munchlax
+normal
+220/470
+ 
+(46%)
+241/470
+ 
+(51%)
+261
+Pokemon: 261
+Mantyke
+waterflying
+178/470
+ 
+(37%)
+165/470
+ 
+(35%)
+262
+Pokemon: 262
+Weavile
+darkice
+199/470
+ 
+(42%)
+288/470
+ 
+(61%)
+263
+Pokemon: 263
+Magnezone
+steelelectric
+271/470
+ 
+(57%)
+228/470
+ 
+(48%)
+264
+Pokemon: 264
+Lickilicky
+normal
+270/470
+ 
+(57%)
+207/470
+ 
+(44%)
+265
+Pokemon: 265
+Rhyperior
+groundrock
+164/470
+ 
+(34%)
+188/470
+ 
+(40%)
+266
+Pokemon: 266
+Tangrowth
+grass
+216/470
+ 
+(45%)
+218/470
+ 
+(46%)
+267
+Pokemon: 267
+Electivire
+electric
+241/470
+ 
+(51%)
+243/470
+ 
+(51%)
+268
+Pokemon: 268
+Magmortar
+fire
+187/470
+ 
+(39%)
+188/470
+ 
+(40%)
+269
+Pokemon: 269
+Togekiss
+fairyflying
+468/470
+ 
+(99%)
+222/470
+ 
+(47%)
+270
+Pokemon: 270
+Yanmega
+bugflying
+210/470
+ 
+(44%)
+169/470
+ 
+(35%)
+271
+Pokemon: 271
+Leafeon
+grass
+286/470
+ 
+(60%)
+308/470
+ 
+(65%)
+272
+Pokemon: 272
+Glaceon
+ice
+307/470
+ 
+(65%)
+227/470
+ 
+(48%)
+273
+Pokemon: 273
+Gliscor
+groundflying
+211/470
+ 
+(44%)
+271/470
+ 
+(57%)
+274
+Pokemon: 274
+Mamoswine
+iceground
+221/470
+ 
+(47%)
+276/470
+ 
+(58%)
+275
+Pokemon: 275
+Porygon-Z
+normal
+441/470
+ 
+(93%)
+229/470
+ 
+(48%)
+276
+Pokemon: 276
+Treecko
+grass
+172/470
+ 
+(36%)
+214/470
+ 
+(45%)
+277
+Pokemon: 277
+Grovyle
+grass
+144/470
+ 
+(30%)
+202/470
+ 
+(42%)
+278
+Pokemon: 278
+Sceptile
+grass
+222/470
+ 
+(47%)
+283/470
+ 
+(60%)
+279
+Pokemon: 279
+Torchic
+fire
+223/470
+ 
+(47%)
+274/470
+ 
+(58%)
+280
+Pokemon: 280
+Combusken
+firefighting
+138/470
+ 
+(29%)
+191/470
+ 
+(40%)
+281
+Pokemon: 281
+Blaziken
+firefighting
+196/470
+ 
+(41%)
+274/470
+ 
+(58%)
+282
+Pokemon: 282
+Mudkip
+water
+376/470
+ 
+(80%)
+369/470
+ 
+(78%)
+283
+Pokemon: 283
+Marshtomp
+waterground
+157/470
+ 
+(33%)
+210/470
+ 
+(44%)
+284
+Pokemon: 284
+Swampert
+waterground
+204/470
+ 
+(43%)
+240/470
+ 
+(51%)
+285
+Pokemon: 285
+Ralts
+psychicfairy
+262/470
+ 
+(55%)
+342/470
+ 
+(72%)
+286
+Pokemon: 286
+Kirlia
+psychicfairy
+219/470
+ 
+(46%)
+363/470
+ 
+(77%)
+287
+Pokemon: 287
+Gardevoir
+psychicfairy
+301/470
+ 
+(64%)
+463/470
+ 
+(98%)
+288
+Pokemon: 288
+Gallade
+psychicfighting
+189/470
+ 
+(40%)
+300/470
+ 
+(63%)
+289
+Pokemon: 289
+Shedinja
+bugghost
+408/470
+ 
+(86%)
+286/470
+ 
+(60%)
+290
+Pokemon: 290
+Kecleon
+normal
+470/470
+ 
+470/470
+ 
+291
+Pokemon: 291
+Beldum
+steelpsychic
+229/470
+ 
+(48%)
+204/470
+ 
+(43%)
+292
+Pokemon: 292
+Metang
+steelpsychic
+185/470
+ 
+(39%)
+188/470
+ 
+(40%)
+293
+Pokemon: 293
+Metagross
+steelpsychic
+228/470
+ 
+(48%)
+250/470
+ 
+(53%)
+294
+Pokemon: 294
+Bidoof
+normal
+470/470
+ 
+470/470
+ 
+295
+Pokemon: 295
+Spiritomb
+darkghost
+413/470
+ 
+(87%)
+301/470
+ 
+(64%)
+296
+Pokemon: 296
+Lucario
+fightingsteel
+375/470
+ 
+(79%)
+345/470
+ 
+(73%)
+297
+Pokemon: 297
+Gible
+dragonground
+172/470
+ 
+(36%)
+228/470
+ 
+(48%)
+298
+Pokemon: 298
+Gabite
+dragonground
+156/470
+ 
+(33%)
+187/470
+ 
+(39%)
+299
+Pokemon: 299
+Garchomp
+dragonground
+223/470
+ 
+(47%)
+267/470
+ 
+(56%)
+300
+Pokemon: 300
+Mawile
+steelfairy
+361/470
+ 
+(76%)
+394/470
+ 
+(83%)
+301
+Pokemon: 301
+Lileep
+rockgrass
+233/470
+ 
+(49%)
+174/470
+ 
+(37%)
+302
+Pokemon: 302
+Cradily
+rockgrass
+225/470
+ 
+(47%)
+215/470
+ 
+(45%)
+303
+Pokemon: 303
+Anorith
+rockbug
+194/470
+ 
+(41%)
+151/470
+ 
+(32%)
+304
+Pokemon: 304
+Armaldo
+rockbug
+168/470
+ 
+(35%)
+171/470
+ 
+(36%)
+305
+Pokemon: 305
+Cranidos
+rock
+139/470
+ 
+(29%)
+221/470
+ 
+(47%)
+306
+Pokemon: 306
+Rampardos
+rock
+145/470
+ 
+(30%)
+248/470
+ 
+(52%)
+307
+Pokemon: 307
+Shieldon
+rocksteel
+125/470
+ 
+(26%)
+193/470
+ 
+(41%)
+308
+Pokemon: 308
+Bastiodon
+rocksteel
+136/470
+ 
+(28%)
+206/470
+ 
+(43%)
+309
+Pokemon: 309
+Slaking
+normal
+140/470
+ 
+(29%)
+255/470
+ 
+(54%)
+310
+Pokemon: 310
+Absol
+dark
+372/470
+ 
+(79%)
+344/470
+ 
+(73%)
+311
+Pokemon: 311
+Duskull
+ghost
+461/470
+ 
+(98%)
+219/470
+ 
+(46%)
+312
+Pokemon: 312
+Dusclops
+ghost
+319/470
+ 
+(67%)
+154/470
+ 
+(32%)
+313
+Pokemon: 313
+Dusknoir
+ghost
+263/470
+ 
+(55%)
+231/470
+ 
+(49%)
+314
+Pokemon: 314
+Wailord
+water
+213/470
+ 
+(45%)
+299/470
+ 
+(63%)
+315
+Pokemon: 315
+Arceus
+normal
+305/470
+ 
+(64%)
+199/470
+ 
+(42%)
+316
+Pokemon: 316
+Turtwig
+grass
+179/470
+ 
+(38%)
+238/470
+ 
+(50%)
+317
+Pokemon: 317
+Grotle
+grass
+150/470
+ 
+(31%)
+191/470
+ 
+(40%)
+318
+Pokemon: 318
+Torterra
+grassground
+240/470
+ 
+(51%)
+340/470
+ 
+(72%)
+319
+Pokemon: 319
+Chimchar
+fire
+159/470
+ 
+(33%)
+193/470
+ 
+(41%)
+320
+Pokemon: 320
+Monferno
+firefighting
+126/470
+ 
+(26%)
+174/470
+ 
+(37%)
+321
+Pokemon: 321
+Infernape
+firefighting
+196/470
+ 
+(41%)
+252/470
+ 
+(53%)
+322
+Pokemon: 322
+Piplup
+water
+227/470
+ 
+(48%)
+294/470
+ 
+(62%)
+323
+Pokemon: 323
+Prinplup
+water
+176/470
+ 
+(37%)
+182/470
+ 
+(38%)
+324
+Pokemon: 324
+Empoleon
+watersteel
+222/470
+ 
+(47%)
+186/470
+ 
+(39%)
+325
+Pokemon: 325
+Nosepass
+rock
+189/470
+ 
+(40%)
+181/470
+ 
+(38%)
+326
+Pokemon: 326
+Probopass
+rocksteel
+181/470
+ 
+(38%)
+231/470
+ 
+(49%)
+327
+Pokemon: 327
+Honedge
+steelghost
+317/470
+ 
+(67%)
+358/470
+ 
+(76%)
+328
+Pokemon: 328
+Doublade
+steelghost
+255/470
+ 
+(54%)
+201/470
+ 
+(42%)
+329
+Pokemon: 329
+Aegislash
+steelghost
+316/470
+ 
+(67%)
+259/470
+ 
+(55%)
+330
+Pokemon: 330
+Pawniard
+darksteel
+188/470
+ 
+(40%)
+224/470
+ 
+(47%)
+331
+Pokemon: 331
+Bisharp
+darksteel
+202/470
+ 
+(42%)
+245/470
+ 
+(52%)
+332
+Pokemon: 332
+Luxray
+electric
+293/470
+ 
+(62%)
+308/470
+ 
+(65%)
+333
+Pokemon: 333
+Aggron
+steelrock
+239/470
+ 
+(50%)
+270/470
+ 
+(57%)
+334
+Pokemon: 334
+Flygon
+grounddragon
+252/470
+ 
+(53%)
+309/470
+ 
+(65%)
+335
+Pokemon: 335
+Milotic
+water
+328/470
+ 
+(69%)
+273/470
+ 
+(58%)
+336
+Pokemon: 336
+Salamence
+dragonflying
+223/470
+ 
+(47%)
+247/470
+ 
+(52%)
+337
+Pokemon: 337
+Klinklang
+steel
+467/470
+ 
+(99%)
+188/470
+ 
+(40%)
+338
+Pokemon: 338
+Zoroark
+dark
+255/470
+ 
+(54%)
+278/470
+ 
+(59%)
+339
+Pokemon: 339
+Sylveon
+fairy
+470/470
+ 
+470/470
+ 
+340
+Pokemon: 340
+Kyogre
+water
+292/470
+ 
+(62%)
+177/470
+ 
+(37%)
+341
+Pokemon: 341
+Groudon
+ground
+261/470
+ 
+(55%)
+192/470
+ 
+(40%)
+342
+Pokemon: 342
+Rayquaza
+dragonflying
+252/470
+ 
+(53%)
+283/470
+ 
+(60%)
+343
+Pokemon: 343
+Dialga
+steeldragon
+214/470
+ 
+(45%)
+150/470
+ 
+(31%)
+344
+Pokemon: 344
+Palkia
+waterdragon
+231/470
+ 
+(49%)
+146/470
+ 
+(31%)
+345
+Pokemon: 345
+Giratina
+ghostdragon
+334/470
+ 
+(71%)
+218/470
+ 
+(46%)
+346
+Pokemon: 346
+Regigigas
+normal
+287/470
+ 
+(61%)
+231/470
+ 
+(49%)
+347
+Pokemon: 347
+Darkrai
+dark
+469/470
+ 
+(99%)
+208/470
+ 
+(44%)
+348
+Pokemon: 348
+Genesect
+bugsteel
+237/470
+ 
+(50%)
+191/470
+ 
+(40%)
+349
+Pokemon: 349
+Reshiram
+dragonfire
+253/470
+ 
+(53%)
+171/470
+ 
+(36%)
+350
+Pokemon: 350
+Zekrom
+dragonelectric
+270/470
+ 
+(57%)
+149/470
+ 
+(31%)
+351
+Pokemon: 351
+Kyurem
+dragonice
+209/470
+ 
+(44%)
+144/470
+ 
+(30%)
+352
+Pokemon: 352
+Roserade
+grasspoison
+299/470
+ 
+(63%)
+341/470
+ 
+(72%)
+353
+Pokemon: 353
+Drifblim
+ghostflying
+240/470
+ 
+(51%)
+209/470
+ 
+(44%)
+354
+Pokemon: 354
+Lopunny
+normal
+232/470
+ 
+(49%)
+465/470
+ 
+(98%)
+355
+Pokemon: 355
+Breloom
+grassfighting
+256/470
+ 
+(54%)
+380/470
+ 
+(80%)
+356
+Pokemon: 356
+Ninjask
+bugflying
+240/470
+ 
+(51%)
+193/470
+ 
+(41%)
+357
+Pokemon: 357
+Banette
+ghost
+311/470
+ 
+(66%)
+303/470
+ 
+(64%)
+358
+Pokemon: 358
+Rotom
+electricghost
+424/470
+ 
+(90%)
+356/470
+ 
+(75%)
+359
+Pokemon: 359
+Reuniclus
+psychic
+355/470
+ 
+(75%)
+216/470
+ 
+(45%)
+360
+Pokemon: 360
+Whimsicott
+grassfairy
+460/470
+ 
+(97%)
+270/470
+ 
+(57%)
+361
+Pokemon: 361
+Krookodile
+grounddark
+198/470
+ 
+(42%)
+203/470
+ 
+(43%)
+362
+Pokemon: 362
+Cofagrigus
+ghost
+468/470
+ 
+(99%)
+248/470
+ 
+(52%)
+363
+Pokemon: 363
+Galvantula
+bugelectric
+254/470
+ 
+(54%)
+241/470
+ 
+(51%)
+364
+Pokemon: 364
+Ferrothorn
+grasssteel
+249/470
+ 
+(52%)
+204/470
+ 
+(43%)
+365
+Pokemon: 365
+Litwick
+ghostfire
+399/470
+ 
+(84%)
+281/470
+ 
+(59%)
+366
+Pokemon: 366
+Lampent
+ghostfire
+302/470
+ 
+(64%)
+200/470
+ 
+(42%)
+367
+Pokemon: 367
+Chandelure
+ghostfire
+407/470
+ 
+(86%)
+218/470
+ 
+(46%)
+368
+Pokemon: 368
+Haxorus
+dragon
+200/470
+ 
+(42%)
+260/470
+ 
+(55%)
+369
+Pokemon: 369
+Golurk
+groundghost
+246/470
+ 
+(52%)
+276/470
+ 
+(58%)
+370
+Pokemon: 370
+Pyukumuku
+water
+458/470
+ 
+(97%)
+296/470
+ 
+(62%)
+371
+Pokemon: 371
+Klefki
+steelfairy
+255/470
+ 
+(54%)
+219/470
+ 
+(46%)
+372
+Pokemon: 372
+Talonflame
+fireflying
+205/470
+ 
+(43%)
+217/470
+ 
+(46%)
+373
+Pokemon: 373
+Mimikyu
+ghostfairy
+398/470
+ 
+(84%)
+429/470
+ 
+(91%)
+374
+Pokemon: 374
+Volcarona
+bugfire
+470/470
+ 
+234/470
+ 
+(49%)
+375
+Pokemon: 375
+Deino
+darkdragon
+243/470
+ 
+(51%)
+233/470
+ 
+(49%)
+376
+Pokemon: 376
+Zweilous
+darkdragon
+174/470
+ 
+(37%)
+222/470
+ 
+(47%)
+377
+Pokemon: 377
+Hydreigon
+darkdragon
+236/470
+ 
+(50%)
+236/470
+ 
+(50%)
+378
+Pokemon: 378
+Latias
+dragonpsychic
+240/470
+ 
+(51%)
+154/470
+ 
+(32%)
+379
+Pokemon: 379
+Latios
+dragonpsychic
+215/470
+ 
+(45%)
+154/470
+ 
+(32%)
+380
+Pokemon: 380
+Deoxys
+psychic
+288/470
+ 
+(61%)
+290/470
+ 
+(61%)
+381
+Pokemon: 381
+Jirachi
+steelpsychic
+436/470
+ 
+(92%)
+285/470
+ 
+(60%)
+382
+Pokemon: 382
+Nincada
+bugground
+183/470
+ 
+(38%)
+182/470
+ 
+(38%)
+383
+Pokemon: 383
+Bibarel
+normalwater
+236/470
+ 
+(50%)
+249/470
+ 
+(52%)
+384
+Pokemon: 384
+Riolu
+fighting
+190/470
+ 
+(40%)
+275/470
+ 
+(58%)
+385
+Pokemon: 385
+Slakoth
+normal
+145/470
+ 
+(30%)
+196/470
+ 
+(41%)
+386
+Pokemon: 386
+Vigoroth
+normal
+327/470
+ 
+(69%)
+196/470
+ 
+(41%)
+387
+Pokemon: 387
+Wailmer
+water
+156/470
+ 
+(33%)
+212/470
+ 
+(45%)
+388
+Pokemon: 388
+Shinx
+electric
+198/470
+ 
+(42%)
+254/470
+ 
+(54%)
+389
+Pokemon: 389
+Luxio
+electric
+161/470
+ 
+(34%)
+219/470
+ 
+(46%)
+390
+Pokemon: 390
+Aron
+steelrock
+246/470
+ 
+(52%)
+238/470
+ 
+(50%)
+391
+Pokemon: 391
+Lairon
+steelrock
+148/470
+ 
+(31%)
+195/470
+ 
+(41%)
+392
+Pokemon: 392
+Trapinch
+ground
+470/470
+ 
+470/470
+ 
+393
+Pokemon: 393
+Vibrava
+grounddragon
+172/470
+ 
+(36%)
+179/470
+ 
+(38%)
+394
+Pokemon: 394
+Feebas
+water
+229/470
+ 
+(48%)
+225/470
+ 
+(47%)
+395
+Pokemon: 395
+Bagon
+dragon
+155/470
+ 
+(32%)
+201/470
+ 
+(42%)
+396
+Pokemon: 396
+Shelgon
+dragon
+131/470
+ 
+(27%)
+228/470
+ 
+(48%)
+397
+Pokemon: 397
+Klink
+steel
+232/470
+ 
+(49%)
+217/470
+ 
+(46%)
+398
+Pokemon: 398
+Klang
+steel
+190/470
+ 
+(40%)
+158/470
+ 
+(33%)
+399
+Pokemon: 399
+Zorua
+dark
+220/470
+ 
+(46%)
+246/470
+ 
+(52%)
+400
+Pokemon: 400
+Budew
+grasspoison
+244/470
+ 
+(51%)
+215/470
+ 
+(45%)
+401
+Pokemon: 401
+Roselia
+grasspoison
+258/470
+ 
+(54%)
+206/470
+ 
+(43%)
+402
+Pokemon: 402
+Drifloon
+ghostflying
+299/470
+ 
+(63%)
+303/470
+ 
+(64%)
+403
+Pokemon: 403
+Buneary
+normal
+470/470
+ 
+470/470
+ 
+404
+Pokemon: 404
+Shroomish
+grass
+253/470
+ 
+(53%)
+265/470
+ 
+(56%)
+405
+Pokemon: 405
+Shuppet
+ghost
+209/470
+ 
+(44%)
+209/470
+ 
+(44%)
+406
+Pokemon: 406
+Solosis
+psychic
+470/470
+ 
+321/470
+ 
+(68%)
+407
+Pokemon: 407
+Duosion
+psychic
+220/470
+ 
+(46%)
+188/470
+ 
+(40%)
+408
+Pokemon: 408
+Cottonee
+grassfairy
+212/470
+ 
+(45%)
+191/470
+ 
+(40%)
+409
+Pokemon: 409
+Sandile
+grounddark
+181/470
+ 
+(38%)
+198/470
+ 
+(42%)
+410
+Pokemon: 410
+Krokorok
+grounddark
+140/470
+ 
+(29%)
+182/470
+ 
+(38%)
+411
+Pokemon: 411
+Yamask
+ghost
+351/470
+ 
+(74%)
+261/470
+ 
+(55%)
+412
+Pokemon: 412
+Joltik
+bugelectric
+392/470
+ 
+(83%)
+301/470
+ 
+(64%)
+413
+Pokemon: 413
+Ferroseed
+grasssteel
+262/470
+ 
+(55%)
+346/470
+ 
+(73%)
+414
+Pokemon: 414
+Axew
+dragon
+168/470
+ 
+(35%)
+234/470
+ 
+(49%)
+415
+Pokemon: 415
+Fraxure
+dragon
+134/470
+ 
+(28%)
+204/470
+ 
+(43%)
+416
+Pokemon: 416
+Golett
+groundghost
+188/470
+ 
+(40%)
+188/470
+ 
+(40%)
+417
+Pokemon: 417
+Fletchling
+normalflying
+175/470
+ 
+(37%)
+219/470
+ 
+(46%)
+418
+Pokemon: 418
+Fletchinder
+fireflying
+154/470
+ 
+(32%)
+175/470
+ 
+(37%)
+419
+Pokemon: 419
+Larvesta
+bugfire
+245/470
+ 
+(52%)
+208/470
+ 
+(44%)
+420
+Pokemon: 420
+Stunfisk
+groundelectric
+209/470
+ 
+(44%)
+237/470
+ 
+(50%)
+421
+Pokemon: 421
+Sableye
+darkghost
+441/470
+ 
+(93%)
+403/470
+ 
+(85%)
+422
+Pokemon: 422
+Venipede
+bugpoison
+160/470
+ 
+(34%)
+200/470
+ 
+(42%)
+423
+Pokemon: 423
+Whirlipede
+bugpoison
+155/470
+ 
+(32%)
+226/470
+ 
+(48%)
+424
+Pokemon: 424
+Scolipede
+bugpoison
+246/470
+ 
+(52%)
+289/470
+ 
+(61%)
+425
+Pokemon: 425
+Tyrunt
+rockdragon
+114/470
+ 
+(24%)
+195/470
+ 
+(41%)
+426
+Pokemon: 426
+Tyrantrum
+rockdragon
+178/470
+ 
+(37%)
+261/470
+ 
+(55%)
+427
+Pokemon: 427
+Snorunt
+ice
+189/470
+ 
+(40%)
+207/470
+ 
+(44%)
+428
+Pokemon: 428
+Glalie
+ice
+229/470
+ 
+(48%)
+174/470
+ 
+(37%)
+429
+Pokemon: 429
+Froslass
+iceghost
+211/470
+ 
+(44%)
+228/470
+ 
+(48%)
+430
+Pokemon: 430
+Oricorio (Baile)
+fireflying
+193/470
+ 
+(41%)
+154/470
+ 
+(32%)
+431
+Pokemon: 431
+Oricorio (Pom-Pom)
+electricflying
+199/470
+ 
+(42%)
+137/470
+ 
+(29%)
+432
+Pokemon: 432
+Oricorio (Pa'u)
+psychicflying
+160/470
+ 
+(34%)
+95/470
+ 
+(20%)
+433
+Pokemon: 433
+Oricorio (Sensu)
+ghostflying
+199/470
+ 
+(42%)
+128/470
+ 
+(27%)
+434
+Pokemon: 434
+Trubbish
+poison
+253/470
+ 
+(53%)
+168/470
+ 
+(35%)
+435
+Pokemon: 435
+Garbodor
+poison
+209/470
+ 
+(44%)
+113/470
+ 
+(24%)
+436
+Pokemon: 436
+Carvanha
+waterdark
+184/470
+ 
+(39%)
+163/470
+ 
+(34%)
+437
+Pokemon: 437
+Sharpedo
+waterdark
+235/470
+ 
+(50%)
+217/470
+ 
+(46%)
+438
+Pokemon: 438
+Phantump
+ghostgrass
+230/470
+ 
+(48%)
+195/470
+ 
+(41%)
+439
+Pokemon: 439
+Trevenant
+grassghost
+470/470
+ 
+328/470
+ 
+(69%)
+440
+Pokemon: 440
+Noibat
+flyingdragon
+183/470
+ 
+(38%)
+218/470
+ 
+(46%)
+441
+Pokemon: 441
+Noivern
+flyingdragon
+189/470
+ 
+(40%)
+216/470
+ 
+(45%)
+442
+Pokemon: 442
+Swablu
+normalflying
+218/470
+ 
+(46%)
+189/470
+ 
+(40%)
+443
+Pokemon: 443
+Altaria
+dragonflying
+238/470
+ 
+(50%)
+214/470
+ 
+(45%)
+444
+Pokemon: 444
+Goomy
+dragon
+260/470
+ 
+(55%)
+281/470
+ 
+(59%)
+445
+Pokemon: 445
+Sliggoo
+dragon
+134/470
+ 
+(28%)
+188/470
+ 
+(40%)
+446
+Pokemon: 446
+Goodra
+dragon
+233/470
+ 
+(49%)
+269/470
+ 
+(57%)
+447
+Pokemon: 447
+Regirock
+rock
+205/470
+ 
+(43%)
+138/470
+ 
+(29%)
+448
+Pokemon: 448
+Regice
+ice
+253/470
+ 
+(53%)
+128/470
+ 
+(27%)
+449
+Pokemon: 449
+Registeel
+steel
+317/470
+ 
+(67%)
+171/470
+ 
+(36%)
+450
+Pokemon: 450
+Necrozma
+psychic
+296/470
+ 
+(62%)
+141/470
+ 
+(30%)
+451
+Pokemon: 451
+Stufful
+normalfighting
+236/470
+ 
+(50%)
+203/470
+ 
+(43%)
+452
+Pokemon: 452
+Bewear
+normalfighting
+249/470
+ 
+(52%)
+233/470
+ 
+(49%)
+453
+Pokemon: 453
+Dhelmise
+ghostgrass
+304/470
+ 
+(64%)
+166/470
+ 
+(35%)
+454
+Pokemon: 454
+Mareanie
+poisonwater
+196/470
+ 
+(41%)
+165/470
+ 
+(35%)
+455
+Pokemon: 455
+Toxapex
+poisonwater
+202/470
+ 
+(42%)
+165/470
+ 
+(35%)
+456
+Pokemon: 456
+Hawlucha
+fightingflying
+218/470
+ 
+(46%)
+222/470
+ 
+(47%)
+457
+Pokemon: 457
+Cacnea
+grass
+211/470
+ 
+(44%)
+182/470
+ 
+(38%)
+458
+Pokemon: 458
+Cacturne
+grassdark
+219/470
+ 
+(46%)
+200/470
+ 
+(42%)
+459
+Pokemon: 459
+Sandygast
+groundghost
+233/470
+ 
+(49%)
+182/470
+ 
+(38%)
+460
+Pokemon: 460
+Palossand
+groundghost
+253/470
+ 
+(53%)
+207/470
+ 
+(44%)
+461
+Pokemon: 461
+Amaura
+rockice
+236/470
+ 
+(50%)
+292/470
+ 
+(62%)
+462
+Pokemon: 462
+Aurorus
+rockice
+231/470
+ 
+(49%)
+250/470
+ 
+(53%)
+463
+Pokemon: 463
+Rockruff
+rock
+186/470
+ 
+(39%)
+278/470
+ 
+(59%)
+464
+Pokemon: 464
+Lycanroc Midday
+rock
+132/470
+ 
+(28%)
+215/470
+ 
+(45%)
+465
+Pokemon: 465
+Lycanroc Midnight
+rock
+154/470
+ 
+(32%)
+200/470
+ 
+(42%)
+466
+Pokemon: 466
+Meloetta (Aria)
+normalpsychic
+175/470
+ 
+(37%)
+244/470
+ 
+(51%)
+467
+Pokemon: 467
+Meloetta (Pirouette)
+normalfighting
+112/470
+ 
+(23%)
+164/470
+ 
+(34%)
+468
+Pokemon: 468
+Cresselia
+psychic
+470/470
+ 
+347/470
+ 
+(73%)
+469
+Pokemon: 469
+Bruxish
+waterpsychic
+286/470
+ 
+(60%)
+172/470
+ 
+(36%)
+470
+Pokemon: 470
+Ultra Necrozma
+psychicdragon
+200/470
+ 
+(42%)
+113/470
+ 
+(24%)

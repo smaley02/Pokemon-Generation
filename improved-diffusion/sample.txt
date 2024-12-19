@@ -1,0 +1,6 @@
+python scripts/image_sample.py --model_path /blue/rcstudents/smaley/pokegan/improved-diffusion/log_256/ema_0.9999_590000.pt --image_size 256 --num_channels 128 --num_res_blocks 3 --diffusion_steps 4000 --noise_schedule linear --num_samples 64
+
+export OPENAI_LOGDIR="log_256" 
+
+
+--timestep_respacing ddim250

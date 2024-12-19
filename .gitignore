@@ -1,0 +1,11 @@
+*.png
+*.pt
+*.jpg
+*.jpeg
+*.keras
+type-prediction/models/
+customsprites/
+core.*
+*.npz
+*.h5
+

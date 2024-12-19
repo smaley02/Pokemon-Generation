@@ -1,0 +1,9 @@
+Logging to output_120000_log
+creating model and diffusion...
+sampling...
+created 16 samples
+created 32 samples
+created 48 samples
+created 64 samples
+saving to output_120000_log/samples_64x64x64x3.npz
+sampling complete

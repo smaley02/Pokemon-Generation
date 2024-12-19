@@ -1,0 +1,87 @@
+Sat Nov 30 10:16:11 EST 2024
+c0904a-s29.ufhpc
+/home/smaley/rcstudents_blue/pokegan/improved-diffusion
+Logging to log_256
+creating model and diffusion...
+/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/dist_util.py:63: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  return th.load(io.BytesIO(data), **kwargs)
+sampling...
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/scripts/image_sample.py", line 106, in <module>
+[rank0]:     main()
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/scripts/image_sample.py", line 52, in main
+[rank0]:     sample = sample_fn(
+[rank0]:              ^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/gaussian_diffusion.py", line 418, in p_sample_loop
+[rank0]:     for sample in self.p_sample_loop_progressive(
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/gaussian_diffusion.py", line 468, in p_sample_loop_progressive
+[rank0]:     out = self.p_sample(
+[rank0]:           ^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/gaussian_diffusion.py", line 374, in p_sample
+[rank0]:     out = self.p_mean_variance(
+[rank0]:           ^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/respace.py", line 91, in p_mean_variance
+[rank0]:     return super().p_mean_variance(self._wrap_model(model), *args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/gaussian_diffusion.py", line 260, in p_mean_variance
+[rank0]:     model_output = model(x, self._scale_timesteps(t), **model_kwargs)
+[rank0]:                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/respace.py", line 122, in __call__
+[rank0]:     return self.model(x, new_ts, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/unet.py", line 489, in forward
+[rank0]:     h = module(cat_in, emb)
+[rank0]:         ^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/unet.py", line 44, in forward
+[rank0]:     x = layer(x, emb)
+[rank0]:         ^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/unet.py", line 180, in forward
+[rank0]:     return checkpoint(
+[rank0]:            ^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/nn.py", line 139, in checkpoint
+[rank0]:     return func(*inputs)
+[rank0]:            ^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/unet.py", line 185, in _forward
+[rank0]:     h = self.in_layers(x)
+[rank0]:         ^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/container.py", line 250, in forward
+[rank0]:     input = module(input)
+[rank0]:             ^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+[rank0]:     return self._call_impl(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/daisyw/smaley/.conda/envs/improved-diffusion/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+[rank0]:     return forward_call(*args, **kwargs)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/nn.py", line 14, in forward
+[rank0]:     return x * th.sigmoid(x)
+[rank0]:                ^^^^^^^^^^^^^
+[rank0]: torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 0 has a total capacity of 79.14 GiB of which 801.19 MiB is free. Process 1564414 has 71.69 GiB memory in use. Including non-PyTorch memory, this process has 6.64 GiB memory in use. Of the allocated memory 4.65 GiB is allocated by PyTorch, and 1.50 GiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+[rank0]:[W1130 10:17:46.829793119 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())
+Sat Nov 30 10:17:54 EST 2024
+c0904a-s29.ufhpc
+/home/smaley/rcstudents_blue/pokegan/improved-diffusion

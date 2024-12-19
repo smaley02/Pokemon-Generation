@@ -1,0 +1,2713 @@
+Thu Nov 14 15:24:11 EST 2024
+c1106a-s17.ufhpc
+/blue/rcstudents/smaley/pokegan/PokeGAN
+/blue/daisyw/smaley/.conda/envs/pokegan/lib/python3.11/site-packages/torch/utils/data/dataloader.py:557: UserWarning: This DataLoader will create 4 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+/blue/rcstudents/smaley/pokegan/PokeGAN/train.py:254: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load('checkpoint_epoch_101.pt')
+/blue/daisyw/smaley/.conda/envs/pokegan/lib/python3.11/site-packages/torch/utils/data/dataloader.py:557: UserWarning: This DataLoader will create 4 worker processes in total. Our suggested max number of worker in current system is 2, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+cuda
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [101/1000], gen_loss: 1.4517, disc_loss: 1.2370, real_score: 0.5743, gen_score: 0.8041
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [102/1000], gen_loss: 3.7513, disc_loss: 0.8702, real_score: 0.0732, gen_score: 0.5531
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [103/1000], gen_loss: 2.9496, disc_loss: 1.0067, real_score: 0.5155, gen_score: 0.9470
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [104/1000], gen_loss: 1.2211, disc_loss: 1.8065, real_score: 0.7690, gen_score: 0.9546
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [105/1000], gen_loss: 3.4743, disc_loss: 0.5336, real_score: 0.1726, gen_score: 0.8749
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [106/1000], gen_loss: 1.6571, disc_loss: 0.6221, real_score: 0.2436, gen_score: 0.8749
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [107/1000], gen_loss: 2.9130, disc_loss: 0.6393, real_score: 0.2732, gen_score: 0.9074
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [108/1000], gen_loss: 2.9631, disc_loss: 0.4674, real_score: 0.0901, gen_score: 0.8917
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [109/1000], gen_loss: 2.7418, disc_loss: 0.6086, real_score: 0.2094, gen_score: 0.8349
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [110/1000], gen_loss: 3.4956, disc_loss: 0.7506, real_score: 0.3515, gen_score: 0.9804
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [111/1000], gen_loss: 1.9583, disc_loss: 1.1277, real_score: 0.5478, gen_score: 0.9629
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [112/1000], gen_loss: 3.2664, disc_loss: 0.6939, real_score: 0.0774, gen_score: 0.6686
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [113/1000], gen_loss: 3.6192, disc_loss: 0.5052, real_score: 0.1507, gen_score: 0.9814
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [114/1000], gen_loss: 2.7206, disc_loss: 0.4941, real_score: 0.1189, gen_score: 0.8733
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [115/1000], gen_loss: 2.3081, disc_loss: 0.7380, real_score: 0.3586, gen_score: 0.9118
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [116/1000], gen_loss: 2.8132, disc_loss: 0.4742, real_score: 0.0774, gen_score: 0.8738
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [117/1000], gen_loss: 2.0579, disc_loss: 0.7655, real_score: 0.3639, gen_score: 0.8982
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [118/1000], gen_loss: 4.1921, disc_loss: 0.9382, real_score: 0.0859, gen_score: 0.5341
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [119/1000], gen_loss: 2.8348, disc_loss: 0.7672, real_score: 0.0383, gen_score: 0.6138
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [120/1000], gen_loss: 2.7562, disc_loss: 0.5568, real_score: 0.0869, gen_score: 0.7920
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [121/1000], gen_loss: 1.3858, disc_loss: 1.0992, real_score: 0.5316, gen_score: 0.9020
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [122/1000], gen_loss: 3.7822, disc_loss: 0.6551, real_score: 0.1762, gen_score: 0.7684
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [123/1000], gen_loss: 2.8736, disc_loss: 0.5424, real_score: 0.1156, gen_score: 0.8115
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [124/1000], gen_loss: 2.0061, disc_loss: 0.9263, real_score: 0.3392, gen_score: 0.7057
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [125/1000], gen_loss: 2.3883, disc_loss: 0.5957, real_score: 0.2032, gen_score: 0.8406
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [126/1000], gen_loss: 2.7523, disc_loss: 0.4894, real_score: 0.1412, gen_score: 0.9223
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [127/1000], gen_loss: 2.9819, disc_loss: 0.5055, real_score: 0.1096, gen_score: 0.8624
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [128/1000], gen_loss: 3.3824, disc_loss: 0.7833, real_score: 0.1090, gen_score: 0.6284
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [129/1000], gen_loss: 1.8166, disc_loss: 1.5833, real_score: 0.7101, gen_score: 0.9560
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [130/1000], gen_loss: 2.7270, disc_loss: 0.6198, real_score: 0.2415, gen_score: 0.8741
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [131/1000], gen_loss: 1.3192, disc_loss: 0.9636, real_score: 0.4270, gen_score: 0.7868
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [132/1000], gen_loss: 2.3050, disc_loss: 0.6272, real_score: 0.1715, gen_score: 0.7859
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [133/1000], gen_loss: 4.5763, disc_loss: 0.9610, real_score: 0.0768, gen_score: 0.5209
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [134/1000], gen_loss: 2.4995, disc_loss: 0.8063, real_score: 0.3873, gen_score: 0.9201
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [135/1000], gen_loss: 2.1798, disc_loss: 1.1463, real_score: 0.3866, gen_score: 0.6278
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [136/1000], gen_loss: 3.2165, disc_loss: 0.6617, real_score: 0.1557, gen_score: 0.7373
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [137/1000], gen_loss: 4.9888, disc_loss: 0.9255, real_score: 0.0600, gen_score: 0.5322
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [138/1000], gen_loss: 2.0715, disc_loss: 0.6763, real_score: 0.2104, gen_score: 0.7724
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [139/1000], gen_loss: 2.3463, disc_loss: 0.5280, real_score: 0.1645, gen_score: 0.8910
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [140/1000], gen_loss: 4.1703, disc_loss: 0.5778, real_score: 0.0741, gen_score: 0.7713
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [141/1000], gen_loss: 1.7166, disc_loss: 0.5473, real_score: 0.1279, gen_score: 0.8258
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [142/1000], gen_loss: 1.2912, disc_loss: 1.0642, real_score: 0.5199, gen_score: 0.9192
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [143/1000], gen_loss: 1.5469, disc_loss: 0.8969, real_score: 0.4211, gen_score: 0.8701
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [144/1000], gen_loss: 3.9616, disc_loss: 0.6892, real_score: 0.1138, gen_score: 0.7072
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [145/1000], gen_loss: 3.4008, disc_loss: 0.8958, real_score: 0.0523, gen_score: 0.5448
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [146/1000], gen_loss: 2.8971, disc_loss: 0.6278, real_score: 0.0484, gen_score: 0.7214
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [147/1000], gen_loss: 3.1288, disc_loss: 0.5905, real_score: 0.1080, gen_score: 0.7667
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [148/1000], gen_loss: 3.2600, disc_loss: 0.5790, real_score: 0.0559, gen_score: 0.7585
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [149/1000], gen_loss: 1.7302, disc_loss: 0.9004, real_score: 0.4376, gen_score: 0.8894
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [150/1000], gen_loss: 2.4096, disc_loss: 0.4898, real_score: 0.1527, gen_score: 0.9398
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [151/1000], gen_loss: 3.1587, disc_loss: 0.9778, real_score: 0.0481, gen_score: 0.5145
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [152/1000], gen_loss: 1.7960, disc_loss: 0.8432, real_score: 0.3366, gen_score: 0.7693
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [153/1000], gen_loss: 2.8820, disc_loss: 0.6063, real_score: 0.1858, gen_score: 0.8298
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [154/1000], gen_loss: 2.1793, disc_loss: 1.8067, real_score: 0.7565, gen_score: 0.9504
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [155/1000], gen_loss: 1.3111, disc_loss: 1.1683, real_score: 0.5639, gen_score: 0.9692
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [156/1000], gen_loss: 1.7468, disc_loss: 0.6734, real_score: 0.2039, gen_score: 0.7767
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [157/1000], gen_loss: 2.6363, disc_loss: 0.4440, real_score: 0.0396, gen_score: 0.9306
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [158/1000], gen_loss: 4.9920, disc_loss: 0.7483, real_score: 0.0869, gen_score: 0.6467
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [159/1000], gen_loss: 2.6726, disc_loss: 0.7086, real_score: 0.3271, gen_score: 0.9394
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [160/1000], gen_loss: 2.7877, disc_loss: 0.6748, real_score: 0.2970, gen_score: 0.9791
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [161/1000], gen_loss: 1.6748, disc_loss: 0.5581, real_score: 0.1598, gen_score: 0.8662
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [162/1000], gen_loss: 5.9834, disc_loss: 1.3629, real_score: 0.0168, gen_score: 0.3605
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [163/1000], gen_loss: 3.1890, disc_loss: 0.6463, real_score: 0.2651, gen_score: 0.8874
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [164/1000], gen_loss: 2.8579, disc_loss: 0.6052, real_score: 0.2519, gen_score: 0.9423
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [165/1000], gen_loss: 5.3050, disc_loss: 0.9428, real_score: 0.0579, gen_score: 0.5253
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [166/1000], gen_loss: 3.3667, disc_loss: 0.5492, real_score: 0.1649, gen_score: 0.8633
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [167/1000], gen_loss: 2.7210, disc_loss: 0.4568, real_score: 0.0859, gen_score: 0.9300
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [168/1000], gen_loss: 4.3902, disc_loss: 0.6127, real_score: 0.0801, gen_score: 0.7371
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [169/1000], gen_loss: 3.0154, disc_loss: 1.0626, real_score: 0.1282, gen_score: 0.4794
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [170/1000], gen_loss: 4.0115, disc_loss: 0.7385, real_score: 0.1390, gen_score: 0.6808
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [171/1000], gen_loss: 1.3920, disc_loss: 0.9204, real_score: 0.4284, gen_score: 0.8776
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [172/1000], gen_loss: 2.7480, disc_loss: 0.5593, real_score: 0.2031, gen_score: 0.9203
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [173/1000], gen_loss: 5.1278, disc_loss: 1.0857, real_score: 0.0152, gen_score: 0.4582
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [174/1000], gen_loss: 3.7547, disc_loss: 0.5408, real_score: 0.1800, gen_score: 0.9801
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [175/1000], gen_loss: 3.9547, disc_loss: 0.7581, real_score: 0.3067, gen_score: 0.9949
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [176/1000], gen_loss: 1.7125, disc_loss: 0.5682, real_score: 0.2123, gen_score: 0.8985
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [177/1000], gen_loss: 2.5512, disc_loss: 0.4690, real_score: 0.1133, gen_score: 0.9639
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [178/1000], gen_loss: 1.9358, disc_loss: 0.5864, real_score: 0.2036, gen_score: 0.8620
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [179/1000], gen_loss: 2.5066, disc_loss: 0.5550, real_score: 0.1991, gen_score: 0.9565
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [180/1000], gen_loss: 2.4514, disc_loss: 0.5011, real_score: 0.1220, gen_score: 0.8825
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [181/1000], gen_loss: 1.3288, disc_loss: 0.8079, real_score: 0.3936, gen_score: 0.9475
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [182/1000], gen_loss: 2.4706, disc_loss: 0.5026, real_score: 0.1401, gen_score: 0.9133
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [183/1000], gen_loss: 3.5571, disc_loss: 0.4623, real_score: 0.0704, gen_score: 0.9136
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [184/1000], gen_loss: 3.4668, disc_loss: 0.8136, real_score: 0.0717, gen_score: 0.6037
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [185/1000], gen_loss: 5.4981, disc_loss: 0.9855, real_score: 0.0425, gen_score: 0.4984
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [186/1000], gen_loss: 4.0039, disc_loss: 1.2836, real_score: 0.0418, gen_score: 0.3853
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [187/1000], gen_loss: 2.6613, disc_loss: 0.5800, real_score: 0.2202, gen_score: 0.9743
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [188/1000], gen_loss: 1.3538, disc_loss: 2.1512, real_score: 0.8070, gen_score: 0.9798
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [189/1000], gen_loss: 3.3577, disc_loss: 0.4996, real_score: 0.0815, gen_score: 0.8610
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [190/1000], gen_loss: 3.5701, disc_loss: 0.5177, real_score: 0.0779, gen_score: 0.8411
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [191/1000], gen_loss: 3.6645, disc_loss: 0.7100, real_score: 0.0514, gen_score: 0.6824
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [192/1000], gen_loss: 2.5272, disc_loss: 0.9847, real_score: 0.4800, gen_score: 0.9743
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [193/1000], gen_loss: 4.2468, disc_loss: 0.8610, real_score: 0.1068, gen_score: 0.5872
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [194/1000], gen_loss: 3.3317, disc_loss: 0.4985, real_score: 0.0978, gen_score: 0.8779
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [195/1000], gen_loss: 3.2060, disc_loss: 0.4683, real_score: 0.1121, gen_score: 0.9322
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [196/1000], gen_loss: 1.1894, disc_loss: 1.4866, real_score: 0.6377, gen_score: 0.9899
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [197/1000], gen_loss: 1.1821, disc_loss: 1.9378, real_score: 0.7487, gen_score: 0.9853
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [198/1000], gen_loss: 1.7579, disc_loss: 0.7636, real_score: 0.3304, gen_score: 0.8662
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [199/1000], gen_loss: 3.2411, disc_loss: 0.7970, real_score: 0.3587, gen_score: 0.9818
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [200/1000], gen_loss: 4.1419, disc_loss: 1.1237, real_score: 0.0555, gen_score: 0.4420
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [201/1000], gen_loss: 2.4285, disc_loss: 0.5356, real_score: 0.1737, gen_score: 0.9207
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [202/1000], gen_loss: 3.8102, disc_loss: 0.9093, real_score: 0.1604, gen_score: 0.5860
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [203/1000], gen_loss: 1.7452, disc_loss: 0.6750, real_score: 0.2890, gen_score: 0.9531
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [204/1000], gen_loss: 4.3046, disc_loss: 0.8359, real_score: 0.0336, gen_score: 0.5975
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [205/1000], gen_loss: 1.2729, disc_loss: 2.1079, real_score: 0.7965, gen_score: 0.9838
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [206/1000], gen_loss: 4.3121, disc_loss: 1.0473, real_score: 0.0688, gen_score: 0.4880
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [207/1000], gen_loss: 2.9826, disc_loss: 0.6522, real_score: 0.0569, gen_score: 0.7099
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [208/1000], gen_loss: 1.8665, disc_loss: 0.7155, real_score: 0.3132, gen_score: 0.9372
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [209/1000], gen_loss: 2.7776, disc_loss: 0.6067, real_score: 0.0994, gen_score: 0.7660
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [210/1000], gen_loss: 3.4266, disc_loss: 0.6311, real_score: 0.1855, gen_score: 0.8152
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [211/1000], gen_loss: 2.5068, disc_loss: 0.5163, real_score: 0.1423, gen_score: 0.8814
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [212/1000], gen_loss: 1.7421, disc_loss: 0.7006, real_score: 0.2699, gen_score: 0.8420
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [213/1000], gen_loss: 3.0624, disc_loss: 0.6055, real_score: 0.1203, gen_score: 0.7675
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [214/1000], gen_loss: 3.8095, disc_loss: 1.0037, real_score: 0.0742, gen_score: 0.5053
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [215/1000], gen_loss: 3.8375, disc_loss: 0.8540, real_score: 0.0629, gen_score: 0.5863
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [216/1000], gen_loss: 3.7868, disc_loss: 0.4813, real_score: 0.0749, gen_score: 0.8725
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [217/1000], gen_loss: 2.0786, disc_loss: 0.6180, real_score: 0.2026, gen_score: 0.8606
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [218/1000], gen_loss: 5.7216, disc_loss: 0.9688, real_score: 0.0842, gen_score: 0.5233
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [219/1000], gen_loss: 3.6897, disc_loss: 0.8279, real_score: 0.2285, gen_score: 0.6698
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [220/1000], gen_loss: 5.6743, disc_loss: 0.9784, real_score: 0.0521, gen_score: 0.5171
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [221/1000], gen_loss: 3.4415, disc_loss: 0.8236, real_score: 0.0797, gen_score: 0.6136
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [222/1000], gen_loss: 4.7284, disc_loss: 0.6266, real_score: 0.0752, gen_score: 0.7309
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [223/1000], gen_loss: 1.0970, disc_loss: 0.7584, real_score: 0.3489, gen_score: 0.9178
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [224/1000], gen_loss: 3.4468, disc_loss: 0.4670, real_score: 0.0702, gen_score: 0.9322
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [225/1000], gen_loss: 3.0987, disc_loss: 0.6507, real_score: 0.2507, gen_score: 0.9883
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [226/1000], gen_loss: 3.0131, disc_loss: 0.7143, real_score: 0.0898, gen_score: 0.6887
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [227/1000], gen_loss: 2.8867, disc_loss: 0.5163, real_score: 0.1658, gen_score: 0.9572
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [228/1000], gen_loss: 1.5452, disc_loss: 0.9629, real_score: 0.4588, gen_score: 0.8944
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [229/1000], gen_loss: 4.7423, disc_loss: 0.7898, real_score: 0.1233, gen_score: 0.6386
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [230/1000], gen_loss: 1.1393, disc_loss: 0.8843, real_score: 0.4007, gen_score: 0.8830
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [231/1000], gen_loss: 5.1000, disc_loss: 0.9165, real_score: 0.0844, gen_score: 0.5533
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [232/1000], gen_loss: 3.1766, disc_loss: 0.7404, real_score: 0.0651, gen_score: 0.6669
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [233/1000], gen_loss: 3.6550, disc_loss: 0.5222, real_score: 0.0897, gen_score: 0.8357
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [234/1000], gen_loss: 3.2289, disc_loss: 0.6227, real_score: 0.1988, gen_score: 0.8318
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [235/1000], gen_loss: 2.8404, disc_loss: 0.5095, real_score: 0.1251, gen_score: 0.8965
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [236/1000], gen_loss: 2.9998, disc_loss: 0.8136, real_score: 0.0523, gen_score: 0.5993
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [237/1000], gen_loss: 3.1593, disc_loss: 0.7940, real_score: 0.0561, gen_score: 0.6177
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [238/1000], gen_loss: 1.9999, disc_loss: 0.4842, real_score: 0.1302, gen_score: 0.9380
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [239/1000], gen_loss: 3.5962, disc_loss: 0.6963, real_score: 0.0528, gen_score: 0.6765
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [240/1000], gen_loss: 1.6317, disc_loss: 2.3293, real_score: 0.8011, gen_score: 0.9938
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [241/1000], gen_loss: 3.6680, disc_loss: 0.5112, real_score: 0.0530, gen_score: 0.8321
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [242/1000], gen_loss: 3.9825, disc_loss: 0.7474, real_score: 0.0751, gen_score: 0.6483
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [243/1000], gen_loss: 4.6722, disc_loss: 1.1888, real_score: 0.0226, gen_score: 0.4313
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [244/1000], gen_loss: 1.8512, disc_loss: 0.6133, real_score: 0.2066, gen_score: 0.8552
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [245/1000], gen_loss: 1.6401, disc_loss: 1.0405, real_score: 0.4981, gen_score: 0.9543
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [246/1000], gen_loss: 2.8459, disc_loss: 0.6737, real_score: 0.0984, gen_score: 0.7002
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [247/1000], gen_loss: 4.0548, disc_loss: 1.4388, real_score: 0.0133, gen_score: 0.3524
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [248/1000], gen_loss: 5.4322, disc_loss: 0.6834, real_score: 0.0631, gen_score: 0.7041
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [249/1000], gen_loss: 3.0446, disc_loss: 0.7182, real_score: 0.3199, gen_score: 0.9802
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [250/1000], gen_loss: 1.8519, disc_loss: 0.6271, real_score: 0.2071, gen_score: 0.8409
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [251/1000], gen_loss: 2.1135, disc_loss: 3.2716, real_score: 0.9064, gen_score: 0.9941
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [252/1000], gen_loss: 3.3609, disc_loss: 1.0109, real_score: 0.0610, gen_score: 0.5072
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [253/1000], gen_loss: 4.8155, disc_loss: 0.7270, real_score: 0.0994, gen_score: 0.6704
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [254/1000], gen_loss: 2.4198, disc_loss: 0.5733, real_score: 0.1794, gen_score: 0.8738
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [255/1000], gen_loss: 2.0642, disc_loss: 0.5522, real_score: 0.2008, gen_score: 0.9356
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [256/1000], gen_loss: 4.8389, disc_loss: 1.3202, real_score: 0.0175, gen_score: 0.3741
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [257/1000], gen_loss: 3.4580, disc_loss: 0.5416, real_score: 0.0619, gen_score: 0.8056
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [258/1000], gen_loss: 2.4769, disc_loss: 0.4703, real_score: 0.1098, gen_score: 0.9226
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [259/1000], gen_loss: 1.2363, disc_loss: 0.8682, real_score: 0.4144, gen_score: 0.9208
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [260/1000], gen_loss: 1.7502, disc_loss: 0.5489, real_score: 0.1667, gen_score: 0.8872
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [261/1000], gen_loss: 1.6947, disc_loss: 1.3676, real_score: 0.6105, gen_score: 0.9764
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [262/1000], gen_loss: 2.0789, disc_loss: 0.6281, real_score: 0.2358, gen_score: 0.8716
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [263/1000], gen_loss: 1.8855, disc_loss: 0.7015, real_score: 0.3149, gen_score: 0.9414
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [264/1000], gen_loss: 1.4240, disc_loss: 0.6481, real_score: 0.2112, gen_score: 0.8330
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [265/1000], gen_loss: 0.9995, disc_loss: 0.9200, real_score: 0.4337, gen_score: 0.9641
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [266/1000], gen_loss: 1.7192, disc_loss: 0.5889, real_score: 0.1138, gen_score: 0.8049
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [267/1000], gen_loss: 3.2436, disc_loss: 0.6489, real_score: 0.0712, gen_score: 0.7220
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [268/1000], gen_loss: 3.0932, disc_loss: 0.7355, real_score: 0.1620, gen_score: 0.6941
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [269/1000], gen_loss: 2.6160, disc_loss: 0.6959, real_score: 0.1794, gen_score: 0.7493
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [270/1000], gen_loss: 4.5568, disc_loss: 0.7339, real_score: 0.0794, gen_score: 0.6619
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [271/1000], gen_loss: 2.2741, disc_loss: 0.9740, real_score: 0.4579, gen_score: 0.9792
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [272/1000], gen_loss: 1.7318, disc_loss: 0.7324, real_score: 0.3329, gen_score: 0.9657
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [273/1000], gen_loss: 1.9690, disc_loss: 0.7590, real_score: 0.3358, gen_score: 0.9672
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [274/1000], gen_loss: 5.4875, disc_loss: 0.7083, real_score: 0.0472, gen_score: 0.6717
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [275/1000], gen_loss: 4.2418, disc_loss: 0.7856, real_score: 0.0134, gen_score: 0.6341
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [276/1000], gen_loss: 0.9087, disc_loss: 1.0189, real_score: 0.4862, gen_score: 0.9586
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [277/1000], gen_loss: 3.7434, disc_loss: 0.6935, real_score: 0.1440, gen_score: 0.7228
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [278/1000], gen_loss: 3.1998, disc_loss: 0.5970, real_score: 0.1718, gen_score: 0.8321
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [279/1000], gen_loss: 2.2191, disc_loss: 0.5660, real_score: 0.1491, gen_score: 0.8604
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [280/1000], gen_loss: 4.3984, disc_loss: 1.0052, real_score: 0.0682, gen_score: 0.4900
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [281/1000], gen_loss: 3.7954, disc_loss: 0.9399, real_score: 0.0570, gen_score: 0.5554
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [282/1000], gen_loss: 0.8413, disc_loss: 0.7192, real_score: 0.2467, gen_score: 0.8266
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [283/1000], gen_loss: 2.7409, disc_loss: 0.9427, real_score: 0.0421, gen_score: 0.5293
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [284/1000], gen_loss: 1.2023, disc_loss: 1.2144, real_score: 0.5544, gen_score: 0.9795
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [285/1000], gen_loss: 1.8088, disc_loss: 0.7489, real_score: 0.2402, gen_score: 0.7613
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [286/1000], gen_loss: 3.7799, disc_loss: 0.7007, real_score: 0.1024, gen_score: 0.6891
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [287/1000], gen_loss: 0.8140, disc_loss: 0.9381, real_score: 0.4509, gen_score: 0.9344
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [288/1000], gen_loss: 3.7146, disc_loss: 0.5928, real_score: 0.0664, gen_score: 0.7518
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [289/1000], gen_loss: 2.0530, disc_loss: 0.6248, real_score: 0.2544, gen_score: 0.9294
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [290/1000], gen_loss: 2.0167, disc_loss: 0.5908, real_score: 0.0980, gen_score: 0.7958
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [291/1000], gen_loss: 2.2301, disc_loss: 0.8321, real_score: 0.3761, gen_score: 0.9884
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [292/1000], gen_loss: 4.9231, disc_loss: 0.6294, real_score: 0.1178, gen_score: 0.7580
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [293/1000], gen_loss: 2.0626, disc_loss: 1.0411, real_score: 0.4736, gen_score: 0.9844
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [294/1000], gen_loss: 4.6394, disc_loss: 0.8123, real_score: 0.0565, gen_score: 0.6124
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [295/1000], gen_loss: 2.2052, disc_loss: 0.5499, real_score: 0.1762, gen_score: 0.8802
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [296/1000], gen_loss: 3.9293, disc_loss: 1.2000, real_score: 0.0417, gen_score: 0.4111
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [297/1000], gen_loss: 2.8391, disc_loss: 0.9532, real_score: 0.0715, gen_score: 0.5355
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [298/1000], gen_loss: 4.2850, disc_loss: 0.7067, real_score: 0.1587, gen_score: 0.7244
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [299/1000], gen_loss: 1.4064, disc_loss: 0.9424, real_score: 0.4442, gen_score: 0.9294
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [300/1000], gen_loss: 4.0011, disc_loss: 0.8313, real_score: 0.0635, gen_score: 0.5926
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [301/1000], gen_loss: 1.9876, disc_loss: 0.9226, real_score: 0.3613, gen_score: 0.7771
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [302/1000], gen_loss: 2.3711, disc_loss: 0.7809, real_score: 0.0595, gen_score: 0.6260
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [303/1000], gen_loss: 0.7560, disc_loss: 1.1414, real_score: 0.5278, gen_score: 0.9728
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [304/1000], gen_loss: 1.4257, disc_loss: 1.6654, real_score: 0.6914, gen_score: 0.9905
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [305/1000], gen_loss: 4.4453, disc_loss: 0.9818, real_score: 0.0802, gen_score: 0.5086
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [306/1000], gen_loss: 5.2447, disc_loss: 0.8475, real_score: 0.0959, gen_score: 0.5902
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [307/1000], gen_loss: 2.3929, disc_loss: 0.5098, real_score: 0.1442, gen_score: 0.9313
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [308/1000], gen_loss: 3.3488, disc_loss: 0.5397, real_score: 0.1453, gen_score: 0.8981
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [309/1000], gen_loss: 4.0481, disc_loss: 1.2789, real_score: 0.0515, gen_score: 0.3886
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [310/1000], gen_loss: 2.0446, disc_loss: 0.5108, real_score: 0.1240, gen_score: 0.8851
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [311/1000], gen_loss: 2.2610, disc_loss: 0.8313, real_score: 0.3857, gen_score: 0.9497
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [312/1000], gen_loss: 3.0177, disc_loss: 0.4917, real_score: 0.1164, gen_score: 0.9161
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [313/1000], gen_loss: 2.5694, disc_loss: 0.8598, real_score: 0.4011, gen_score: 0.9598
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [314/1000], gen_loss: 2.2762, disc_loss: 0.6613, real_score: 0.0958, gen_score: 0.7080
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [315/1000], gen_loss: 0.7044, disc_loss: 1.1340, real_score: 0.4909, gen_score: 0.8112
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [316/1000], gen_loss: 2.1481, disc_loss: 0.7617, real_score: 0.3349, gen_score: 0.9147
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [317/1000], gen_loss: 1.2358, disc_loss: 1.1278, real_score: 0.5153, gen_score: 0.9755
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [318/1000], gen_loss: 1.2407, disc_loss: 0.6227, real_score: 0.2135, gen_score: 0.8708
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [319/1000], gen_loss: 5.4607, disc_loss: 0.7628, real_score: 0.0434, gen_score: 0.6283
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [320/1000], gen_loss: 1.5873, disc_loss: 0.5358, real_score: 0.1238, gen_score: 0.8760
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [321/1000], gen_loss: 2.2134, disc_loss: 0.5510, real_score: 0.1903, gen_score: 0.9395
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [322/1000], gen_loss: 3.7316, disc_loss: 0.6355, real_score: 0.0917, gen_score: 0.7381
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [323/1000], gen_loss: 0.4781, disc_loss: 1.0641, real_score: 0.5005, gen_score: 0.9524
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [324/1000], gen_loss: 3.1738, disc_loss: 0.6663, real_score: 0.2069, gen_score: 0.8033
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [325/1000], gen_loss: 4.4572, disc_loss: 0.6809, real_score: 0.0958, gen_score: 0.6986
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [326/1000], gen_loss: 3.5666, disc_loss: 0.9578, real_score: 0.1007, gen_score: 0.5364
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [327/1000], gen_loss: 4.2112, disc_loss: 1.2689, real_score: 0.0337, gen_score: 0.3952
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [328/1000], gen_loss: 2.2052, disc_loss: 0.7690, real_score: 0.3593, gen_score: 0.9490
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [329/1000], gen_loss: 0.8260, disc_loss: 0.9055, real_score: 0.4046, gen_score: 0.8519
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [330/1000], gen_loss: 3.6658, disc_loss: 0.5259, real_score: 0.0756, gen_score: 0.8244
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [331/1000], gen_loss: 1.5171, disc_loss: 2.0262, real_score: 0.7466, gen_score: 0.9893
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [332/1000], gen_loss: 1.4379, disc_loss: 0.5644, real_score: 0.1498, gen_score: 0.8660
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [333/1000], gen_loss: 3.4353, disc_loss: 0.4769, real_score: 0.0902, gen_score: 0.9072
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [334/1000], gen_loss: 0.4964, disc_loss: 1.4964, real_score: 0.6618, gen_score: 0.9503
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [335/1000], gen_loss: 2.5659, disc_loss: 0.6281, real_score: 0.2233, gen_score: 0.8727
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [336/1000], gen_loss: 1.7686, disc_loss: 0.6230, real_score: 0.2345, gen_score: 0.9715
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [337/1000], gen_loss: 1.4083, disc_loss: 0.6262, real_score: 0.2113, gen_score: 0.8644
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [338/1000], gen_loss: 1.6741, disc_loss: 0.6385, real_score: 0.2597, gen_score: 0.9223
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [339/1000], gen_loss: 4.2345, disc_loss: 0.7823, real_score: 0.0328, gen_score: 0.6179
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [340/1000], gen_loss: 1.9675, disc_loss: 0.7718, real_score: 0.2892, gen_score: 0.8141
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [341/1000], gen_loss: 2.7498, disc_loss: 0.5543, real_score: 0.1077, gen_score: 0.8176
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [342/1000], gen_loss: 2.1915, disc_loss: 0.9408, real_score: 0.4320, gen_score: 0.9758
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [343/1000], gen_loss: 1.5670, disc_loss: 0.6103, real_score: 0.2270, gen_score: 0.9166
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [344/1000], gen_loss: 2.1225, disc_loss: 1.8130, real_score: 0.7203, gen_score: 0.9914
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [345/1000], gen_loss: 2.1784, disc_loss: 0.5922, real_score: 0.1798, gen_score: 0.8545
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [346/1000], gen_loss: 4.2927, disc_loss: 0.8816, real_score: 0.0626, gen_score: 0.5671
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [347/1000], gen_loss: 1.6169, disc_loss: 1.4257, real_score: 0.6018, gen_score: 0.9911
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [348/1000], gen_loss: 4.5794, disc_loss: 0.8154, real_score: 0.1008, gen_score: 0.6035
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [349/1000], gen_loss: 4.8623, disc_loss: 0.7597, real_score: 0.0227, gen_score: 0.6344
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [350/1000], gen_loss: 1.0638, disc_loss: 0.8382, real_score: 0.3642, gen_score: 0.8412
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [351/1000], gen_loss: 4.1092, disc_loss: 0.6625, real_score: 0.0310, gen_score: 0.7126
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [352/1000], gen_loss: 2.0351, disc_loss: 0.5597, real_score: 0.1251, gen_score: 0.8336
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [353/1000], gen_loss: 3.0559, disc_loss: 0.5577, real_score: 0.1903, gen_score: 0.9385
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [354/1000], gen_loss: 2.3444, disc_loss: 0.9419, real_score: 0.4366, gen_score: 0.9761
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [355/1000], gen_loss: 3.8953, disc_loss: 0.6153, real_score: 0.0817, gen_score: 0.7613
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [356/1000], gen_loss: 2.5325, disc_loss: 0.9714, real_score: 0.4468, gen_score: 0.9864
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [357/1000], gen_loss: 2.9799, disc_loss: 0.5119, real_score: 0.1252, gen_score: 0.9378
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [358/1000], gen_loss: 2.6788, disc_loss: 0.5021, real_score: 0.1104, gen_score: 0.8730
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [359/1000], gen_loss: 1.2089, disc_loss: 0.9114, real_score: 0.4260, gen_score: 0.9802
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [360/1000], gen_loss: 2.8588, disc_loss: 0.6105, real_score: 0.0994, gen_score: 0.7760
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [361/1000], gen_loss: 3.7848, disc_loss: 1.0634, real_score: 0.0631, gen_score: 0.4757
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [362/1000], gen_loss: 1.2761, disc_loss: 0.5840, real_score: 0.2217, gen_score: 0.9664
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [363/1000], gen_loss: 4.5858, disc_loss: 0.5553, real_score: 0.0472, gen_score: 0.7932
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [364/1000], gen_loss: 1.8387, disc_loss: 0.7851, real_score: 0.3321, gen_score: 0.8648
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [365/1000], gen_loss: 3.0488, disc_loss: 0.6204, real_score: 0.0935, gen_score: 0.7494
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [366/1000], gen_loss: 2.6209, disc_loss: 0.6288, real_score: 0.0598, gen_score: 0.7391
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [367/1000], gen_loss: 4.8962, disc_loss: 1.0962, real_score: 0.0560, gen_score: 0.4559
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [368/1000], gen_loss: 1.0133, disc_loss: 0.8659, real_score: 0.3794, gen_score: 0.9169
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [369/1000], gen_loss: 2.6355, disc_loss: 0.5644, real_score: 0.1886, gen_score: 0.9140
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [370/1000], gen_loss: 5.5262, disc_loss: 0.9867, real_score: 0.0234, gen_score: 0.5144
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [371/1000], gen_loss: 3.5035, disc_loss: 1.6106, real_score: 0.0340, gen_score: 0.2866
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [372/1000], gen_loss: 2.5856, disc_loss: 0.6081, real_score: 0.2016, gen_score: 0.8800
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [373/1000], gen_loss: 3.3516, disc_loss: 0.5368, real_score: 0.1660, gen_score: 0.9051
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [374/1000], gen_loss: 2.1535, disc_loss: 0.6904, real_score: 0.2554, gen_score: 0.8441
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [375/1000], gen_loss: 3.2275, disc_loss: 1.1533, real_score: 0.0457, gen_score: 0.4325
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [376/1000], gen_loss: 3.8417, disc_loss: 1.1014, real_score: 0.4702, gen_score: 0.9932
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [377/1000], gen_loss: 3.3981, disc_loss: 0.5057, real_score: 0.1083, gen_score: 0.8760
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [378/1000], gen_loss: 2.7590, disc_loss: 0.5726, real_score: 0.1621, gen_score: 0.8636
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [379/1000], gen_loss: 1.8098, disc_loss: 0.6174, real_score: 0.2356, gen_score: 0.9350
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [380/1000], gen_loss: 2.2799, disc_loss: 0.5629, real_score: 0.1199, gen_score: 0.8225
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [381/1000], gen_loss: 3.1225, disc_loss: 0.6296, real_score: 0.2615, gen_score: 0.9465
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [382/1000], gen_loss: 1.7910, disc_loss: 0.6973, real_score: 0.2821, gen_score: 0.8721
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [383/1000], gen_loss: 3.7110, disc_loss: 1.2523, real_score: 0.0275, gen_score: 0.4097
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [384/1000], gen_loss: 2.6911, disc_loss: 0.6169, real_score: 0.1938, gen_score: 0.8379
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [385/1000], gen_loss: 5.1735, disc_loss: 1.5862, real_score: 0.0180, gen_score: 0.2935
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [386/1000], gen_loss: 2.7058, disc_loss: 0.6508, real_score: 0.2096, gen_score: 0.8455
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [387/1000], gen_loss: 2.6594, disc_loss: 0.5243, real_score: 0.0958, gen_score: 0.8470
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [388/1000], gen_loss: 3.7886, disc_loss: 0.5898, real_score: 0.0472, gen_score: 0.7721
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [389/1000], gen_loss: 2.0752, disc_loss: 0.7166, real_score: 0.2729, gen_score: 0.8466
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [390/1000], gen_loss: 6.2505, disc_loss: 1.8979, real_score: 0.0126, gen_score: 0.2202
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [391/1000], gen_loss: 3.9402, disc_loss: 1.1359, real_score: 0.0473, gen_score: 0.4459
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [392/1000], gen_loss: 3.5056, disc_loss: 1.1491, real_score: 0.0359, gen_score: 0.4356
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [393/1000], gen_loss: 1.2761, disc_loss: 1.9487, real_score: 0.7373, gen_score: 0.9920
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [394/1000], gen_loss: 4.2111, disc_loss: 0.5421, real_score: 0.1712, gen_score: 0.9241
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [395/1000], gen_loss: 2.3114, disc_loss: 0.5357, real_score: 0.1793, gen_score: 0.9217
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [396/1000], gen_loss: 3.7803, disc_loss: 0.7833, real_score: 0.1358, gen_score: 0.6555
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [397/1000], gen_loss: 2.8378, disc_loss: 0.6295, real_score: 0.2488, gen_score: 0.9166
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [398/1000], gen_loss: 2.1114, disc_loss: 0.6276, real_score: 0.1999, gen_score: 0.8425
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [399/1000], gen_loss: 3.9147, disc_loss: 0.8952, real_score: 0.0879, gen_score: 0.5670
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [400/1000], gen_loss: 2.1699, disc_loss: 0.6251, real_score: 0.1913, gen_score: 0.8213
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [401/1000], gen_loss: 2.3031, disc_loss: 0.6468, real_score: 0.1536, gen_score: 0.7633
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [402/1000], gen_loss: 2.1828, disc_loss: 0.7233, real_score: 0.3064, gen_score: 0.8973
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [403/1000], gen_loss: 1.0410, disc_loss: 0.8136, real_score: 0.2364, gen_score: 0.6997
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [404/1000], gen_loss: 2.4425, disc_loss: 0.5782, real_score: 0.1549, gen_score: 0.8537
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [405/1000], gen_loss: 2.6804, disc_loss: 0.9182, real_score: 0.2759, gen_score: 0.6775
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [406/1000], gen_loss: 4.4773, disc_loss: 0.8433, real_score: 0.1018, gen_score: 0.6033
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [407/1000], gen_loss: 2.0783, disc_loss: 0.7998, real_score: 0.2254, gen_score: 0.7205
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [408/1000], gen_loss: 2.0833, disc_loss: 0.6831, real_score: 0.2556, gen_score: 0.8581
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [409/1000], gen_loss: 2.9046, disc_loss: 0.8568, real_score: 0.1355, gen_score: 0.5984
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [410/1000], gen_loss: 0.9144, disc_loss: 0.8294, real_score: 0.3602, gen_score: 0.9180
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [411/1000], gen_loss: 3.4018, disc_loss: 0.5508, real_score: 0.1601, gen_score: 0.9027
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [412/1000], gen_loss: 3.7724, disc_loss: 0.6606, real_score: 0.1506, gen_score: 0.7465
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [413/1000], gen_loss: 2.4338, disc_loss: 1.1721, real_score: 0.5418, gen_score: 0.9881
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [414/1000], gen_loss: 2.9066, disc_loss: 0.5266, real_score: 0.1452, gen_score: 0.9132
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [415/1000], gen_loss: 3.1342, disc_loss: 0.5190, real_score: 0.0629, gen_score: 0.8268
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [416/1000], gen_loss: 0.9463, disc_loss: 1.1493, real_score: 0.5337, gen_score: 0.9726
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [417/1000], gen_loss: 1.4859, disc_loss: 0.8103, real_score: 0.2563, gen_score: 0.7418
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [418/1000], gen_loss: 3.6510, disc_loss: 0.6743, real_score: 0.0660, gen_score: 0.6989
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [419/1000], gen_loss: 2.7793, disc_loss: 0.6862, real_score: 0.1309, gen_score: 0.7518
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [420/1000], gen_loss: 2.6839, disc_loss: 0.5985, real_score: 0.2307, gen_score: 0.9573
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [421/1000], gen_loss: 3.9911, disc_loss: 0.6028, real_score: 0.0739, gen_score: 0.7616
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [422/1000], gen_loss: 4.4063, disc_loss: 1.1419, real_score: 0.0223, gen_score: 0.4546
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [423/1000], gen_loss: 2.7002, disc_loss: 0.8066, real_score: 0.3473, gen_score: 0.9242
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [424/1000], gen_loss: 1.2095, disc_loss: 1.6198, real_score: 0.6854, gen_score: 0.9693
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [425/1000], gen_loss: 3.1924, disc_loss: 0.6292, real_score: 0.0368, gen_score: 0.7283
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [426/1000], gen_loss: 2.1720, disc_loss: 0.8642, real_score: 0.1993, gen_score: 0.6308
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [427/1000], gen_loss: 5.1398, disc_loss: 0.8206, real_score: 0.0525, gen_score: 0.5999
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [428/1000], gen_loss: 2.8602, disc_loss: 0.6536, real_score: 0.2064, gen_score: 0.8246
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [429/1000], gen_loss: 1.4214, disc_loss: 0.6204, real_score: 0.2092, gen_score: 0.8720
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [430/1000], gen_loss: 4.8100, disc_loss: 0.8732, real_score: 0.0281, gen_score: 0.5631
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [431/1000], gen_loss: 2.9295, disc_loss: 1.4871, real_score: 0.6436, gen_score: 0.9860
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [432/1000], gen_loss: 1.5488, disc_loss: 1.5131, real_score: 0.6417, gen_score: 0.9687
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [433/1000], gen_loss: 1.5366, disc_loss: 0.6396, real_score: 0.1859, gen_score: 0.8084
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [434/1000], gen_loss: 3.9967, disc_loss: 0.7589, real_score: 0.0410, gen_score: 0.6369
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [435/1000], gen_loss: 1.4297, disc_loss: 0.5727, real_score: 0.1967, gen_score: 0.9177
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [436/1000], gen_loss: 2.3268, disc_loss: 0.6223, real_score: 0.2457, gen_score: 0.9622
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [437/1000], gen_loss: 1.0893, disc_loss: 1.3208, real_score: 0.5788, gen_score: 0.9642
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [438/1000], gen_loss: 1.6065, disc_loss: 0.7034, real_score: 0.2556, gen_score: 0.8255
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [439/1000], gen_loss: 1.6625, disc_loss: 0.6212, real_score: 0.2139, gen_score: 0.8704
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [440/1000], gen_loss: 2.7660, disc_loss: 0.5479, real_score: 0.1763, gen_score: 0.9191
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [441/1000], gen_loss: 4.7842, disc_loss: 2.3078, real_score: 0.0299, gen_score: 0.1508
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [442/1000], gen_loss: 0.9772, disc_loss: 0.9645, real_score: 0.4198, gen_score: 0.8122
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [443/1000], gen_loss: 0.7951, disc_loss: 2.1386, real_score: 0.7843, gen_score: 0.9438
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [444/1000], gen_loss: 1.4459, disc_loss: 1.3182, real_score: 0.5771, gen_score: 0.9778
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [445/1000], gen_loss: 2.4995, disc_loss: 0.6496, real_score: 0.1027, gen_score: 0.7234
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [446/1000], gen_loss: 2.4210, disc_loss: 0.6165, real_score: 0.1603, gen_score: 0.8133
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [447/1000], gen_loss: 1.8985, disc_loss: 0.9420, real_score: 0.4191, gen_score: 0.9188
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [448/1000], gen_loss: 3.6809, disc_loss: 0.5737, real_score: 0.1003, gen_score: 0.7901
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [449/1000], gen_loss: 4.4013, disc_loss: 0.7309, real_score: 0.1043, gen_score: 0.6685
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [450/1000], gen_loss: 4.2311, disc_loss: 0.6924, real_score: 0.1111, gen_score: 0.7034
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [451/1000], gen_loss: 3.0207, disc_loss: 0.6887, real_score: 0.1081, gen_score: 0.6996
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [452/1000], gen_loss: 2.5976, disc_loss: 0.7643, real_score: 0.0523, gen_score: 0.6333
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [453/1000], gen_loss: 3.4830, disc_loss: 1.3732, real_score: 0.0192, gen_score: 0.3477
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [454/1000], gen_loss: 2.2447, disc_loss: 0.8623, real_score: 0.1907, gen_score: 0.6398
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [455/1000], gen_loss: 3.4536, disc_loss: 0.7589, real_score: 0.2331, gen_score: 0.7414
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [456/1000], gen_loss: 1.7457, disc_loss: 2.0203, real_score: 0.7598, gen_score: 0.9947
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [457/1000], gen_loss: 1.1220, disc_loss: 0.6821, real_score: 0.2683, gen_score: 0.8730
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [458/1000], gen_loss: 3.2260, disc_loss: 0.8590, real_score: 0.4011, gen_score: 0.9491
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [459/1000], gen_loss: 4.2920, disc_loss: 0.8954, real_score: 0.0918, gen_score: 0.5602
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [460/1000], gen_loss: 3.1487, disc_loss: 1.0482, real_score: 0.4879, gen_score: 0.9615
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [461/1000], gen_loss: 1.2863, disc_loss: 0.6389, real_score: 0.2745, gen_score: 0.9544
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [462/1000], gen_loss: 1.9479, disc_loss: 0.6401, real_score: 0.1375, gen_score: 0.7756
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [463/1000], gen_loss: 3.2162, disc_loss: 0.5108, real_score: 0.0688, gen_score: 0.8491
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [464/1000], gen_loss: 0.5089, disc_loss: 0.9065, real_score: 0.3950, gen_score: 0.8239
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [465/1000], gen_loss: 2.9406, disc_loss: 0.7544, real_score: 0.1756, gen_score: 0.7081
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [466/1000], gen_loss: 2.8228, disc_loss: 1.2770, real_score: 0.0480, gen_score: 0.3963
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [467/1000], gen_loss: 1.5947, disc_loss: 0.7055, real_score: 0.2932, gen_score: 0.8881
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [468/1000], gen_loss: 3.2594, disc_loss: 0.8286, real_score: 0.2828, gen_score: 0.7581
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [469/1000], gen_loss: 0.6790, disc_loss: 0.8177, real_score: 0.3144, gen_score: 0.7859
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [470/1000], gen_loss: 3.2303, disc_loss: 0.7088, real_score: 0.1344, gen_score: 0.7238
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [471/1000], gen_loss: 2.8050, disc_loss: 0.6238, real_score: 0.1748, gen_score: 0.8093
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [472/1000], gen_loss: 1.0853, disc_loss: 0.7621, real_score: 0.3180, gen_score: 0.8683
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [473/1000], gen_loss: 2.6899, disc_loss: 0.6195, real_score: 0.2053, gen_score: 0.8450
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [474/1000], gen_loss: 1.4152, disc_loss: 0.7226, real_score: 0.2754, gen_score: 0.8354
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [475/1000], gen_loss: 2.9985, disc_loss: 0.5437, real_score: 0.1904, gen_score: 0.9564
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [476/1000], gen_loss: 3.6676, disc_loss: 0.7669, real_score: 0.1875, gen_score: 0.7109
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [477/1000], gen_loss: 2.2610, disc_loss: 0.7728, real_score: 0.3402, gen_score: 0.9357
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [478/1000], gen_loss: 3.7818, disc_loss: 0.6133, real_score: 0.0584, gen_score: 0.7351
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [479/1000], gen_loss: 2.1532, disc_loss: 0.6811, real_score: 0.0615, gen_score: 0.7057
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [480/1000], gen_loss: 2.2162, disc_loss: 0.7213, real_score: 0.3200, gen_score: 0.9126
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [481/1000], gen_loss: 5.1239, disc_loss: 1.5247, real_score: 0.0782, gen_score: 0.3119
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [482/1000], gen_loss: 2.5386, disc_loss: 0.4695, real_score: 0.1101, gen_score: 0.9278
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [483/1000], gen_loss: 2.7522, disc_loss: 0.6817, real_score: 0.1314, gen_score: 0.7323
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [484/1000], gen_loss: 0.9975, disc_loss: 0.7084, real_score: 0.2807, gen_score: 0.8541
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [485/1000], gen_loss: 0.8197, disc_loss: 0.5921, real_score: 0.1985, gen_score: 0.8955
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [486/1000], gen_loss: 1.4738, disc_loss: 1.2980, real_score: 0.5993, gen_score: 0.8961
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [487/1000], gen_loss: 2.4435, disc_loss: 0.6898, real_score: 0.2707, gen_score: 0.8812
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [488/1000], gen_loss: 0.8971, disc_loss: 0.9687, real_score: 0.4143, gen_score: 0.8288
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [489/1000], gen_loss: 0.4771, disc_loss: 1.2939, real_score: 0.5865, gen_score: 0.9614
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [490/1000], gen_loss: 1.7466, disc_loss: 0.9485, real_score: 0.4339, gen_score: 0.9786
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [491/1000], gen_loss: 2.5263, disc_loss: 0.5915, real_score: 0.1644, gen_score: 0.8305
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [492/1000], gen_loss: 1.7573, disc_loss: 0.6660, real_score: 0.2490, gen_score: 0.8588
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [493/1000], gen_loss: 2.9841, disc_loss: 0.6627, real_score: 0.0792, gen_score: 0.7161
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [494/1000], gen_loss: 5.2893, disc_loss: 1.3429, real_score: 0.0259, gen_score: 0.3636
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [495/1000], gen_loss: 6.1375, disc_loss: 0.9400, real_score: 0.0678, gen_score: 0.5277
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [496/1000], gen_loss: 5.5174, disc_loss: 1.0930, real_score: 0.0201, gen_score: 0.4596
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [497/1000], gen_loss: 1.7300, disc_loss: 0.8332, real_score: 0.3871, gen_score: 0.9136
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [498/1000], gen_loss: 2.8337, disc_loss: 0.6234, real_score: 0.2511, gen_score: 0.9269
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [499/1000], gen_loss: 3.8797, disc_loss: 1.4756, real_score: 0.0277, gen_score: 0.3174
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [500/1000], gen_loss: 2.6503, disc_loss: 0.5691, real_score: 0.1410, gen_score: 0.8434
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [501/1000], gen_loss: 2.1885, disc_loss: 0.6241, real_score: 0.0981, gen_score: 0.7570
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [502/1000], gen_loss: 2.0709, disc_loss: 1.6679, real_score: 0.6745, gen_score: 0.9910
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [503/1000], gen_loss: 3.0654, disc_loss: 1.1284, real_score: 0.4959, gen_score: 0.9626
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [504/1000], gen_loss: 1.2776, disc_loss: 0.7769, real_score: 0.3362, gen_score: 0.9194
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [505/1000], gen_loss: 1.4835, disc_loss: 0.6914, real_score: 0.2023, gen_score: 0.7815
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [506/1000], gen_loss: 1.0718, disc_loss: 2.2380, real_score: 0.7919, gen_score: 0.9845
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [507/1000], gen_loss: 4.9485, disc_loss: 1.1448, real_score: 0.0434, gen_score: 0.4409
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [508/1000], gen_loss: 1.1471, disc_loss: 0.5658, real_score: 0.1084, gen_score: 0.8339
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [509/1000], gen_loss: 6.9854, disc_loss: 0.8842, real_score: 0.0679, gen_score: 0.5772
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [510/1000], gen_loss: 1.3635, disc_loss: 0.7866, real_score: 0.3403, gen_score: 0.8911
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [511/1000], gen_loss: 2.2237, disc_loss: 1.1370, real_score: 0.5309, gen_score: 0.9673
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [512/1000], gen_loss: 0.9102, disc_loss: 1.0520, real_score: 0.4972, gen_score: 0.8880
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [513/1000], gen_loss: 0.5913, disc_loss: 1.1084, real_score: 0.5112, gen_score: 0.9812
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [514/1000], gen_loss: 4.8112, disc_loss: 1.1276, real_score: 0.0317, gen_score: 0.4571
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [515/1000], gen_loss: 1.8333, disc_loss: 0.6803, real_score: 0.2968, gen_score: 0.9530
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [516/1000], gen_loss: 2.4973, disc_loss: 0.7389, real_score: 0.3382, gen_score: 0.9570
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [517/1000], gen_loss: 3.2143, disc_loss: 0.7256, real_score: 0.1050, gen_score: 0.6711
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [518/1000], gen_loss: 3.1195, disc_loss: 0.6137, real_score: 0.1239, gen_score: 0.7687
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [519/1000], gen_loss: 2.7662, disc_loss: 0.5606, real_score: 0.1726, gen_score: 0.8844
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [520/1000], gen_loss: 2.4444, disc_loss: 0.7347, real_score: 0.1942, gen_score: 0.7239
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [521/1000], gen_loss: 3.3579, disc_loss: 0.5642, real_score: 0.1393, gen_score: 0.8518
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [522/1000], gen_loss: 3.8336, disc_loss: 0.6690, real_score: 0.0303, gen_score: 0.6994
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [523/1000], gen_loss: 1.5294, disc_loss: 0.6435, real_score: 0.2506, gen_score: 0.9301
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [524/1000], gen_loss: 1.6810, disc_loss: 0.5481, real_score: 0.1423, gen_score: 0.8731
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [525/1000], gen_loss: 1.1674, disc_loss: 1.3698, real_score: 0.6081, gen_score: 0.9759
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [526/1000], gen_loss: 3.7960, disc_loss: 0.5290, real_score: 0.0660, gen_score: 0.8329
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [527/1000], gen_loss: 3.1697, disc_loss: 0.4545, real_score: 0.0451, gen_score: 0.9362
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [528/1000], gen_loss: 4.1005, disc_loss: 1.1997, real_score: 0.0415, gen_score: 0.4032
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [529/1000], gen_loss: 3.0366, disc_loss: 0.8012, real_score: 0.3648, gen_score: 0.9719
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [530/1000], gen_loss: 1.1386, disc_loss: 0.6916, real_score: 0.3042, gen_score: 0.9558
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [531/1000], gen_loss: 1.8174, disc_loss: 1.0800, real_score: 0.3183, gen_score: 0.6030
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [532/1000], gen_loss: 1.6333, disc_loss: 0.7274, real_score: 0.3314, gen_score: 0.9506
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [533/1000], gen_loss: 3.2066, disc_loss: 0.7670, real_score: 0.1374, gen_score: 0.6831
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [534/1000], gen_loss: 2.3631, disc_loss: 0.7082, real_score: 0.2686, gen_score: 0.8553
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [535/1000], gen_loss: 1.7208, disc_loss: 0.9630, real_score: 0.4381, gen_score: 0.9849
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [536/1000], gen_loss: 2.7854, disc_loss: 1.0009, real_score: 0.0496, gen_score: 0.4961
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [537/1000], gen_loss: 5.1431, disc_loss: 0.5957, real_score: 0.0428, gen_score: 0.7556
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [538/1000], gen_loss: 2.0298, disc_loss: 0.5080, real_score: 0.0483, gen_score: 0.8557
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [539/1000], gen_loss: 2.4422, disc_loss: 0.8918, real_score: 0.4087, gen_score: 0.9668
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [540/1000], gen_loss: 2.0493, disc_loss: 0.5513, real_score: 0.1582, gen_score: 0.8661
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [541/1000], gen_loss: 1.3783, disc_loss: 0.9932, real_score: 0.4121, gen_score: 0.7984
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [542/1000], gen_loss: 5.0798, disc_loss: 0.5964, real_score: 0.1758, gen_score: 0.8620
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [543/1000], gen_loss: 3.5393, disc_loss: 0.7357, real_score: 0.0562, gen_score: 0.6541
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [544/1000], gen_loss: 3.1353, disc_loss: 0.7104, real_score: 0.1059, gen_score: 0.6867
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [545/1000], gen_loss: 1.6968, disc_loss: 0.8410, real_score: 0.3554, gen_score: 0.8390
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [546/1000], gen_loss: 4.1455, disc_loss: 0.4666, real_score: 0.0865, gen_score: 0.9138
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [547/1000], gen_loss: 1.4031, disc_loss: 1.9933, real_score: 0.7489, gen_score: 0.9945
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [548/1000], gen_loss: 1.6325, disc_loss: 0.5715, real_score: 0.1530, gen_score: 0.8452
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [549/1000], gen_loss: 3.3454, disc_loss: 0.8533, real_score: 0.0296, gen_score: 0.5874
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [550/1000], gen_loss: 1.6763, disc_loss: 1.3245, real_score: 0.5702, gen_score: 0.9877
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [551/1000], gen_loss: 3.5509, disc_loss: 0.7216, real_score: 0.0500, gen_score: 0.6696
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [552/1000], gen_loss: 3.5086, disc_loss: 0.5809, real_score: 0.1050, gen_score: 0.8045
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [553/1000], gen_loss: 2.7377, disc_loss: 0.4984, real_score: 0.1056, gen_score: 0.8692
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [554/1000], gen_loss: 1.9423, disc_loss: 0.7139, real_score: 0.3022, gen_score: 0.8972
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [555/1000], gen_loss: 2.9050, disc_loss: 0.9725, real_score: 0.3304, gen_score: 0.7031
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [556/1000], gen_loss: 4.7711, disc_loss: 0.5815, real_score: 0.0280, gen_score: 0.7692
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [557/1000], gen_loss: 3.7287, disc_loss: 0.5742, real_score: 0.0732, gen_score: 0.7699
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [558/1000], gen_loss: 2.3090, disc_loss: 0.4994, real_score: 0.1421, gen_score: 0.9155
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [559/1000], gen_loss: 2.6044, disc_loss: 0.6209, real_score: 0.1926, gen_score: 0.8207
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [560/1000], gen_loss: 1.3529, disc_loss: 1.2108, real_score: 0.5459, gen_score: 0.9865
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [561/1000], gen_loss: 3.7485, disc_loss: 0.6672, real_score: 0.0527, gen_score: 0.7175
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [562/1000], gen_loss: 2.0130, disc_loss: 0.6428, real_score: 0.0682, gen_score: 0.7312
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [563/1000], gen_loss: 1.8315, disc_loss: 0.5242, real_score: 0.1072, gen_score: 0.8381
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [564/1000], gen_loss: 2.5296, disc_loss: 0.7005, real_score: 0.1252, gen_score: 0.6900
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [565/1000], gen_loss: 2.5443, disc_loss: 0.6408, real_score: 0.1860, gen_score: 0.8001
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [566/1000], gen_loss: 2.0999, disc_loss: 0.5911, real_score: 0.2119, gen_score: 0.9044
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [567/1000], gen_loss: 2.2860, disc_loss: 0.8903, real_score: 0.4033, gen_score: 0.9613
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [568/1000], gen_loss: 1.7221, disc_loss: 1.2125, real_score: 0.5484, gen_score: 0.9831
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [569/1000], gen_loss: 3.6833, disc_loss: 0.5854, real_score: 0.2028, gen_score: 0.9073
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [570/1000], gen_loss: 1.7275, disc_loss: 0.7286, real_score: 0.2258, gen_score: 0.7716
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [571/1000], gen_loss: 1.0225, disc_loss: 0.9291, real_score: 0.3369, gen_score: 0.7925
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [572/1000], gen_loss: 0.3248, disc_loss: 1.2593, real_score: 0.5657, gen_score: 0.8894
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [573/1000], gen_loss: 1.5071, disc_loss: 0.5537, real_score: 0.1285, gen_score: 0.8517
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [574/1000], gen_loss: 2.6582, disc_loss: 0.7850, real_score: 0.3507, gen_score: 0.9723
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [575/1000], gen_loss: 4.0991, disc_loss: 0.9229, real_score: 0.0637, gen_score: 0.5459
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [576/1000], gen_loss: 4.7193, disc_loss: 1.1220, real_score: 0.0462, gen_score: 0.4465
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [577/1000], gen_loss: 3.8502, disc_loss: 0.5183, real_score: 0.1460, gen_score: 0.9128
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [578/1000], gen_loss: 2.2187, disc_loss: 0.5397, real_score: 0.1596, gen_score: 0.8911
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [579/1000], gen_loss: 4.6508, disc_loss: 0.5355, real_score: 0.1341, gen_score: 0.8563
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [580/1000], gen_loss: 4.0120, disc_loss: 1.2126, real_score: 0.0347, gen_score: 0.4243
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [581/1000], gen_loss: 3.4234, disc_loss: 0.6310, real_score: 0.0554, gen_score: 0.7313
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [582/1000], gen_loss: 2.2841, disc_loss: 0.6856, real_score: 0.1488, gen_score: 0.7394
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [583/1000], gen_loss: 6.5915, disc_loss: 1.1080, real_score: 0.0210, gen_score: 0.4544
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [584/1000], gen_loss: 2.2522, disc_loss: 0.6899, real_score: 0.1547, gen_score: 0.7397
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [585/1000], gen_loss: 1.9434, disc_loss: 1.1833, real_score: 0.5284, gen_score: 0.9822
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [586/1000], gen_loss: 4.0965, disc_loss: 0.7460, real_score: 0.1124, gen_score: 0.6498
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [587/1000], gen_loss: 4.7238, disc_loss: 0.9623, real_score: 0.1000, gen_score: 0.5436
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [588/1000], gen_loss: 1.4458, disc_loss: 0.7550, real_score: 0.3062, gen_score: 0.8566
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [589/1000], gen_loss: 3.0774, disc_loss: 0.6429, real_score: 0.1659, gen_score: 0.7686
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [590/1000], gen_loss: 1.1888, disc_loss: 0.9632, real_score: 0.4300, gen_score: 0.9569
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [591/1000], gen_loss: 2.4200, disc_loss: 0.6173, real_score: 0.2278, gen_score: 0.9191
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [592/1000], gen_loss: 4.9320, disc_loss: 0.6820, real_score: 0.1135, gen_score: 0.7118
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [593/1000], gen_loss: 2.0040, disc_loss: 0.5768, real_score: 0.1511, gen_score: 0.8442
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [594/1000], gen_loss: 3.1033, disc_loss: 0.9024, real_score: 0.2988, gen_score: 0.7106
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [595/1000], gen_loss: 4.1199, disc_loss: 0.7303, real_score: 0.0406, gen_score: 0.6595
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [596/1000], gen_loss: 1.3808, disc_loss: 0.6428, real_score: 0.2406, gen_score: 0.9140
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [597/1000], gen_loss: 2.8572, disc_loss: 0.6833, real_score: 0.0500, gen_score: 0.6952
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [598/1000], gen_loss: 2.7903, disc_loss: 0.9127, real_score: 0.4162, gen_score: 0.9813
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [599/1000], gen_loss: 0.8117, disc_loss: 1.1016, real_score: 0.5273, gen_score: 0.9702
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [600/1000], gen_loss: 1.9707, disc_loss: 0.6720, real_score: 0.1172, gen_score: 0.7181
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [601/1000], gen_loss: 5.8309, disc_loss: 1.1523, real_score: 0.0517, gen_score: 0.4418
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [602/1000], gen_loss: 1.8901, disc_loss: 0.6166, real_score: 0.1043, gen_score: 0.7611
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [603/1000], gen_loss: 3.3388, disc_loss: 0.5580, real_score: 0.0927, gen_score: 0.8074
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [604/1000], gen_loss: 1.4808, disc_loss: 0.4818, real_score: 0.1187, gen_score: 0.9151
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [605/1000], gen_loss: 4.8256, disc_loss: 0.7954, real_score: 0.0676, gen_score: 0.6091
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [606/1000], gen_loss: 4.0856, disc_loss: 0.7785, real_score: 0.1312, gen_score: 0.6552
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [607/1000], gen_loss: 0.5252, disc_loss: 1.6706, real_score: 0.6869, gen_score: 0.9816
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [608/1000], gen_loss: 2.3327, disc_loss: 1.0043, real_score: 0.4493, gen_score: 0.9824
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [609/1000], gen_loss: 2.9164, disc_loss: 0.5654, real_score: 0.0539, gen_score: 0.7837
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [610/1000], gen_loss: 4.4867, disc_loss: 1.2696, real_score: 0.0151, gen_score: 0.4038
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [611/1000], gen_loss: 3.2428, disc_loss: 0.5668, real_score: 0.0576, gen_score: 0.7943
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [612/1000], gen_loss: 1.9752, disc_loss: 3.1869, real_score: 0.8820, gen_score: 0.9961
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [613/1000], gen_loss: 1.6750, disc_loss: 1.3290, real_score: 0.5843, gen_score: 0.9854
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [614/1000], gen_loss: 1.7970, disc_loss: 0.9203, real_score: 0.4288, gen_score: 0.9774
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [615/1000], gen_loss: 1.6948, disc_loss: 0.7892, real_score: 0.3609, gen_score: 0.9440
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [616/1000], gen_loss: 3.6365, disc_loss: 0.4903, real_score: 0.0911, gen_score: 0.8797
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [617/1000], gen_loss: 3.3219, disc_loss: 0.6055, real_score: 0.0797, gen_score: 0.7638
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [618/1000], gen_loss: 3.1089, disc_loss: 0.6158, real_score: 0.1119, gen_score: 0.7878
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [619/1000], gen_loss: 4.8549, disc_loss: 0.9770, real_score: 0.0714, gen_score: 0.5174
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [620/1000], gen_loss: 2.2950, disc_loss: 0.8140, real_score: 0.3531, gen_score: 0.8810
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [621/1000], gen_loss: 2.0802, disc_loss: 0.6614, real_score: 0.2318, gen_score: 0.8455
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [622/1000], gen_loss: 4.1699, disc_loss: 0.7552, real_score: 0.0236, gen_score: 0.6373
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [623/1000], gen_loss: 3.6716, disc_loss: 0.8235, real_score: 0.0681, gen_score: 0.5823
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [624/1000], gen_loss: 3.0510, disc_loss: 0.6215, real_score: 0.1222, gen_score: 0.8025
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [625/1000], gen_loss: 5.0871, disc_loss: 1.0114, real_score: 0.1155, gen_score: 0.5056
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [626/1000], gen_loss: 0.6404, disc_loss: 0.9110, real_score: 0.4196, gen_score: 0.9028
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [627/1000], gen_loss: 3.8013, disc_loss: 1.0752, real_score: 0.0795, gen_score: 0.4770
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [628/1000], gen_loss: 1.2227, disc_loss: 0.7083, real_score: 0.3311, gen_score: 0.9437
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [629/1000], gen_loss: 2.1822, disc_loss: 0.8470, real_score: 0.1743, gen_score: 0.6207
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [630/1000], gen_loss: 2.5052, disc_loss: 0.6018, real_score: 0.1229, gen_score: 0.7887
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [631/1000], gen_loss: 1.8695, disc_loss: 0.7929, real_score: 0.3622, gen_score: 0.9546
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [632/1000], gen_loss: 3.8738, disc_loss: 0.6207, real_score: 0.2358, gen_score: 0.9601
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [633/1000], gen_loss: 3.2889, disc_loss: 0.6087, real_score: 0.2340, gen_score: 0.9600
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [634/1000], gen_loss: 2.6889, disc_loss: 0.5648, real_score: 0.1477, gen_score: 0.8588
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [635/1000], gen_loss: 0.9232, disc_loss: 0.6344, real_score: 0.2123, gen_score: 0.8449
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [636/1000], gen_loss: 1.8080, disc_loss: 0.5859, real_score: 0.1229, gen_score: 0.7966
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [637/1000], gen_loss: 1.8941, disc_loss: 1.1192, real_score: 0.5129, gen_score: 0.9812
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [638/1000], gen_loss: 0.6273, disc_loss: 1.2115, real_score: 0.5648, gen_score: 0.9351
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [639/1000], gen_loss: 4.2738, disc_loss: 0.5422, real_score: 0.1878, gen_score: 0.9271
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [640/1000], gen_loss: 1.8416, disc_loss: 0.6248, real_score: 0.2534, gen_score: 0.9388
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [641/1000], gen_loss: 2.9080, disc_loss: 0.5118, real_score: 0.1551, gen_score: 0.9559
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [642/1000], gen_loss: 4.7382, disc_loss: 1.1074, real_score: 0.2313, gen_score: 0.5151
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [643/1000], gen_loss: 2.2460, disc_loss: 0.6182, real_score: 0.2473, gen_score: 0.9570
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [644/1000], gen_loss: 4.6182, disc_loss: 0.6337, real_score: 0.1191, gen_score: 0.7585
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [645/1000], gen_loss: 3.1537, disc_loss: 0.7194, real_score: 0.3127, gen_score: 0.9198
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [646/1000], gen_loss: 4.0210, disc_loss: 0.4935, real_score: 0.1389, gen_score: 0.9254
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [647/1000], gen_loss: 2.7906, disc_loss: 0.6542, real_score: 0.2740, gen_score: 0.9650
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [648/1000], gen_loss: 4.1917, disc_loss: 1.1505, real_score: 0.0160, gen_score: 0.4366
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [649/1000], gen_loss: 1.8682, disc_loss: 0.8049, real_score: 0.3579, gen_score: 0.9569
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [650/1000], gen_loss: 0.7479, disc_loss: 0.9247, real_score: 0.4405, gen_score: 0.9221
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [651/1000], gen_loss: 5.5159, disc_loss: 0.8487, real_score: 0.0629, gen_score: 0.5808
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [652/1000], gen_loss: 3.4925, disc_loss: 0.8657, real_score: 0.0666, gen_score: 0.5702
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [653/1000], gen_loss: 1.4533, disc_loss: 0.5263, real_score: 0.1540, gen_score: 0.9185
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [654/1000], gen_loss: 0.3783, disc_loss: 1.0669, real_score: 0.5021, gen_score: 0.9572
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [655/1000], gen_loss: 1.0435, disc_loss: 0.7041, real_score: 0.2927, gen_score: 0.8962
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [656/1000], gen_loss: 1.2937, disc_loss: 1.1658, real_score: 0.5368, gen_score: 0.9431
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [657/1000], gen_loss: 3.1337, disc_loss: 0.6651, real_score: 0.1557, gen_score: 0.7488
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [658/1000], gen_loss: 2.1762, disc_loss: 1.9198, real_score: 0.7356, gen_score: 0.9903
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [659/1000], gen_loss: 1.8073, disc_loss: 0.6428, real_score: 0.1377, gen_score: 0.7587
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [660/1000], gen_loss: 6.2162, disc_loss: 1.0317, real_score: 0.2857, gen_score: 0.6104
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [661/1000], gen_loss: 3.3204, disc_loss: 0.6277, real_score: 0.2422, gen_score: 0.9244
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [662/1000], gen_loss: 2.3044, disc_loss: 0.5430, real_score: 0.0971, gen_score: 0.8481
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [663/1000], gen_loss: 0.9085, disc_loss: 0.7875, real_score: 0.3573, gen_score: 0.9716
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [664/1000], gen_loss: 3.7557, disc_loss: 0.5277, real_score: 0.0203, gen_score: 0.8473
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [665/1000], gen_loss: 0.1989, disc_loss: 1.1215, real_score: 0.5165, gen_score: 0.9248
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [666/1000], gen_loss: 2.8777, disc_loss: 0.5678, real_score: 0.0787, gen_score: 0.7948
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [667/1000], gen_loss: 3.0065, disc_loss: 0.7722, real_score: 0.3493, gen_score: 0.9736
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [668/1000], gen_loss: 1.5390, disc_loss: 0.6634, real_score: 0.2649, gen_score: 0.9174
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [669/1000], gen_loss: 0.6589, disc_loss: 0.9590, real_score: 0.4492, gen_score: 0.9402
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [670/1000], gen_loss: 1.4157, disc_loss: 0.7766, real_score: 0.3520, gen_score: 0.9430
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [671/1000], gen_loss: 0.8955, disc_loss: 0.7085, real_score: 0.3182, gen_score: 0.9451
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [672/1000], gen_loss: 2.4098, disc_loss: 0.8180, real_score: 0.0225, gen_score: 0.6050
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [673/1000], gen_loss: 2.4841, disc_loss: 0.4732, real_score: 0.0720, gen_score: 0.8913
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [674/1000], gen_loss: 2.7591, disc_loss: 0.5677, real_score: 0.1524, gen_score: 0.8592
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [675/1000], gen_loss: 0.6220, disc_loss: 1.2119, real_score: 0.5404, gen_score: 0.8757
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [676/1000], gen_loss: 3.7271, disc_loss: 0.7248, real_score: 0.1350, gen_score: 0.7105
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [677/1000], gen_loss: 2.9791, disc_loss: 0.5904, real_score: 0.1952, gen_score: 0.8697
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [678/1000], gen_loss: 3.4761, disc_loss: 0.6727, real_score: 0.1962, gen_score: 0.7819
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [679/1000], gen_loss: 3.8716, disc_loss: 0.8086, real_score: 0.0145, gen_score: 0.6280
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [680/1000], gen_loss: 3.8902, disc_loss: 0.7764, real_score: 0.0234, gen_score: 0.6360
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [681/1000], gen_loss: 3.8026, disc_loss: 0.4967, real_score: 0.1193, gen_score: 0.9121
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [682/1000], gen_loss: 3.5048, disc_loss: 0.7936, real_score: 0.2065, gen_score: 0.7037
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [683/1000], gen_loss: 3.7307, disc_loss: 0.7465, real_score: 0.0951, gen_score: 0.6570
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [684/1000], gen_loss: 2.1137, disc_loss: 0.6638, real_score: 0.2749, gen_score: 0.8859
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [685/1000], gen_loss: 0.7619, disc_loss: 0.6456, real_score: 0.2664, gen_score: 0.9293
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [686/1000], gen_loss: 2.3300, disc_loss: 0.5279, real_score: 0.0752, gen_score: 0.8411
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [687/1000], gen_loss: 0.4623, disc_loss: 0.9595, real_score: 0.4288, gen_score: 0.8694
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [688/1000], gen_loss: 2.2363, disc_loss: 0.5281, real_score: 0.1494, gen_score: 0.9079
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [689/1000], gen_loss: 3.2504, disc_loss: 0.7722, real_score: 0.3104, gen_score: 0.9902
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [690/1000], gen_loss: 1.6552, disc_loss: 0.5991, real_score: 0.2482, gen_score: 0.9518
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [691/1000], gen_loss: 2.2059, disc_loss: 0.5035, real_score: 0.0607, gen_score: 0.8609
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [692/1000], gen_loss: 2.4484, disc_loss: 0.5751, real_score: 0.1550, gen_score: 0.8397
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [693/1000], gen_loss: 0.1571, disc_loss: 1.0924, real_score: 0.4865, gen_score: 0.8812
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [694/1000], gen_loss: 0.6040, disc_loss: 1.0116, real_score: 0.4624, gen_score: 0.8971
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [695/1000], gen_loss: 4.1269, disc_loss: 0.6637, real_score: 0.0157, gen_score: 0.7001
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [696/1000], gen_loss: 3.3277, disc_loss: 0.6693, real_score: 0.0368, gen_score: 0.6864
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [697/1000], gen_loss: 2.1974, disc_loss: 0.5245, real_score: 0.1245, gen_score: 0.8733
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [698/1000], gen_loss: 1.5605, disc_loss: 0.5998, real_score: 0.1291, gen_score: 0.7937
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [699/1000], gen_loss: 3.3832, disc_loss: 0.5013, real_score: 0.1044, gen_score: 0.8828
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [700/1000], gen_loss: 3.3723, disc_loss: 0.5058, real_score: 0.1072, gen_score: 0.8951
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [701/1000], gen_loss: 2.8278, disc_loss: 0.5014, real_score: 0.1381, gen_score: 0.9444
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [702/1000], gen_loss: 2.5156, disc_loss: 0.6162, real_score: 0.2474, gen_score: 0.9562
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [703/1000], gen_loss: 2.3861, disc_loss: 0.5209, real_score: 0.1536, gen_score: 0.9713
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [704/1000], gen_loss: 3.2910, disc_loss: 0.8171, real_score: 0.1157, gen_score: 0.6177
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [705/1000], gen_loss: 0.6344, disc_loss: 0.9014, real_score: 0.4225, gen_score: 0.9445
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [706/1000], gen_loss: 3.8457, disc_loss: 0.8387, real_score: 0.1149, gen_score: 0.6049
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [707/1000], gen_loss: 4.4740, disc_loss: 1.1005, real_score: 0.2741, gen_score: 0.5737
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [708/1000], gen_loss: 2.6465, disc_loss: 0.5518, real_score: 0.0658, gen_score: 0.8343
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [709/1000], gen_loss: 5.3524, disc_loss: 0.8063, real_score: 0.0197, gen_score: 0.6130
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [710/1000], gen_loss: 1.9880, disc_loss: 0.5447, real_score: 0.1072, gen_score: 0.8374
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [711/1000], gen_loss: 1.6572, disc_loss: 2.3757, real_score: 0.8105, gen_score: 0.9921
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [712/1000], gen_loss: 4.4290, disc_loss: 0.6117, real_score: 0.2568, gen_score: 0.9571
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [713/1000], gen_loss: 2.8149, disc_loss: 0.5564, real_score: 0.1706, gen_score: 0.9079
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [714/1000], gen_loss: 3.2599, disc_loss: 0.5006, real_score: 0.0373, gen_score: 0.8475
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [715/1000], gen_loss: 5.3635, disc_loss: 1.4332, real_score: 0.0555, gen_score: 0.3220
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [716/1000], gen_loss: 4.1511, disc_loss: 0.8119, real_score: 0.0708, gen_score: 0.6045
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [717/1000], gen_loss: 1.5790, disc_loss: 0.6415, real_score: 0.2199, gen_score: 0.8479
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [718/1000], gen_loss: 2.6035, disc_loss: 0.5173, real_score: 0.0566, gen_score: 0.8321
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [719/1000], gen_loss: 1.6529, disc_loss: 0.8013, real_score: 0.3790, gen_score: 0.9648
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [720/1000], gen_loss: 1.7900, disc_loss: 0.8777, real_score: 0.0798, gen_score: 0.5722
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [721/1000], gen_loss: 1.1699, disc_loss: 0.9321, real_score: 0.4473, gen_score: 0.9529
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [722/1000], gen_loss: 0.9835, disc_loss: 0.7226, real_score: 0.2886, gen_score: 0.8526
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [723/1000], gen_loss: 4.0376, disc_loss: 0.6338, real_score: 0.0710, gen_score: 0.7172
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [724/1000], gen_loss: 2.6926, disc_loss: 0.5420, real_score: 0.1110, gen_score: 0.8275
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [725/1000], gen_loss: 3.8806, disc_loss: 0.5456, real_score: 0.0708, gen_score: 0.8067
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [726/1000], gen_loss: 5.4645, disc_loss: 0.7106, real_score: 0.0333, gen_score: 0.6848
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [727/1000], gen_loss: 2.2995, disc_loss: 0.4822, real_score: 0.1076, gen_score: 0.9194
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [728/1000], gen_loss: 2.3670, disc_loss: 1.0710, real_score: 0.4920, gen_score: 0.9830
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [729/1000], gen_loss: 1.9637, disc_loss: 0.6192, real_score: 0.2092, gen_score: 0.8404
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [730/1000], gen_loss: 4.1685, disc_loss: 0.4608, real_score: 0.0369, gen_score: 0.8942
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [731/1000], gen_loss: 3.7798, disc_loss: 0.5190, real_score: 0.0630, gen_score: 0.8248
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [732/1000], gen_loss: 2.5021, disc_loss: 0.5558, real_score: 0.0921, gen_score: 0.8130
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [733/1000], gen_loss: 1.3369, disc_loss: 0.7265, real_score: 0.2549, gen_score: 0.8004
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [734/1000], gen_loss: 0.7454, disc_loss: 0.8836, real_score: 0.4052, gen_score: 0.9073
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [735/1000], gen_loss: 1.8501, disc_loss: 0.9040, real_score: 0.2147, gen_score: 0.6195
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [736/1000], gen_loss: 1.2445, disc_loss: 1.3002, real_score: 0.5681, gen_score: 0.9913
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [737/1000], gen_loss: 1.0489, disc_loss: 1.8607, real_score: 0.7371, gen_score: 0.9829
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [738/1000], gen_loss: 2.4992, disc_loss: 0.6980, real_score: 0.2773, gen_score: 0.8580
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [739/1000], gen_loss: 4.9395, disc_loss: 1.1371, real_score: 0.0061, gen_score: 0.4660
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [740/1000], gen_loss: 1.4211, disc_loss: 0.8351, real_score: 0.3895, gen_score: 0.9766
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [741/1000], gen_loss: 4.2707, disc_loss: 0.8012, real_score: 0.0515, gen_score: 0.6058
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [742/1000], gen_loss: 2.8494, disc_loss: 0.5132, real_score: 0.0478, gen_score: 0.8342
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [743/1000], gen_loss: 5.9518, disc_loss: 0.6451, real_score: 0.1996, gen_score: 0.9945
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [744/1000], gen_loss: 3.9648, disc_loss: 0.7131, real_score: 0.0482, gen_score: 0.6782
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [745/1000], gen_loss: 1.9062, disc_loss: 0.7456, real_score: 0.2950, gen_score: 0.8310
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [746/1000], gen_loss: 3.6755, disc_loss: 0.6367, real_score: 0.1334, gen_score: 0.7629
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [747/1000], gen_loss: 2.1624, disc_loss: 0.5310, real_score: 0.1192, gen_score: 0.8878
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [748/1000], gen_loss: 2.8853, disc_loss: 0.4845, real_score: 0.1340, gen_score: 0.9476
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [749/1000], gen_loss: 5.9029, disc_loss: 0.5476, real_score: 0.1569, gen_score: 0.9200
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [750/1000], gen_loss: 3.5128, disc_loss: 0.4581, real_score: 0.0504, gen_score: 0.9020
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [751/1000], gen_loss: 2.8362, disc_loss: 0.4910, real_score: 0.0601, gen_score: 0.8727
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [752/1000], gen_loss: 0.5825, disc_loss: 0.6421, real_score: 0.2840, gen_score: 0.9352
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [753/1000], gen_loss: 6.2902, disc_loss: 1.5489, real_score: 0.1394, gen_score: 0.3177
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [754/1000], gen_loss: 1.4198, disc_loss: 1.1715, real_score: 0.5432, gen_score: 0.9680
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [755/1000], gen_loss: 3.8831, disc_loss: 0.5763, real_score: 0.1934, gen_score: 0.9763
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [756/1000], gen_loss: 4.8211, disc_loss: 0.6368, real_score: 0.0855, gen_score: 0.7376
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [757/1000], gen_loss: 1.2077, disc_loss: 1.1613, real_score: 0.5412, gen_score: 0.9813
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [758/1000], gen_loss: 4.8551, disc_loss: 0.5028, real_score: 0.0408, gen_score: 0.8437
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [759/1000], gen_loss: 3.0039, disc_loss: 0.5298, real_score: 0.0950, gen_score: 0.8326
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [760/1000], gen_loss: 1.7114, disc_loss: 0.7128, real_score: 0.2122, gen_score: 0.7690
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [761/1000], gen_loss: 3.3450, disc_loss: 1.3442, real_score: 0.5829, gen_score: 0.9967
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [762/1000], gen_loss: 2.5702, disc_loss: 2.7306, real_score: 0.8546, gen_score: 0.9928
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [763/1000], gen_loss: 4.6247, disc_loss: 0.4747, real_score: 0.0987, gen_score: 0.9542
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [764/1000], gen_loss: 3.1701, disc_loss: 0.5207, real_score: 0.1607, gen_score: 0.9080
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [765/1000], gen_loss: 2.3828, disc_loss: 0.5944, real_score: 0.2452, gen_score: 0.9399
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [766/1000], gen_loss: 0.4291, disc_loss: 1.0261, real_score: 0.4987, gen_score: 0.9576
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [767/1000], gen_loss: 2.0729, disc_loss: 0.4835, real_score: 0.1214, gen_score: 0.9329
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [768/1000], gen_loss: 2.8906, disc_loss: 0.5186, real_score: 0.1474, gen_score: 0.8849
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [769/1000], gen_loss: 5.1694, disc_loss: 1.5327, real_score: 0.0246, gen_score: 0.3082
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [770/1000], gen_loss: 2.1201, disc_loss: 1.3593, real_score: 0.0344, gen_score: 0.3940
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [771/1000], gen_loss: 0.2458, disc_loss: 0.8185, real_score: 0.3725, gen_score: 0.8909
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [772/1000], gen_loss: 0.7465, disc_loss: 0.8246, real_score: 0.3853, gen_score: 0.8945
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [773/1000], gen_loss: 0.3265, disc_loss: 2.4550, real_score: 0.8182, gen_score: 0.9154
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [774/1000], gen_loss: 6.3450, disc_loss: 1.2740, real_score: 0.1249, gen_score: 0.4035
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [775/1000], gen_loss: 4.1924, disc_loss: 0.8284, real_score: 0.1146, gen_score: 0.5985
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [776/1000], gen_loss: 4.5722, disc_loss: 1.2223, real_score: 0.0615, gen_score: 0.3888
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [777/1000], gen_loss: 3.1997, disc_loss: 0.5629, real_score: 0.1304, gen_score: 0.8245
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [778/1000], gen_loss: 4.3213, disc_loss: 0.5398, real_score: 0.0723, gen_score: 0.7945
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [779/1000], gen_loss: 2.1636, disc_loss: 0.4869, real_score: 0.1221, gen_score: 0.9036
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [780/1000], gen_loss: 1.2606, disc_loss: 0.5903, real_score: 0.2108, gen_score: 0.8901
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [781/1000], gen_loss: 1.7867, disc_loss: 0.5801, real_score: 0.1542, gen_score: 0.8326
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [782/1000], gen_loss: 3.3307, disc_loss: 0.5190, real_score: 0.0806, gen_score: 0.8301
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [783/1000], gen_loss: 2.2829, disc_loss: 1.5313, real_score: 0.6663, gen_score: 0.9872
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [784/1000], gen_loss: 4.9351, disc_loss: 0.6449, real_score: 0.1523, gen_score: 0.7671
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [785/1000], gen_loss: 2.4519, disc_loss: 0.5199, real_score: 0.1203, gen_score: 0.8623
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [786/1000], gen_loss: 1.3986, disc_loss: 1.1952, real_score: 0.5385, gen_score: 0.9751
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [787/1000], gen_loss: 1.6326, disc_loss: 1.4565, real_score: 0.6176, gen_score: 0.9964
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [788/1000], gen_loss: 5.5298, disc_loss: 0.7934, real_score: 0.0245, gen_score: 0.6131
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [789/1000], gen_loss: 0.9914, disc_loss: 0.8536, real_score: 0.4020, gen_score: 0.9859
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [790/1000], gen_loss: 2.3616, disc_loss: 0.6537, real_score: 0.2465, gen_score: 0.8546
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [791/1000], gen_loss: 3.7044, disc_loss: 0.9221, real_score: 0.3914, gen_score: 0.9855
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [792/1000], gen_loss: 5.7245, disc_loss: 0.5248, real_score: 0.0280, gen_score: 0.8344
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [793/1000], gen_loss: 2.4389, disc_loss: 0.5257, real_score: 0.1178, gen_score: 0.8436
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [794/1000], gen_loss: 5.5498, disc_loss: 0.4971, real_score: 0.0814, gen_score: 0.9864
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [795/1000], gen_loss: 1.0824, disc_loss: 2.2717, real_score: 0.8116, gen_score: 0.9883
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [796/1000], gen_loss: 6.5377, disc_loss: 1.1283, real_score: 0.0190, gen_score: 0.4458
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [797/1000], gen_loss: 5.0677, disc_loss: 1.0435, real_score: 0.0946, gen_score: 0.4762
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [798/1000], gen_loss: 0.8428, disc_loss: 0.9044, real_score: 0.4234, gen_score: 0.9682
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [799/1000], gen_loss: 2.8011, disc_loss: 0.5057, real_score: 0.1544, gen_score: 0.9689
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [800/1000], gen_loss: 4.3229, disc_loss: 0.6187, real_score: 0.2405, gen_score: 0.9628
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [801/1000], gen_loss: 2.0018, disc_loss: 0.7961, real_score: 0.3791, gen_score: 0.9593
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [802/1000], gen_loss: 4.1271, disc_loss: 0.6710, real_score: 0.0528, gen_score: 0.6827
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [803/1000], gen_loss: 2.8957, disc_loss: 0.5936, real_score: 0.0994, gen_score: 0.7670
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [804/1000], gen_loss: 0.8290, disc_loss: 0.8011, real_score: 0.3612, gen_score: 0.9754
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [805/1000], gen_loss: 2.5881, disc_loss: 1.1766, real_score: 0.3262, gen_score: 0.5430
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [806/1000], gen_loss: 3.3130, disc_loss: 0.4504, real_score: 0.0811, gen_score: 0.9158
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [807/1000], gen_loss: 3.3326, disc_loss: 0.4951, real_score: 0.0713, gen_score: 0.8378
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [808/1000], gen_loss: 1.0538, disc_loss: 2.6568, real_score: 0.8447, gen_score: 0.9904
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [809/1000], gen_loss: 1.4041, disc_loss: 0.6115, real_score: 0.2061, gen_score: 0.8672
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [810/1000], gen_loss: 5.1630, disc_loss: 0.5549, real_score: 0.0630, gen_score: 0.7995
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [811/1000], gen_loss: 0.3652, disc_loss: 0.9395, real_score: 0.4431, gen_score: 0.9208
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [812/1000], gen_loss: 2.1978, disc_loss: 0.4603, real_score: 0.0527, gen_score: 0.8951
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [813/1000], gen_loss: 3.8246, disc_loss: 0.5718, real_score: 0.0094, gen_score: 0.8132
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [814/1000], gen_loss: 4.4976, disc_loss: 1.1754, real_score: 0.1637, gen_score: 0.4729
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [815/1000], gen_loss: 3.1261, disc_loss: 0.7800, real_score: 0.0530, gen_score: 0.6136
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [816/1000], gen_loss: 2.1025, disc_loss: 0.6290, real_score: 0.1823, gen_score: 0.7898
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [817/1000], gen_loss: 2.1946, disc_loss: 0.4616, real_score: 0.0723, gen_score: 0.9065
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [818/1000], gen_loss: 1.5731, disc_loss: 0.8570, real_score: 0.3806, gen_score: 0.9801
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [819/1000], gen_loss: 1.5908, disc_loss: 0.6946, real_score: 0.2983, gen_score: 0.9119
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [820/1000], gen_loss: 1.7905, disc_loss: 0.4922, real_score: 0.0974, gen_score: 0.8985
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [821/1000], gen_loss: 2.9863, disc_loss: 0.4708, real_score: 0.0566, gen_score: 0.8831
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [822/1000], gen_loss: 2.5315, disc_loss: 0.5237, real_score: 0.1678, gen_score: 0.9508
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [823/1000], gen_loss: 5.7114, disc_loss: 2.2839, real_score: 0.0090, gen_score: 0.1522
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [824/1000], gen_loss: 0.1452, disc_loss: 1.0817, real_score: 0.5117, gen_score: 0.9806
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [825/1000], gen_loss: 1.6360, disc_loss: 0.6227, real_score: 0.2544, gen_score: 0.9161
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [826/1000], gen_loss: 1.4638, disc_loss: 0.4581, real_score: 0.0729, gen_score: 0.8941
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [827/1000], gen_loss: 4.0164, disc_loss: 0.8385, real_score: 0.0400, gen_score: 0.5779
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [828/1000], gen_loss: 7.0411, disc_loss: 1.3366, real_score: 0.0414, gen_score: 0.3573
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [829/1000], gen_loss: 0.6944, disc_loss: 0.8514, real_score: 0.4092, gen_score: 0.9743
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [830/1000], gen_loss: 5.0650, disc_loss: 0.9935, real_score: 0.0331, gen_score: 0.4980
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [831/1000], gen_loss: 4.9940, disc_loss: 0.5199, real_score: 0.0222, gen_score: 0.8233
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [832/1000], gen_loss: 3.4599, disc_loss: 0.6172, real_score: 0.1104, gen_score: 0.7541
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [833/1000], gen_loss: 2.9648, disc_loss: 0.4559, real_score: 0.0856, gen_score: 0.9190
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [834/1000], gen_loss: 2.6042, disc_loss: 0.4619, real_score: 0.0853, gen_score: 0.9216
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [835/1000], gen_loss: 3.4659, disc_loss: 0.4639, real_score: 0.0402, gen_score: 0.9248
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [836/1000], gen_loss: 0.9230, disc_loss: 0.5438, real_score: 0.1215, gen_score: 0.8529
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [837/1000], gen_loss: 1.0594, disc_loss: 0.6415, real_score: 0.2789, gen_score: 0.9687
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [838/1000], gen_loss: 1.1066, disc_loss: 0.9867, real_score: 0.4811, gen_score: 0.9775
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [839/1000], gen_loss: 2.6610, disc_loss: 0.5056, real_score: 0.1576, gen_score: 0.9114
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [840/1000], gen_loss: 0.8207, disc_loss: 1.5970, real_score: 0.6700, gen_score: 0.9851
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [841/1000], gen_loss: 3.7773, disc_loss: 0.6499, real_score: 0.2667, gen_score: 0.9663
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [842/1000], gen_loss: 2.1989, disc_loss: 0.5502, real_score: 0.0558, gen_score: 0.7919
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [843/1000], gen_loss: 1.7502, disc_loss: 0.6867, real_score: 0.2011, gen_score: 0.7651
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [844/1000], gen_loss: 3.7812, disc_loss: 0.5644, real_score: 0.0202, gen_score: 0.8042
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [845/1000], gen_loss: 0.8843, disc_loss: 1.0061, real_score: 0.4617, gen_score: 0.9815
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [846/1000], gen_loss: 1.1760, disc_loss: 1.1091, real_score: 0.5110, gen_score: 0.9905
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [847/1000], gen_loss: 2.8138, disc_loss: 0.5212, real_score: 0.1227, gen_score: 0.8615
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [848/1000], gen_loss: 4.2810, disc_loss: 0.4876, real_score: 0.0498, gen_score: 0.8774
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [849/1000], gen_loss: 3.0145, disc_loss: 0.5526, real_score: 0.1995, gen_score: 0.9736
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [850/1000], gen_loss: 2.5582, disc_loss: 0.5008, real_score: 0.1443, gen_score: 0.9705
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [851/1000], gen_loss: 2.1106, disc_loss: 0.7113, real_score: 0.3086, gen_score: 0.9831
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [852/1000], gen_loss: 1.8422, disc_loss: 1.5686, real_score: 0.6643, gen_score: 0.9937
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [853/1000], gen_loss: 0.6585, disc_loss: 0.8795, real_score: 0.4186, gen_score: 0.9182
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [854/1000], gen_loss: 3.9456, disc_loss: 0.4598, real_score: 0.0480, gen_score: 0.9017
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [855/1000], gen_loss: 3.4883, disc_loss: 1.7969, real_score: 0.4196, gen_score: 0.3397
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [856/1000], gen_loss: 2.8541, disc_loss: 0.6364, real_score: 0.0571, gen_score: 0.7254
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [857/1000], gen_loss: 1.8118, disc_loss: 0.5532, real_score: 0.1877, gen_score: 0.9565
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [858/1000], gen_loss: 4.5066, disc_loss: 0.6234, real_score: 0.2332, gen_score: 0.9882
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [859/1000], gen_loss: 5.7646, disc_loss: 1.0795, real_score: 0.0354, gen_score: 0.4608
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [860/1000], gen_loss: 4.6633, disc_loss: 0.4673, real_score: 0.0886, gen_score: 0.9785
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [861/1000], gen_loss: 3.6054, disc_loss: 0.4830, real_score: 0.1298, gen_score: 0.9583
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [862/1000], gen_loss: 1.8065, disc_loss: 0.6168, real_score: 0.2327, gen_score: 0.8855
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [863/1000], gen_loss: 0.3971, disc_loss: 0.8939, real_score: 0.4348, gen_score: 0.9537
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [864/1000], gen_loss: 3.7904, disc_loss: 0.4785, real_score: 0.0895, gen_score: 0.8790
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [865/1000], gen_loss: 0.9643, disc_loss: 0.7166, real_score: 0.3138, gen_score: 0.9266
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [866/1000], gen_loss: 8.7168, disc_loss: 0.8600, real_score: 0.0517, gen_score: 0.5705
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [867/1000], gen_loss: 3.2006, disc_loss: 0.4565, real_score: 0.0401, gen_score: 0.8894
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [868/1000], gen_loss: 2.5341, disc_loss: 0.4712, real_score: 0.1219, gen_score: 0.9377
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [869/1000], gen_loss: 5.4746, disc_loss: 1.0950, real_score: 0.0787, gen_score: 0.4501
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [870/1000], gen_loss: 3.3001, disc_loss: 0.4840, real_score: 0.1212, gen_score: 0.8969
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [871/1000], gen_loss: 1.7576, disc_loss: 0.7850, real_score: 0.3510, gen_score: 0.9460
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [872/1000], gen_loss: 2.4124, disc_loss: 1.1110, real_score: 0.5289, gen_score: 0.9676
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [873/1000], gen_loss: 5.5729, disc_loss: 0.9646, real_score: 0.1787, gen_score: 0.5721
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [874/1000], gen_loss: 3.0096, disc_loss: 0.4910, real_score: 0.1389, gen_score: 0.9600
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [875/1000], gen_loss: 3.6324, disc_loss: 0.4989, real_score: 0.0626, gen_score: 0.8574
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [876/1000], gen_loss: 3.2170, disc_loss: 1.1210, real_score: 0.0106, gen_score: 0.4502
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [877/1000], gen_loss: 5.9389, disc_loss: 0.5985, real_score: 0.1990, gen_score: 0.9899
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [878/1000], gen_loss: 2.5668, disc_loss: 0.5421, real_score: 0.1475, gen_score: 0.8527
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [879/1000], gen_loss: 3.9272, disc_loss: 0.7333, real_score: 0.3326, gen_score: 0.9299
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [880/1000], gen_loss: 1.5793, disc_loss: 0.5296, real_score: 0.1826, gen_score: 0.9677
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [881/1000], gen_loss: 5.2298, disc_loss: 0.8605, real_score: 0.1184, gen_score: 0.6055
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [882/1000], gen_loss: 1.0782, disc_loss: 1.1116, real_score: 0.5329, gen_score: 0.9605
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [883/1000], gen_loss: 4.4673, disc_loss: 0.7277, real_score: 0.0108, gen_score: 0.6790
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [884/1000], gen_loss: 7.1220, disc_loss: 1.1805, real_score: 0.0105, gen_score: 0.4214
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [885/1000], gen_loss: 3.6991, disc_loss: 0.6281, real_score: 0.0189, gen_score: 0.7534
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [886/1000], gen_loss: 6.8028, disc_loss: 1.3945, real_score: 0.0257, gen_score: 0.3327
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [887/1000], gen_loss: 4.9663, disc_loss: 0.9005, real_score: 0.0524, gen_score: 0.5357
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [888/1000], gen_loss: 2.6633, disc_loss: 0.4431, real_score: 0.0785, gen_score: 0.9260
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [889/1000], gen_loss: 3.8022, disc_loss: 0.4406, real_score: 0.0599, gen_score: 0.9552
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [890/1000], gen_loss: 1.6065, disc_loss: 0.6506, real_score: 0.2674, gen_score: 0.9127
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [891/1000], gen_loss: 2.8251, disc_loss: 0.8179, real_score: 0.3711, gen_score: 0.9905
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [892/1000], gen_loss: 1.2064, disc_loss: 0.6056, real_score: 0.1853, gen_score: 0.8195
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [893/1000], gen_loss: 2.3825, disc_loss: 0.6194, real_score: 0.0471, gen_score: 0.7253
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [894/1000], gen_loss: 4.4061, disc_loss: 0.5937, real_score: 0.0175, gen_score: 0.7563
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [895/1000], gen_loss: 1.8954, disc_loss: 0.4484, real_score: 0.0755, gen_score: 0.9392
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [896/1000], gen_loss: 4.3770, disc_loss: 0.6543, real_score: 0.0227, gen_score: 0.7298
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [897/1000], gen_loss: 1.6473, disc_loss: 0.5883, real_score: 0.2364, gen_score: 0.9379
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [898/1000], gen_loss: 4.4051, disc_loss: 1.3503, real_score: 0.0714, gen_score: 0.3577
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [899/1000], gen_loss: 0.2474, disc_loss: 0.9587, real_score: 0.4555, gen_score: 0.8742
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [900/1000], gen_loss: 2.4168, disc_loss: 0.5065, real_score: 0.1225, gen_score: 0.8785
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [901/1000], gen_loss: 2.7729, disc_loss: 0.5731, real_score: 0.0285, gen_score: 0.7642
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [902/1000], gen_loss: 3.0327, disc_loss: 0.4814, real_score: 0.0202, gen_score: 0.9501
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [903/1000], gen_loss: 0.8433, disc_loss: 0.4593, real_score: 0.0911, gen_score: 0.9179
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [904/1000], gen_loss: 3.5381, disc_loss: 0.5142, real_score: 0.0682, gen_score: 0.8245
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [905/1000], gen_loss: 5.4948, disc_loss: 0.9281, real_score: 0.0225, gen_score: 0.5416
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [906/1000], gen_loss: 5.1978, disc_loss: 0.8011, real_score: 0.0428, gen_score: 0.6149
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [907/1000], gen_loss: 5.4109, disc_loss: 0.6117, real_score: 0.0901, gen_score: 0.7421
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [908/1000], gen_loss: 3.5667, disc_loss: 0.5522, real_score: 0.1133, gen_score: 0.8104
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [909/1000], gen_loss: 1.9462, disc_loss: 1.3218, real_score: 0.5919, gen_score: 0.9938
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [910/1000], gen_loss: 1.6452, disc_loss: 0.8705, real_score: 0.3841, gen_score: 0.9831
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [911/1000], gen_loss: 1.9246, disc_loss: 0.4721, real_score: 0.0165, gen_score: 0.9150
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [912/1000], gen_loss: 0.9427, disc_loss: 0.7453, real_score: 0.3207, gen_score: 0.8475
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [913/1000], gen_loss: 1.2940, disc_loss: 0.6627, real_score: 0.2850, gen_score: 0.9758
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [914/1000], gen_loss: 0.3057, disc_loss: 1.0024, real_score: 0.4942, gen_score: 0.9747
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [915/1000], gen_loss: 5.1322, disc_loss: 0.6184, real_score: 0.0246, gen_score: 0.7385
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [916/1000], gen_loss: 2.1890, disc_loss: 0.4473, real_score: 0.1012, gen_score: 0.9524
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [917/1000], gen_loss: 1.6823, disc_loss: 1.3276, real_score: 0.5951, gen_score: 0.9940
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [918/1000], gen_loss: 3.2072, disc_loss: 0.4508, real_score: 0.1185, gen_score: 0.9570
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [919/1000], gen_loss: 1.6008, disc_loss: 0.6487, real_score: 0.2740, gen_score: 0.9547
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [920/1000], gen_loss: 0.4692, disc_loss: 0.9827, real_score: 0.4685, gen_score: 0.9810
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [921/1000], gen_loss: 4.1722, disc_loss: 0.4646, real_score: 0.0836, gen_score: 0.9028
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [922/1000], gen_loss: 0.4631, disc_loss: 1.7676, real_score: 0.7150, gen_score: 0.9940
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [923/1000], gen_loss: 2.2734, disc_loss: 0.7094, real_score: 0.3283, gen_score: 0.9554
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [924/1000], gen_loss: 0.6690, disc_loss: 0.9517, real_score: 0.4660, gen_score: 0.9765
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [925/1000], gen_loss: 3.1842, disc_loss: 0.4772, real_score: 0.0933, gen_score: 0.8667
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [926/1000], gen_loss: 3.5498, disc_loss: 0.4952, real_score: 0.1213, gen_score: 0.9808
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [927/1000], gen_loss: 0.1209, disc_loss: 1.0271, real_score: 0.4936, gen_score: 0.9234
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [928/1000], gen_loss: 2.8693, disc_loss: 0.4615, real_score: 0.1079, gen_score: 0.9586
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [929/1000], gen_loss: 3.7197, disc_loss: 0.5871, real_score: 0.2340, gen_score: 0.9685
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [930/1000], gen_loss: 2.8538, disc_loss: 0.4854, real_score: 0.0386, gen_score: 0.8426
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [931/1000], gen_loss: 4.7845, disc_loss: 0.6753, real_score: 0.1623, gen_score: 0.7290
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [932/1000], gen_loss: 4.3992, disc_loss: 0.4472, real_score: 0.0284, gen_score: 0.9212
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [933/1000], gen_loss: 0.5033, disc_loss: 2.4181, real_score: 0.8352, gen_score: 0.9888
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [934/1000], gen_loss: 1.3292, disc_loss: 2.8224, real_score: 0.8763, gen_score: 0.9954
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [935/1000], gen_loss: 6.1077, disc_loss: 0.9638, real_score: 0.0070, gen_score: 0.5429
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [936/1000], gen_loss: 3.5991, disc_loss: 0.6688, real_score: 0.0386, gen_score: 0.6798
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [937/1000], gen_loss: 2.7060, disc_loss: 0.5113, real_score: 0.0512, gen_score: 0.8571
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [938/1000], gen_loss: 3.0234, disc_loss: 0.6018, real_score: 0.2466, gen_score: 0.9453
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [939/1000], gen_loss: 3.5440, disc_loss: 0.7647, real_score: 0.3489, gen_score: 0.9860
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [940/1000], gen_loss: 0.5979, disc_loss: 0.8827, real_score: 0.4275, gen_score: 0.9430
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [941/1000], gen_loss: 0.3399, disc_loss: 1.7567, real_score: 0.7273, gen_score: 0.9714
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [942/1000], gen_loss: 5.3787, disc_loss: 0.6188, real_score: 0.0227, gen_score: 0.7458
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [943/1000], gen_loss: 2.1579, disc_loss: 0.4563, real_score: 0.0748, gen_score: 0.9208
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [944/1000], gen_loss: 0.7838, disc_loss: 5.1172, real_score: 0.9774, gen_score: 0.9968
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [945/1000], gen_loss: 2.6709, disc_loss: 0.5161, real_score: 0.1329, gen_score: 0.8713
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [946/1000], gen_loss: 1.9085, disc_loss: 0.4659, real_score: 0.1206, gen_score: 0.9315
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [947/1000], gen_loss: 2.5641, disc_loss: 0.4731, real_score: 0.1069, gen_score: 0.9098
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [948/1000], gen_loss: 3.2857, disc_loss: 0.5050, real_score: 0.1409, gen_score: 0.9748
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [949/1000], gen_loss: 6.9656, disc_loss: 0.5088, real_score: 0.0430, gen_score: 0.8198
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [950/1000], gen_loss: 2.3251, disc_loss: 0.6360, real_score: 0.2558, gen_score: 0.9830
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [951/1000], gen_loss: 2.2997, disc_loss: 0.4989, real_score: 0.0877, gen_score: 0.8614
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [952/1000], gen_loss: 2.4011, disc_loss: 0.4852, real_score: 0.1407, gen_score: 0.9446
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [953/1000], gen_loss: 4.1576, disc_loss: 0.4692, real_score: 0.0578, gen_score: 0.8747
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [954/1000], gen_loss: 4.2229, disc_loss: 0.4946, real_score: 0.0109, gen_score: 0.8752
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [955/1000], gen_loss: 2.8309, disc_loss: 0.5039, real_score: 0.0851, gen_score: 0.8632
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [956/1000], gen_loss: 5.2955, disc_loss: 0.7402, real_score: 0.2985, gen_score: 0.9952
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [957/1000], gen_loss: 4.8727, disc_loss: 0.5380, real_score: 0.1440, gen_score: 0.9889
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [958/1000], gen_loss: 1.7529, disc_loss: 0.6179, real_score: 0.2278, gen_score: 0.8675
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [959/1000], gen_loss: 4.0449, disc_loss: 0.4362, real_score: 0.0613, gen_score: 0.9643
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [960/1000], gen_loss: 0.1553, disc_loss: 1.3184, real_score: 0.6144, gen_score: 0.9699
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [961/1000], gen_loss: 4.0612, disc_loss: 0.5631, real_score: 0.1747, gen_score: 0.9911
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [962/1000], gen_loss: 1.1613, disc_loss: 0.7398, real_score: 0.3472, gen_score: 0.9768
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [963/1000], gen_loss: 1.7337, disc_loss: 0.4766, real_score: 0.1407, gen_score: 0.9481
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [964/1000], gen_loss: 2.2368, disc_loss: 1.0680, real_score: 0.5125, gen_score: 0.9870
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [965/1000], gen_loss: 3.9906, disc_loss: 0.4675, real_score: 0.0446, gen_score: 0.8737
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [966/1000], gen_loss: 1.1566, disc_loss: 0.5900, real_score: 0.2205, gen_score: 0.9070
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [967/1000], gen_loss: 2.7282, disc_loss: 0.4977, real_score: 0.1421, gen_score: 0.9329
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [968/1000], gen_loss: 3.8137, disc_loss: 1.7229, real_score: 0.7086, gen_score: 0.9972
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [969/1000], gen_loss: 4.5409, disc_loss: 0.9596, real_score: 0.4296, gen_score: 0.9945
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [970/1000], gen_loss: 2.0599, disc_loss: 0.4778, real_score: 0.1062, gen_score: 0.9242
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [971/1000], gen_loss: 4.5450, disc_loss: 0.4565, real_score: 0.0258, gen_score: 0.8998
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [972/1000], gen_loss: 3.8290, disc_loss: 0.5367, real_score: 0.1115, gen_score: 0.8173
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [973/1000], gen_loss: 3.9163, disc_loss: 0.4450, real_score: 0.0639, gen_score: 0.9188
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [974/1000], gen_loss: 0.7373, disc_loss: 0.6347, real_score: 0.2788, gen_score: 0.9752
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [975/1000], gen_loss: 0.6424, disc_loss: 0.6842, real_score: 0.2454, gen_score: 0.7946
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [976/1000], gen_loss: 2.5072, disc_loss: 0.4388, real_score: 0.0675, gen_score: 0.9275
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [977/1000], gen_loss: 1.0927, disc_loss: 0.6266, real_score: 0.1933, gen_score: 0.8278
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [978/1000], gen_loss: 2.8165, disc_loss: 0.4518, real_score: 0.0803, gen_score: 0.9043
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [979/1000], gen_loss: 3.0389, disc_loss: 0.5381, real_score: 0.1546, gen_score: 0.9908
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [980/1000], gen_loss: 0.1051, disc_loss: 1.2171, real_score: 0.5815, gen_score: 0.9381
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [981/1000], gen_loss: 5.4372, disc_loss: 0.4706, real_score: 0.0570, gen_score: 0.8937
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [982/1000], gen_loss: 0.1563, disc_loss: 1.4538, real_score: 0.6621, gen_score: 0.9751
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [983/1000], gen_loss: 5.1924, disc_loss: 0.4331, real_score: 0.0297, gen_score: 0.9635
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [984/1000], gen_loss: 1.1594, disc_loss: 0.5203, real_score: 0.1743, gen_score: 0.9198
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [985/1000], gen_loss: 0.9679, disc_loss: 0.8904, real_score: 0.2162, gen_score: 0.6189
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [986/1000], gen_loss: 2.2749, disc_loss: 0.4846, real_score: 0.0960, gen_score: 0.8730
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [987/1000], gen_loss: 4.5072, disc_loss: 0.4528, real_score: 0.0902, gen_score: 0.9742
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [988/1000], gen_loss: 5.9692, disc_loss: 0.9306, real_score: 0.0440, gen_score: 0.5093
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [989/1000], gen_loss: 4.6975, disc_loss: 0.6447, real_score: 0.0771, gen_score: 0.7164
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [990/1000], gen_loss: 0.1275, disc_loss: 1.5259, real_score: 0.6764, gen_score: 0.9322
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [991/1000], gen_loss: 3.4748, disc_loss: 0.4493, real_score: 0.0365, gen_score: 0.9183
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [992/1000], gen_loss: 1.9578, disc_loss: 0.5396, real_score: 0.1542, gen_score: 0.8536
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [993/1000], gen_loss: 0.4060, disc_loss: 0.6531, real_score: 0.2930, gen_score: 0.9192
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [994/1000], gen_loss: 4.7338, disc_loss: 0.4372, real_score: 0.0737, gen_score: 0.9435
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [995/1000], gen_loss: 5.7424, disc_loss: 0.9896, real_score: 0.0271, gen_score: 0.5127
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [996/1000], gen_loss: 3.1222, disc_loss: 0.5725, real_score: 0.1252, gen_score: 0.7942
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [997/1000], gen_loss: 3.7826, disc_loss: 0.5381, real_score: 0.0215, gen_score: 0.8103
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [998/1000], gen_loss: 5.1531, disc_loss: 0.8242, real_score: 0.0257, gen_score: 0.6007
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [999/1000], gen_loss: 2.0057, disc_loss: 0.5071, real_score: 0.1300, gen_score: 0.8739
+Result Saved!
+  0%|          | 0/98 [00:00<?, ?it/s]
+Epoch [1000/1000], gen_loss: 3.2167, disc_loss: 0.4834, real_score: 0.0509, gen_score: 0.9893
+Result Saved!
+Sat Nov 16 23:06:46 EST 2024
+c1106a-s17.ufhpc
+/blue/rcstudents/smaley/pokegan/PokeGAN

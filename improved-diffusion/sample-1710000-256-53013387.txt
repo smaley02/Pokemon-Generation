@@ -1,0 +1,71 @@
+Tue Dec 17 10:42:44 EST 2024
+c0801a-s11.ufhpc
+/home/smaley/rcstudents_blue/pokegan/improved-diffusion
+Logging to log_256
+creating model and diffusion...
+/blue/rcstudents/smaley/pokegan/improved-diffusion/improved_diffusion/dist_util.py:63: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  return th.load(io.BytesIO(data), **kwargs)
+sampling...
+created 16 samples
+created 32 samples
+created 48 samples
+created 64 samples
+created 80 samples
+created 96 samples
+created 112 samples
+created 128 samples
+created 144 samples
+created 160 samples
+created 176 samples
+created 192 samples
+created 208 samples
+created 224 samples
+created 240 samples
+created 256 samples
+created 272 samples
+created 288 samples
+created 304 samples
+created 320 samples
+created 336 samples
+created 352 samples
+created 368 samples
+created 384 samples
+created 400 samples
+created 416 samples
+created 432 samples
+created 448 samples
+created 464 samples
+created 480 samples
+created 496 samples
+created 512 samples
+created 528 samples
+created 544 samples
+created 560 samples
+created 576 samples
+created 592 samples
+created 608 samples
+created 624 samples
+created 640 samples
+created 656 samples
+created 672 samples
+created 688 samples
+created 704 samples
+created 720 samples
+created 736 samples
+created 752 samples
+created 768 samples
+created 784 samples
+created 800 samples
+created 816 samples
+created 832 samples
+created 848 samples
+created 864 samples
+created 880 samples
+created 896 samples
+created 912 samples
+saving to log_256/samples_900x256x256x3.npz
+sampling complete
+[rank0]:[W1218 02:45:03.572909049 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())
+Wed Dec 18 02:45:25 EST 2024
+c0801a-s11.ufhpc
+/home/smaley/rcstudents_blue/pokegan/improved-diffusion
