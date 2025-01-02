@@ -1,3 +1,0 @@
-Wed Dec  4 10:07:47 EST 2024
-c0907a-s23.ufhpc
-/home/smaley/rcstudents_blue/pokegan/improved-diffusion

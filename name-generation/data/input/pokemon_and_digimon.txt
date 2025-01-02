@@ -1,0 +1,2469 @@
+corvisquire
+yanma
+zebstrika
+dunsparce
+grimmsnarl
+kangaskhan
+wigglytuff
+eldegoss
+hakamo
+fennekin
+starmie
+lunala
+quilladin
+runerigus
+jynx
+togekiss
+wiglett
+blacephalon
+togepi
+wormadam
+urshifu
+beheeyem
+scovillain
+galvantula
+houndoom
+raging bolt
+pyroar
+volbeat
+charjabug
+alakazam
+sealeo
+fezandipiti
+shedinja
+wailmer
+reuniclus
+tranquill
+iron crown
+diggersby
+umbreon
+gible
+morpeko
+zeraora
+arboliva
+rabsca
+archaludon
+buzzwole
+salandit
+drilbur
+zarude
+natu
+skrelp
+ninjask
+snover
+dewpider
+gourgeist
+yamper
+rapidash
+infernape
+yanmega
+brambleghast
+sharpedo
+trumbeak
+ninetales
+tornadus
+liepard
+arctibax
+hitmontop
+baltoy
+manectric
+vulpix
+tapu lele
+nuzleaf
+swoobat
+arctovish
+tangrowth
+phione
+necrozma
+flaaffy
+panpour
+clefable
+delcatty
+sandslash
+floatzel
+vanilluxe
+landorus
+finizen
+bronzor
+cubchoo
+weezing
+palafin
+vanillish
+simisear
+nidorina
+goldeen
+charizard
+eevee
+electabuzz
+hitmonlee
+crocalor
+simisage
+tinkatink
+xerneas
+sableye
+clawitzer
+sirfetch
+castform
+pinsir
+weedle
+carkol
+charmeleon
+terrakion
+mimikyu
+carvanha
+mudsdale
+forretress
+teddiursa
+gogoat
+serperior
+pidgey
+meganium
+hoopa
+camerupt
+glaceon
+ferrothorn
+frogadier
+meloetta
+abra
+hydreigon
+maushold
+magmar
+gothita
+drifblim
+munna
+nidoqueen
+azurill
+murkrow
+sentret
+happiny
+klawf
+shieldon
+oddish
+froslass
+relicanth
+regirock
+okidogi
+amaura
+simipour
+feebas
+anorith
+doduo
+palpitoad
+burmy
+finneon
+palkia
+dubwool
+kadabra
+espeon
+snom
+lickitung
+yungoos
+leavanny
+tapu koko
+iron moth
+chatot
+magnemite
+larvesta
+charmander
+dodrio
+magby
+beartic
+tadbulb
+cursola
+cetoddle
+milotic
+comfey
+metagross
+chewtle
+gigalith
+darumaka
+drizzile
+arctozolt
+wobbuffet
+grovyle
+bombirdier
+vanillite
+shaymin
+litwick
+nacli
+swablu
+ariados
+tentacruel
+slakoth
+sewaddle
+swinub
+lumineon
+arrokuda
+leafeon
+stonjourner
+poliwag
+delibird
+impidimp
+cresselia
+koraidon
+cyndaquil
+piplup
+hawlucha
+banette
+gossifleur
+reshiram
+tatsugiri
+golbat
+lillipup
+heracross
+solosis
+zamazenta
+appletun
+larvitar
+silcoon
+dedenne
+crustle
+fomantis
+flutter mane
+enamorus
+shelgon
+slugma
+cetitan
+exeggutor
+ferroseed
+great tusk
+suicune
+rookidee
+ditto
+zapdos
+snivy
+archeops
+spidops
+decidueye
+salamence
+hatterene
+emolga
+jolteon
+iron leaves
+dugtrio
+vullaby
+nincada
+staraptor
+pineco
+litten
+stoutland
+pikachu
+morgrem
+bidoof
+garbodor
+mamoswine
+stantler
+dewgong
+feraligatr
+metang
+wingull
+carracosta
+wimpod
+magmortar
+maractus
+gligar
+entei
+skarmory
+weepinbell
+flygon
+sandygast
+frosmoth
+misdreavus
+slowbro
+onix
+lokix
+frillish
+drakloak
+basculin
+eternatus
+goomy
+spoink
+cutiefly
+heliolisk
+diancie
+scizor
+togedemaru
+mankey
+marshtomp
+thievul
+bibarel
+bellossom
+magnezone
+fraxure
+dratini
+centiskorch
+unnown
+cradily
+volcanion
+genesect
+braixen
+snubbull
+revavroom
+overqwil
+greedent
+pignite
+iron jugulis
+gorebyss
+aggron
+mienfoo
+aipom
+absol
+squawkabilly
+nosepass
+toxicroak
+phantump
+copperajah
+croconaw
+boltund
+incineroar
+quaxwell
+dragapult
+charcadet
+pecharunt
+togetic
+ampharos
+grumpig
+smoochum
+spearow
+spheal
+shiinotic
+pumpkaboo
+dialga
+elekid
+druddigon
+talonflame
+meditite
+popplio
+naganadel
+vivillon
+cubone
+farfetch
+rayquaza
+dewott
+kleavor
+clefairy
+politoed
+aurorus
+seadra
+sinistcha
+bergmite
+honedge
+spritzee
+pachirisu
+arcanine
+minior
+sneasel
+bruxish
+zoroark
+grotle
+registeel
+rotom
+regidrago
+chandelure
+sandy shocks
+excadrill
+heatran
+budew
+rampardos
+archen
+luxray
+meowscarada
+dottler
+rockruff
+sawsbuck
+terapagos
+spectrier
+poliwrath
+geodude
+null
+greavard
+octillery
+masquerain
+toxtricity
+fletchinder
+furfrou
+chikorita
+meowstic
+croagunk
+litleo
+doublade
+kingambit
+scream tail
+steenee
+iron boulder
+sigilyph
+magearna
+elgyem
+shroodle
+wishiwashi
+roaring moon
+shiftry
+woobat
+lopunny
+toedscruel
+kyogre
+cosmog
+trubbish
+paras
+eelektross
+tropius
+zekrom
+clodsire
+rowlet
+mabosstiff
+machoke
+scatterbug
+nickit
+sceptile
+drednaw
+roggenrola
+cyclizar
+rolycoly
+trevenant
+muk
+noctowl
+spinarak
+golduck
+ursaluna
+crabominable
+sinistea
+combusken
+gengar
+mienshao
+pawniard
+crobat
+zigzagoon
+perrserker
+skorupi
+prinplup
+bewear
+purugly
+dracozolt
+accelgor
+darmanitan
+vaporeon
+floragato
+braviary
+lotad
+typhlosion
+raichu
+altaria
+scyther
+minccino
+sawk
+rattata
+phanpy
+meltan
+greninja
+hoppip
+metapod
+armaldo
+pheromosa
+klefki
+klinklang
+parasect
+zubat
+dusclops
+cryogonal
+scrafty
+sizzlipede
+kommo
+azumarill
+brute bonnet
+shroomish
+pansage
+staryu
+raticate
+electrike
+dreepy
+inkay
+bayleef
+bisharp
+heatmor
+squirtle
+abomasnow
+wooper
+slowpoke
+venonat
+solrock
+helioptile
+flareon
+tirtouga
+swirlix
+calyrex
+krokorok
+marshadow
+gumshoos
+deerling
+blastoise
+hippowdon
+cloyster
+marowak
+shuckle
+probopass
+clamperl
+virizion
+seismitoad
+nymble
+noivern
+flittle
+nidoking
+mesprit
+avalugg
+beautifly
+smeargle
+kartana
+tapu bulu
+polteageist
+whismur
+toucannon
+girafarig
+indeedee
+raboot
+houndour
+minun
+corviknight
+whiscash
+keldeo
+bunnelby
+luxio
+sunflora
+zorua
+bulbasaur
+mudkip
+munkidori
+garchomp
+magikarp
+growlithe
+cacnea
+golem
+iron hands
+remoraid
+bounsweet
+naclstack
+hariyama
+deino
+jigglypuff
+salazzle
+toxapex
+gholdengo
+qwilfish
+tsareena
+buneary
+cobalion
+gardevoir
+regieleki
+lickilicky
+pincurchin
+arceus
+timburr
+pichu
+shuppet
+mew
+throh
+aromatisse
+fearow
+machop
+kecleon
+tyrantrum
+voltorb
+mime jr
+giratina
+uxie
+latias
+kricketot
+pansear
+kakuna
+kricketune
+morelull
+jellicent
+rhyhorn
+turtwig
+milcery
+gabite
+skeledirge
+huntail
+poliwhirl
+roserade
+dudunsparce
+floette
+wynaut
+eelektrik
+herdier
+shinx
+chi-yu
+axew
+omanyte
+durant
+weavile
+torracat
+conkeldurr
+tyrunt
+farigiraf
+rhydon
+capsakid
+thundurus
+empoleon
+frigibax
+ceruledge
+tyranitar
+hattrem
+ledyba
+chingling
+riolu
+clauncher
+carnivine
+porygon
+cranidos
+chimchar
+chespin
+exploud
+buizel
+sneasler
+sobble
+drowzee
+pawmot
+venipede
+dusknoir
+poltchageist
+articuno
+sandshrew
+oinkologne
+garganacl
+quaquaval
+espathra
+lucario
+emboar
+golurk
+torterra
+marill
+granbull
+tinkatuff
+espurr
+magneton
+inteleon
+dracovish
+chimecho
+claydol
+vigoroth
+purrloin
+breloom
+gastrodon
+nidorino
+cramorant
+basculegion
+palossand
+surskit
+iron thorns
+hypno
+kingler
+blipbug
+annihilape
+froakie
+bramblin
+piloswine
+kabutops
+houndstone
+vibrava
+coalossal
+kingdra
+seaking
+nidoran
+gothitelle
+medicham
+pawmo
+cherrim
+wugtrio
+volcarona
+shelmet
+kyurem
+furret
+cinderace
+gliscor
+tandemaus
+jumpluff
+obstagoon
+mothim
+pancham
+hydrapple
+grimer
+blissey
+golisopod
+honchkrow
+illumise
+toedscool
+melmetal
+chinchou
+omastar
+samurott
+silicobra
+pelipper
+eiscue
+rhyperior
+snorunt
+quilava
+regigigas
+solgaleo
+komala
+tangela
+caterpie
+lanturn
+gouging fire
+whirlipede
+ribombee
+glimmora
+wartortle
+fletchling
+alomomola
+victini
+trapinch
+scorbunny
+brionne
+zweilous
+chansey
+torchic
+slowking
+xatu
+binacle
+corsola
+torkoal
+crawdaunt
+ambipom
+numel
+seedot
+wo-chien
+darkrai
+mareanie
+gurdurr
+ledian
+iron bundle
+sliggoo
+gyarados
+psyduck
+unfezant
+oricorio
+mantine
+seviper
+kabuto
+shellos
+fuecoco
+grafaiai
+orthworm
+amoonguss
+araquanid
+wattrel
+ralts
+baxcalibur
+swadloon
+celesteela
+dustox
+lurantis
+mantyke
+graveler
+butterfree
+loudred
+dolliv
+hippopotas
+sprigatito
+pyukumuku
+raikou
+walking wake
+gimmighoul
+skuntank
+wailord
+krabby
+manaphy
+gastly
+haxorus
+golett
+corphish
+tepig
+whimsicott
+mareep
+turtonator
+blaziken
+staravia
+bellibolt
+bellsprout
+skiploom
+swalot
+hitmonchan
+grubbin
+fidough
+sylveon
+seel
+swampert
+haunter
+stunfisk
+skwovet
+duskull
+drapion
+ponyta
+moltres
+cofagrigus
+ursaring
+musharna
+mudbray
+glastrier
+maschiff
+barbaracle
+lilligant
+kubfu
+tapu fini
+flab
+beedrill
+stunky
+bastiodon
+mightyena
+persian
+latios
+tynamo
+cleffa
+clobbopus
+alcremie
+donphan
+orbeetle
+karrablast
+slaking
+venusaur
+ivysaur
+pupitar
+ting-lu
+klang
+cascoon
+sudowoodo
+plusle
+roselia
+gulpin
+lileep
+glimmet
+horsea
+drampa
+quagsire
+foongus
+gloom
+varoom
+iron valiant
+machamp
+xurkitree
+primeape
+passimian
+rellor
+chesnaught
+scraggy
+mewtwo
+toxel
+yamask
+pidgeot
+groudon
+dipplin
+arbok
+dwebble
+miltank
+dragonite
+sandile
+skiddo
+victreebel
+mime
+linoone
+kirlia
+wurmple
+miraidon
+lairon
+dhelmise
+flapple
+magcargo
+lugia
+treecko
+silvally
+oshawott
+koffing
+tyrogue
+kilowattrel
+aron
+crabrawler
+pawmi
+veluza
+zacian
+sunkern
+bagon
+diglett
+lechonk
+tarountula
+ludicolo
+grookey
+delphox
+totodile
+duraludon
+zygarde
+smoliv
+oranguru
+bonsly
+applin
+gothorita
+dondozo
+joltik
+december
+pidgeotto
+blitzle
+cufant
+cosmoem
+poochyena
+noibat
+thwackey
+grapploct
+petilil
+munchlax
+swellow
+ogerpon
+iron treads
+vespiquen
+goodra
+meowth
+spiritomb
+sandaconda
+hatenna
+exeggcute
+bouffalant
+dartrix
+ekans
+cacturne
+lampent
+tinkaton
+glameow
+drifloon
+lycanroc
+steelix
+shellder
+carbink
+nihilego
+chien-pao
+rillaboom
+ho
+jirachi
+dragonair
+yveltal
+hoothoot
+spewpa
+florges
+pangoro
+barboach
+luvdisc
+jangmo
+slither wing
+ducklett
+electrode
+venomoth
+watchog
+mawile
+armarouge
+audino
+dachsbun
+aerodactyl
+regice
+walrein
+escavalier
+quaxly
+aegislash
+beldum
+azelf
+wooloo
+mr
+celebi
+glalie
+deoxys
+poipole
+zangoose
+klink
+lombre
+lapras
+flamigo
+rufflet
+vikavolt
+stakataka
+combee
+makuhita
+type
+electivire
+starly
+rime
+servine
+malamar
+monferno
+guzzlord
+snorlax
+patrat
+skitty
+falinks
+tauros
+slurpuff
+wyrdeer
+boldore
+cinccino
+stufful
+mismagius
+lunatone
+primarina
+duosion
+cherubi
+barraskewda
+spinda
+dragalge
+pidove
+swanna
+bronzong
+pikipek
+scolipede
+mandibuzz
+krookodile
+tympole
+cottonee
+taillow
+vileplume
+igglybuff
+tentacool
+gallade
+duftmon 
+terriermon 
+sakuttomon
+evilmon
+takutoumon
+angewomon 
+pinochimon
+climbmon
+gaioumon
+falcomon 
+igamon
+poyomon
+agumon -yuki no kizuna-
+majuu lilithmon
+pyramidimon
+chibi kamemon
+okuwamon 
+platinum scumon
+deadly axemon
+atamadekachimon
+beelzebumon: blast mode
+war greymon 
+tinkermon
+impmon
+shoucutemon
+strikedramon
+shoutmon x4b
+lord knightmon 
+jungle mojyamon
+pickmon
+ornismon
+kohagurumon
+clear agumon
+beel starmon 
+ryugumon
+venom vamdemon
+fumamon
+panjyamon 
+megidramon
+ogudomon
+black war greymon
+jiko tyumon
+grademon 
+tyranomon
+tunomon
+hi andromon
+blikmon
+xros up astamon 
+caprimon
+labramon
+sealsdramon
+yukidarumon
+kaiser greymon
+chocomon
+tsubumon
+apollomon whispered
+raidenmon
+greymon o
+belial vamdemon
+duftmon: leopard mode
+ulforce v-dramon
+bio coatlmon
+pafumon
+omegamon alter-s
+holydramon 
+ganimon 
+bastemon
+justimon 
+vegimon
+giga seadramon
+grand galemon
+betamon
+erlangmon
+ballistamon
+phelesmon
+yanmamon
+shoutmon x5
+raguelmon
+fujinmon
+golemon 
+devitamamon
+blade kuwagamon
+mistymon
+pitchmon
+gerbemon
+snatchmon
+betsumon
+xros up mervamon 
+battle armament trailmon
+black seraphimon 
+rurimon
+toy agumon 
+majiramon
+holy angemon
+jazardmon
+knightmon
+digmon
+mail birdramon + golemon
+rhino kabuterimon
+troopmon
+arcturusmon
+hookmon
+sleipmon
+ghostmon
+skull baluchimon
+tukaimon
+baalmon
+archelomon
+monzaemon
+gundramon
+shonitamon
+chaos dukemon
+kuwagamon 
+greymon 
+deathmon 
+skull satamon
+aldamon
+red vegimon
+piranimon
+oblivimon
+toropiamon
+huntermon
+dinobeemon
+skull knightmon 
+rize greymon
+bryweludramon
+tuchidarumon
+buraimon
+shroudmon‎‎
+yarmon
+black shoutmon x7
+omega shoutmon
+dorulumon + starmons
+allomon
+rapidmon armor
+shin monzaemon
+ganemon
+relemon
+bulkmon
+proximamon
+metal piranimon
+raijinmon
+ravmon: burst mode
+piemon
+arresterdramon: superior mode 
+lucemon: satan mode
+gokimon
+goddramon 
+crossmon
+mochimon
+death tyranomon
+kyubimon
+mercurymon
+megalo growmon 
+neamon
+slayerdramon
+renamon 
+ebidramon
+master v-dramon
+vespamon
+arkadimon baby
+chaos greymon
+mushmon
+xros up omega shoutmon 
+jupitermon
+shoutmon x2
+löwemon
+komondomon
+tsumemon
+manticoremon
+cres garurumon
+zephagamon
+cardmon r2
+tokomon
+hudiemon
+gryzmon
+metal garurumon
+kaminarimon
+mirage gaogamon: burst mode
+death devimon
+angoramon
+sepikmon
+ceresmon medium
+paomon
+ice devimon daipenmon enhancement absorbent
+bokomon
+kozenimon
+otamamon
+wizarmon
+gattai lilithmon
+pupumon
+vorvomon
+woodwoodymon
+omekamon
+black saint galgomon
+marin devimon
+mantaraymon
+huanglongmon
+dukemon: crimson mode
+drimogemon
+targetmon
+pipimon
+hanumon
+umon
+minervamon
+vulcanusmon
+fenriloogamon
+gaiamon
+budmon
+tyutyumon
+lilimon
+prince mamemon
+thunderballmon 
+platinum numemon
+lykamon
+aegiochusmon: holy
+omegamon alter-b
+chaperomon
+depthmon
+numemon
+shoutmon sh
+ancient irismon
+gesomon 
+dokugumon
+gaioumon: itto mode
+batterimon
+gran kuwagamon
+ravmon
+petit mamon
+omega armamon burst mode
+gizmon: at
+pawn shoutmon
+kuzuhamon
+dogmon
+ancient megatheriumon
+velgrmon
+tanemon
+shawujinmon
+shoeshoemon
+hyougamon
+landramon
+bancho leomon: burst mode
+dukemon 
+whamon perfect
+sunmon
+hi mugendramon
+jijimon
+dodomon
+ryudamon
+oboromon
+waspmon
+skull greymon
+ogudomon 
+pajiramon
+spadamon
+madomon
+reppamon
+zino garurumon
+shadramon
+meicoomon's unnamed child form
+neo vamdemon darkness mode 
+fujitsumon
+ulforce v-dramon future mode
+citramon
+sistermon noir
+gizmon: xt
+shoutmon x4k
+tailmon
+dark maildramon
+rasenmon: fury mode
+knightmon wise sword mode
+canoweissmon
+manbomon
+punch narabimon
+imperialdramon: paladin mode
+lucemon 
+missimon
+honeybeemon
+akatorimon
+betel gammamon‎
+ice devimon enhancement absorbent
+breakdramon
+oleamon
+nohemon
+gazimon 
+tempomon
+dark knightmon 
+zubaeagermon
+omegamon: merciful mode
+bancho mamemon
+decker greymon
+geremon
+burpmon
+cernumon
+guilmon 
+dracomon + cyberdramon
+shoutmon x7
+superstarmon
+meicoomon's unnamed baby form
+cockatrimon
+mammon
+pukumon
+saberdramon
+sparrowmon ab
+gokumon
+okuwamon
+bowmon
+metal seadramon
+nyokimon
+xros up submarimon 
+black king numemon
+blossomon
+dracomon 
+mega gran kuwagamon
+mugendramon
+monochromon
+boltmon
+ceresmon
+neo vamdemon
+penmon
+big mamemon
+gaomon
+kodokugumon baby
+thetismon
+stiffilmon
+kotemon
+lady devimon
+morphomon
+tyranomon 
+tuskmon
+surfimon
+death-x-dorugoramon
+flymon
+monzaemon 
+growmon 
+lucemon: falldown mode
+shine greymon
+gankoomon 
+monochromon 
+gravimon
+skull knightmon br
+caturamon
+jokermon
+xingtianmon
+meramon
+death meramon 
+geo greymon
+wezen gammamon
+youkomon
+grimmon
+metallife kuwagamon
+keramon
+bolgmon
+sparrowmon
+el doradimon
+zudomon
+mad leomon: armed mode
+pumpmon
+takutoumon: wrath mode
+white lopmon
+gabumon 
+ofanimon: falldown mode 
+gumdramon
+rukamon
+pururumon
+sakuyamon 
+king chessmon
+flaremon
+titamon
+xv-mon 
+shine greymon: ruin mode
+kyokyomon
+orgemon 
+metal greymon 
+saber leomon
+vajramon
+mametyramon
+bio darkdramon
+anubimon
+candmon
+garudamon 
+sistermon blanc 
+tiger vespamon
+danmon
+panjyamon
+cardmon c2
+mush-upped mach leomon
+fangmon
+beowolfmon
+stingmon 
+volcdramon
+captain hookmon
+atlur ballistamon
+shoutmon x7: superior mode
+chikurimon
+cardmon u1
+magna garurumon
+medieval dukemon
+vikaralamon
+aircraft carrier whamon
+pusurimon
+jewelbeemon
+venom vamdemon undead
+mantaraymon 
+neo devimon
+tlalocmon
+black tailmon
+justimon: blitz arm
+gravimon darkness mode
+black growmon
+gold v-dramon
+modoki betamon
+filmon
+diablomon 
+betamon 
+craniummon 
+ancient mermaimon
+nefertimon
+guilmon
+shoutmon x3sd
+aero v-dramon
+rinkmon
+boutmon
+mega dark knightmon
+ranamon
+volcanicdramon
+apocalymon
+vermillimon
+nanimon
+blimpmon
+hangyomon
+metal garurumon 
+zerimon
+grademon
+meicrackmon
+muchomon
+trailmon c-89
+gankoomon
+shoutmon x2 
+erlangmon: blast mode
+mermaimon
+v-dramon 
+bommon
+hubmon
+ochi musyamon
+tailmon 
+trailmon franken
+lovely angemon
+diarbbitmon
+kinkakumon
+valdurmon
+seraphimon
+cyclomon
+ginryumon
+proto gizmon
+mitamamon
+phascomon
+gurimon
+zeed millenniumon
+shoutmon
+panimon
+marsmon
+espimon
+archnemon
+ketomon
+pomumon
+chronomon destroy mode
+koemon
+arkadimon adult
+beelzebumon
+rhinomon 
+scorpiomon
+siesamon 
+barbamon 
+trailmon of darkness
+palmon 
+prairiemon
+lilithmon
+gyukimon
+tylomon 
+jougamon
+pucchiemon
+cherubimon 
+rosemon
+symbare angoramon
+guidemon
+mikemon
+plutomon
+gabumon
+dark superstarmon
+garummon
+herakle kabuterimon
+belphemon 
+meramon 
+tentomon
+crescemon
+pyonmon
+mastemon
+belphemon: sleep mode
+kyukanchoumon
+asuramon
+hawkmon
+gold numemon
+kabukimon
+tankmon
+pyocomon
+trailmon kettle
+liollmon
+sakuyamon: miko mode
+bancho lilimon
+assaultmon
+thunderballmon
+cyberdramon
+chibickmon
+lord knightmon
+dot kudamon
+scud missimon
+death-x-doruguremon
+taomon
+sunarizamon
+musyamon
+pokomon
+rafflesimon
+black tailmon uver.
+swanmon
+cotsucomon
+gokuwmon
+revolmon
+ordinemon
+lalamon
+dokunemon
+dorbickmon
+zamielmon
+garudamon
+sakuyamon
+silphymon
+mega darkness bagramon
+navimon
+atlur kabuterimon 
+ginkakumon
+skadimon
+dinohumon
+king whamon
+raptordramon
+lady devimon 
+arbormon
+megalo growmon
+moosemon
+mimicmon
+peti meramon
+ofanimon: falldown mode
+clavis angemon
+blastmon
+grace novamon
+lilithmon 
+exermon
+mammon 
+kudamon 
+aequcedramon
+baihumon
+omegamon 
+vademon 
+wisemon
+shoutmon + dorulu cannon
+bio thunderbirmon
+pillomon
+hououmon
+beelzebumon + revolmon
+petaldramon
+junomon
+dark lizamon
+shoutmon x4s
+shootmon
+divemon
+skull knightmon: arrow mode
+invisimon
+kokuwamon
+leviamon 
+sistermon ciel
+prince mamemon 
+metamormon
+ikkakumon
+kandoushichaundamon
+pile volcamon
+hi-vision monitamon
+metal tyranomon 
+apollomon darkness mode
+tylomon
+yaksamon
+skull knightmon: big axe mode
+sanzomon
+bombmon
+jesmon
+lucemon: larva
+whamon
+skull knightmon
+matadrmon
+v-mon
+cerberumon
+seadramon
+devidramon
+paildramon
+parasimon
+darkdramon
+searchmon
+sirenmon
+bagramon 
+millenniumon
+kaus gammamon
+kumbhiramon
+vikemon
+skull knightmon: cavalier mode
+starmons
+jumbo gamemon
+porcupamon
+kokabuterimon
+leomon 
+commandramon
+regalecusmon
+gigantic pumpmon
+herissmon
+qinglongmon
+ouryumon
+sunflowmon
+trailmon battle form
+imperialdramon: fighter mode 
+nanomon
+dot agumon
+digimon slingshot
+elephamon
+gabumon -yujo no kizuna-
+brachimon
+gigasmon
+ulforce v-dramon 
+jyarimon
+orgemon
+king hangyomon
+growmon
+yolkmon
+curimon
+loader leomon
+mamemon 
+cutemon
+black seraphimon
+shellmon
+arkhai angemon
+yatagaramon 
+minotaurmon
+shortmon
+kongoumon
+durandamon
+ganimon
+ancient greymon
+aegisdramon
+centalmon
+hopmon
+apollomon
+coelamon
+garurumon
+dark tyranomon 
+lianpumon
+mach gaogamon
+shima unimon
+okunimon
+zombiemon
+anomalocarimon
+rize greymon 
+puttimon
+luminamon
+doruguremon
+balli bastemon
+negamon 
+zassoumon
+vulturemon
+xiquemon
+parasaurmon
+mori shellmon
+dot shine greymon
+lavorvomon
+tobucatmon
+sunamon
+waru monzaemon
+kazuchimon
+leviamon
+dark tyranomon
+shoutmon x5b
+peacockmon
+shoutmon x6
+murmukusmon
+chamelemon
+hexeblaumon
+goddramon
+mirror ballmon
+diatrymon
+megadramon
+būmon
+skull knightmon: naginata mode
+punimon
+war greymon
+witchmon
+shakomon
+wolfmon
+jyagamon
+raptor sparrowmon
+tactimon
+kuwagamon
+examon 
+reverse weddinmon
+meicoomon
+kyubimon 
+magna kidmon
+agumon hakase
+damemon
+shoutmon ex6
+ludomon
+fenriloogamon: takemikazuchi
+callismon
+machmon
+angemon
+salamandamon
+aegiochusmon: dark
+guardromon
+burgamon
+hououmon 
+chaosmon: valdur arm
+beso bombmon
+starmon
+neo vamdemon darkness mode + shoutmon
+coronamon
+shutumon
+trailmon raccoon dog
+giga breakdramon
+bacchusmon‎
+justimon: critical arm
+vademon
+puyomon
+maildramon
+omedamon
+dokimon
+volcamon
+yaeger dorulumon
+valvemon
+metal tyranomon
+indaramon
+skull mammon 
+doumon
+sistermon ciel 
+jazarichmon
+puroromon
+mega decker greymon
+gururumon
+agnimon
+dukemon
+gulus gammamon
+triceramon 
+guardromon 
+sandiramon
+boogiemon
+fla wizarmon
+grand locomon
+deckerdramon
+urashimamon
+kyaromon
+jesmon 
+monodramon
+metal mamemon 
+jyureimon 
+pegasmon
+pinamon
+parrotmon
+negamon
+togemon 
+plesiomon
+unimon
+dianamon
+chicchimon
+coatlmon
+liamon
+turuiemon
+octmon
+yakiimon
+shoutmon b
+blucomon
+arkadimon perfect
+splashmon darkness mode
+ebemon
+shakomon 
+andiramon
+splashmon darkness mode 
+bearmon
+queenbeemon
+hermmon
+forgebeemon
+dot lalamon
+shoutmon x5 + skull greymon
+jazamon
+beel starmon
+tesla jellymon
+deckerdramon float mode
+terriermon assistant
+shakkoumon
+nise drimogemon
+mokumon
+kiwimon
+dark knightmon
+pawn gaossmon
+kamemon
+trailmon ball
+hagurumon 
+lotusmon
+aquilamon
+dot mirage gaogamon
+mothmon
+cardmon c1
+ganvivormon
+pucchiemon 
+bancho golemon
+rebellimon
+leomon
+cocomon
+armamon
+barbamon
+shoutmon 
+minomon
+bakumon
+v-dramon
+quartzmon
+chaosdramon
+bio stegomon
+yatagaramon
+were garurumon: sagittarius mode
+susanoomon
+valkyrimon
+deathmon
+alraumon
+grottomon
+piccolomon
+ukkomon
+cerberumon 
+gekomon
+omegamon zwart
+suijinmon
+muso knightmon
+fufumon
+hippogriffomon
+lampmon
+quantumon
+plesiomon 
+abbadomon core
+hi-commandramon
+dobermon 
+shoutmon dx
+plotmon 
+snow goburimon
+magnamon 
+kabuterimon
+mega seadramon 
+kokuwamon 
+tokomon 
+eyesmon
+heavy leomon
+cherubimon  
+grandis kuwagamon
+xros up dorulumon )
+shademon 
+sorcerimon
+cerberumon: werewolf mode
+greymon + skull knightmon
+infermon
+gorimon
+jellymon
+metallicdramon
+don shoutmon
+gaogamon
+blitz greymon
+koromon
+dondokomon
+mach leomon
+terriermon
+chaos grimmon
+butterflamon
+harpymon
+calamaramon
+golem jiji kamemon
+lekismon
+holy angemon: priest mode
+ajatarmon
+pistmon
+mad leomon
+fusamon
+eosmon 
+justimon: accel arm
+jupitermon: wrath mode
+elecmon 
+lunamon
+bosamon
+cannondramon
+hydramon
+dinomon
+rust tyranomon
+zanbamon
+black war greymon 
+bombermon
+gomamon 
+achillesmon
+gammamon
+pulsemon
+noble pumpmon
+locomon
+tia ludomon
+shoutmon + jet sparrow
+cannonbeemon
+holy digitamamon
+chaos dukemon core
+dominimon
+jet silphymon
+death meramon
+avenge kidmon
+black megalo growmon
+weddinmon
+aegiochusmon
+orochimon
+bancho stingmon
+ofanimon 
+metal mamemon
+omega shoutmon 
+grandis kuwagamon honey mode
+earthdramon
+pyontomon
+helloogarmon
+coredramon 
+minotaurmon adult
+done devimon
+frogmon
+falcomon
+rasielmon
+stingmon
+tonosama mamemon
+fantomon
+cendrillmon
+gesomon
+mechanorimon
+duramon
+togemon
+pukamon
+clockmon
+bloom lordmon
+gaossmon
+polar bearmon
+culumon
+shoutmon + star sword
+aegiomon
+loogamon
+shamamon
+xros up opossummon 
+mervamon
+mamemon
+triceramon
+plotmon
+mephismon
+gigadramon
+dinotigermon
+gusokumon
+petermon
+ancient garurumon
+cardmon u2
+zanmetsumon
+ohakadamon
+deadly tuwarmon hell mode
+icemon
+regulumon
+upamon
+dorulumon
+jyureimon
+kita kitsunemon
+neptunemon
+agumon
+hackmon
+santa agumon
+catch mamemon
+stegomon
+xros up ballistamon 
+lamortmon
+amphimon
+thunderbirmon
+siesamon
+chaos piemon
+demon
+grand dracumon
+sand yanmamon
+hiyarimon
+marin angemon
+blue meramon
+goburimon
+sethmon wild mode
+firamon
+psychemon
+g-cutemon
+kakkinmon
+holydramon
+birdramon
+huankunmon
+kuramon
+metal greymon
+minidekachimon
+nefertimon 
+hover espimon
+voltobautamon
+nezhamon
+savior hackmon
+metal greymon  
+choromon
+butenmon
+opossummon
+galemon
+garurumon 
+kuzuhamon: miko mode
+chaosdramon 
+sinduramon
+goromon
+keramon 
+fairimon
+grey knightsmon
+snimon
+tortamon
+diablomon
+beelzebumon + starmons
+huanglongmon: ruin mode
+entmon
+shooting starmon
+alphamon ouryuken
+saint galgomon
+arkadimon ultimate
+andromon
+starmon 
+super dark knightmon
+king etemon
+etemon chaos
+keemon
+junkmon
+dot gaomon
+ofanimon core
+owlmon
+seadramon 
+meicrackmon: vicious mode
+lavogaritamon
+proganomon
+ghilliedhumon
+gargomon
+brigadramon
+demon 
+babydmon
+deadly tuwarmon
+rook chessmon 
+generamon
+pusumon
+mephismon 
+kangarumon
+arresterdramon
+chaosmon
+lilamon
+piyomon
+ponchomon
+pteromon
+shademon
+armagemon
+kenkimon
+chicomon
+footmon
+submarimon
+soloogarmon
+paledramon
+xiaomon
+loudmon
+ballistamon sr
+ginkakumon promote
+mercuremon
+gomamon
+pharaohmon
+alphamon
+trailmon worm
+maquinamon
+xros up tuwarmon 
+algomon 
+tocanmon
+griffomon
+ice devimon
+victory greymon
+tekkamon
+xv-mon
+mad leomon 
+cthyllamon
+wendimon
+togemogumon
+lighdramon
+death airdramon
+baboongamon
+babamon
+cho·hakkaimon
+rapidmon 
+laeus greymon
+digitamamon
+shine greymon: burst mode
+anomalocarimon 
+luminamon 
+allomon 
+bacomon
+z'd garurumon
+bibimon
+dorugoramon
+botamon
+zubamon
+cyberdramon 
+bakemon
+makuramon
+pegasmon 
+burgamon adult
+technodramon
+gottsumon 
+gold numemon ‎‎
+vamdemon 
+darcmon
+gladimon
+skull mammon
+mirage gaogamon
+orcamon
+bomber nanimon
+petitmon
+flare lizamon
+examon
+regulusmon
+bio spinomon
+wormmon
+fros velgrmon‎‎
+wanyamon
+mail birdramon
+patamon
+dot kamemon
+nise agumon hakase
+black guilmon
+black galgomon
+pteranomon 
+lilimon 
+golemon
+destromon
+rapidmon perfect
+solarmon
+scumon
+baluchimon
+greymon  
+death-x-mon
+chrysalimon
+nikkorimon
+yo!yo!mon
+etemon
+gigimon
+nyaromon
+hustle nanimon
+voltobautamon 
+zenimon
+popomon
+pandamon
+marin bullmon
+rosemon 
+ragnamon
+boarmon
+dorbickmon darkness mode 
+marin chimairamon
+duskmon
+omegamon
+loogarmon
+dorumon
+bushi agumon
+ancient sphinxmon
+delumon
+andiramon 
+otamamon 
+yukimi botamon
+ofanimon
+dorugamon
+baalmon 
+shoemon
+magnamon
+frozomon‎
+ebi burgamon
+xiangpengmon
+elecmon
+ancient volcamon
+zhuqiaomon
+beelzebumon 
+lynxmon
+chackmon
+giromon
+eyesmon: scatter mode
+lopmon
+dimetromon
+dinorexmon
+taomon 
+tobiumon
+cargodramon
+seahomon
+mojyamon
+xros up gumdramon 
+mega seadramon
+rampage greymon
+xuanwumon
+blitzmon
+gigantic numemon
+goatmon
+rasenmon
+jet mervamon
+metal fantomon
+ultimate chaosmon
+ancient wisemon
+slash angemon
+black gaogamon
+master tyranomon
+bishop chessmon 
+wingdramon
+agumon: burst mode
+flybeemon
+bitmon
+trailmon mole
+shivamon
+exo grimmon
+dot falcomon
+chaos seadramon
+black mach gaogamon
+strabimon
+heavy metaldramon
+were garurumon
+shoutmon x2 plus m
+xros up shoutmon 
+xros up arresterdramon 
+groundramon
+sethmon
+ballistamon mc
+arkadimon child
+rare raremon
+pico devimon
+tonosama gekomon
+amon
+dynasmon 
+trailmon buffalo
+sistermon blanc
+sagittarimon
+flamon
+shoutmon x5s
+sakumon
+kudamon
+metal etemon
+dracomon
+woodmon
+arkadimon super ultimate
+herakle kabuterimon 
+puyoyomon
+dark volumon
+hisyaryumon
+hagurumon
+tyilinmon
+dobermon
+shoutmon x4
+dorimon
+duftmon
+kodokugumon child
+dynasmon
+fladramon
+wizarmon 
+gottsumon
+luxmon
+sangomon
+shoutmon x3
+splashmon
+sangloupmon
+abbadomon
+sleipmon 
+baromon
+cardmon s2
+zurumon
+metal greymon: alterous mode
+imperialdramon: fighter mode
+imperialdramon: dragon mode
+chamblemon
+frimon
+bancho leomon
+sistermon noir 
+bao hackmon
+knight chessmon 
+holsmon
+waru seadramon
+shoutmon x3gm
+funbeemon
+toy agumon
+craniummon
+namakemon
+giga waru monzaemon
+pteranomon
+fugamon
+belphemon: rage mode
+pagumon
+chapmon
+ultimate brachimon
+mega muso knightmon
+iguneetmon
+mega black shoutmon x7
+dagomon
+renamon
+gizamon
+sleipmon: burst mode
+yuki agumon
+gogmamon
+raremon
+aegiochusmon: blue
+swimmon
+dijiangmon
+cannonbeemon 
+darkness bagramon
+junomon: hysteric mode
+astamon
+raiji ludomon
+plutomon 
+sakuteki monitamon
+arresterdramon: superior mode
+gawappamon
+insekimon
+lopmon 
+vritramon
+fluffymon
+bemmon
+puwamon
+venusmon
+gallantmon chaos mode
+bagramon
+queen chessmon
+ebemon 
+yuramon
+yuki agumon 
+zeke greymon
+tyrant kabuterimon
+death-x-dorugamon
+mummymon
+elizamon
+airdramon
+soulmon
+shakamon
+chimairamon
+grappu leomon
+chibi kiwimon
+ekakimon
+jiji shoutmon
+omegamon zwart defeat
+mihiramon
+publimon
+metal greymon + cyber launcher
+red v-dramon
+sephirothmon
+panbachimon
+mervamon wide hi-vision sword
+copymon
+floramon
+pidmon
+moon millenniumon
+agumon 
+crys paledramon
+death metal greymon
+hyokomon
+demon super ultimate
+runnermon
+trailmon angler
+aegiochusmon: green
+rhinomon
+karatuki numemon
+sagomon
+spinomon
+poromon
+galgomon
+daipenmon
+leafmon
+big ukkomon
+nidhoggmon
+tuwarmon
+imperialdramon: dragon mode 
+deltamon
+punkmon
+grand generamon
+chronomon holy mode
+kaiser leomon
+gummymon
+minervamon 
+ancient beatmon
+ragna lordmon
+kunemon
+cardmon s1
+karatenmon
+bullmon
+bubbmon
+agumon  
+cheer galmon
+tyumon
+cardmon r1
+olegmon
+gulfmon
+pipismon
+devimon
+bio lotusmon
+megidramon 
+dracumon
+pawn chessmon 
+great king scumon
+soundbirdmon
+chibimon
+impmon 
+ancient troiamon
+siriusmon
+ex-tyranomon
+raihimon
+sheepmon
+kyukimon
+numemon 
+blizzarmon
+were garurumon 
+kougamon
+potamon
+greymon
+cupimon
+torikara ballmon
+monitamon
+shurimon
+lucemon
+ankylomon
+peckmon
+tankdramon
+jesmon gx
+gattai ancient volcamon
+palmon
+parallelmon
+armadimon
+vamdemon
+rosemon: burst mode
+monimon
+moonmon
+angewomon
+gazimon
+black rapidmon
