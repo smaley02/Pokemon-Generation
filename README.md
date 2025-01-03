@@ -3,7 +3,7 @@
 This project explores the generation of Pokémon images using deep learning techniques, along with complementary components for type prediction and name generation. Below is an example of output from the trained diffusion model.
 
 <p align="center">
-  <img src="16_diffusion_sample.png" alt="Selected Results" width="500"/>
+  <img src="readme_imgs/16_diffusion_sample.png" alt="Selected Results" width="500"/>
 </p>
 
 ## Table of Contents
@@ -23,20 +23,20 @@ Additionally, LSTM is used name generation and a CNN for type prediction.
   - **GAN-based image generation for initial experiments**
       - My initial attempts utilized a Generative Adversarial Network (GAN) for image generation. I had no prior experience in deep learning (and minimal experience in machine learning) at this point. GANs are a pain to get working, and I am sure that my implementation, which is really just repurposed code from [Justin Kleiber's implementation](https://github.com/jkleiber/PokeGAN), did not properly address the complexities of the problem. The end results were quite poor, and left me considering potential next steps.
 <p align="center">
-  <img src="result-image-0108.png" alt="PokéGAN Output" width="300"/>
-  <img src="results.gif" alt="PokéGAN Animation" width="300"/>
+  <img src="readme_imgs/result-image-0108.png" alt="PokéGAN Output" width="300"/>
+  <img src="readme_imgs/results.gif" alt="PokéGAN Animation" width="300"/>
 </p>
 
   - **Diffusion model-based generation for enhanced results**
       - The failure of the GAN implementation led me to consider [improved-diffusion](https://github.com/openai/improved-diffusion). Diffusion based techniques have been proven as a superior method to GANs (https://arxiv.org/abs/2105.05233), and it seemed like a logical next step in this process. This model was trained for 3 weeks on a A100 GPU on 256x256 images, and the results were much better.
 <p align="center">
-  <img src="256_64_1710000.jpg" alt="Diffusion Results" width="500"/>
+  <img src="readme_imgs/256_64_1710000.jpg" alt="Diffusion Results" width="500"/>
 </p>
       
 ## Type Prediction:
   - Pokemon image-based type prediction has been tackled before. I encountered a lot of pain trying to get this component working. As of now, I don't think its adequete enough to be included, but I update this later. The following image is type-prediction on training images from the pokemon infinite fusion dataset. 
 <p align="center" style="background-color: white;">
-  <img src="type_prediction_samples.png" alt="type prediction results" width="500"/>
+  <img src="readme_imgs/type_prediction_samples.png" alt="type prediction results" width="500"/>
 </p>
     
 ## Name Generation:
