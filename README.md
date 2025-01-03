@@ -34,7 +34,7 @@ Additionally, LSTM is used name generation and a CNN for type prediction.
 </p>
       
 ## Type Prediction:
-  - Pokemon image-based type prediction has been tackled before. I encountered a lot of pain trying to get this component working. As of now, I don't think its adequete enough to be included, but I update this later. The following image is type-prediction on training images from the pokemon infinite fusion dataset. 
+  - Pokemon image-based type prediction has been tackled before. I encountered a lot of pain trying to get this component working. I achieved around ~50% validation accuracy, which I deemed as "good enough." Some Pokémon typing is relatively unintuitive, so I didn't worry about refining this part. The following image is type-prediction on images from the pokemon infinite fusion dataset. 
 <p align="center" style="background-color: white;">
   <img src="readme_imgs/type_prediction_samples.png" alt="type prediction results" width="500"/>
 </p>
