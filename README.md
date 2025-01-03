@@ -1,4 +1,4 @@
-# Pokémon Image Generation Repository
+# Pokémon Generation Repository
 
 This project explores the generation of Pokémon images using deep learning techniques, along with complementary components for type prediction and name generation. Below is an example of output from the trained diffusion model.
 
