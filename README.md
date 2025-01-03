@@ -1,6 +1,6 @@
 # Pokémon Generation Repository
 
-This project explores the generation of Pokémon images using deep learning techniques, along with complementary components for type prediction and name generation. Below is an example of output from the trained diffusion model.
+This project explores the generation of Pokémon images using deep learning techniques, along with complementary components for type prediction and name generation. Below is an example of output from the trained diffusion model. See all 900 generated fake Pokémon [here](https://smaley02.github.io/gallery.html).
 
 <p align="center">
   <img src="readme_imgs/16_diffusion_sample.png" alt="Selected Results" width="500"/>
